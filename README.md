@@ -28,7 +28,7 @@ A GitHub Action runs **4× every weekday and 1× on weekends**, saves new storie
 ## 🔎 Searching the archive (great for interview prep)
 
 ```bash
-git clone https://github.com/cathy1ee/news-spotter && cd news-spotter
+git clone https://github.com/cthrn012/news-spotter && cd news-spotter
 git pull                                              # get the latest news
 
 python3 news_spotter.py search nvidia
