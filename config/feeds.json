@@ -1,0 +1,22 @@
+[
+  {"source": "CNBC", "name": "Top News", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"},
+  {"source": "CNBC", "name": "Markets / Finance", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"},
+  {"source": "CNBC", "name": "Economy", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"},
+  {"source": "CNBC", "name": "Technology", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910"},
+  {"source": "CNBC", "name": "Politics", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113"},
+  {"source": "CNBC", "name": "World News", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362"},
+  {"source": "CNBC", "name": "Investing", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069"},
+  {"source": "CNBC", "name": "Earnings", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135"},
+  {"source": "MarketWatch", "name": "Top Stories", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"},
+  {"source": "MarketWatch", "name": "Market Pulse", "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse"},
+  {"source": "Wall Street Journal", "name": "Markets", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"},
+  {"source": "Wall Street Journal", "name": "World", "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"},
+  {"source": "Yahoo Finance", "name": "S&P 500 headlines", "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=%5EGSPC&region=US&lang=en-US"},
+  {"source": "New York Times", "name": "Business", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"},
+  {"source": "New York Times", "name": "Economy", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"},
+  {"source": "BBC", "name": "Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+  {"source": "Federal Reserve", "name": "Press Releases", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+  {"source": "Google News", "name": "Stock market", "url": "https://news.google.com/rss/search?q=stock+market+when:1d&hl=en-US&gl=US&ceid=US:en", "max_items": 30},
+  {"source": "Google News", "name": "AI stocks", "url": "https://news.google.com/rss/search?q=AI+stocks+when:1d&hl=en-US&gl=US&ceid=US:en", "max_items": 30},
+  {"source": "Google News", "name": "Geopolitics markets", "url": "https://news.google.com/rss/search?q=geopolitical+markets+when:1d&hl=en-US&gl=US&ceid=US:en", "max_items": 30}
+]
