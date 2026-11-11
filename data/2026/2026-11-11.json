@@ -1,0 +1,58 @@
+[
+ {
+  "id": "7290b0c33712",
+  "title": "Stock futures rise slightly as market tries to recover from Nvidia-led decline: Live updates",
+  "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-11T00:22:00Z",
+  "summary": "The Dow pulled back more than 150 points in regular trading, while the S&P 500 and Nasdaq Composite shed 0.4% and 0.7%, respectively.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "87a3474e76dd",
+  "title": "Robot vessels take on the dangerous work of mine hunting",
+  "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-11T00:19:13Z",
+  "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3c2a3cf3f5ed",
+  "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+  "url": "https://www.cnbc.com/2026/11/10/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-11T00:18:00Z",
+  "summary": "Stocks dropped Tuesday as Nvidia fell again and hot inflation revived traders' rate-hike fears. Tune in to CNBC Wednesday for CoreWeave CEO Michael Intrator.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "31fdbb7f324d",
+  "title": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
+  "url": "https://finance.yahoo.com/m/656fca57-9896-3dfb-96e8-e0af2bc227df/dow-jones-futures%3A-stock.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-11T00:07:54Z",
+  "summary": "The stock market fell Tuesday as Fed rate-hike fears sent Treasury yields soaring while Nvidia kept falling. Indexes did come off lows though. CoreWeave retreated late on results.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ }
+]

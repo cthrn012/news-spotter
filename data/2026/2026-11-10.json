@@ -1,5 +1,835 @@
 [
  {
+  "id": "b06ac7a6acd3",
+  "title": "Futures Rise, CoreWeave Jumps Late In Whipsaw Trade",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTlTdzEzVWY3aWRmTGY0QzNnQjlfNFdOMzhUSnRBVDBOWEd2azg0bEl6dl9jY3NWR29ILUwtT01MWExiLXdsa0dOT3M3TTZzTUNiY1gwWlp6MkFoeGtKUC1tYWdPanVhZ3VqSlNwT1dZVVhlSGJZS3J6UE9Bdm5JZWJLeURUTDNwTG43bF93cm0tTE9QZG1FXzhxNmlkM0FmbVJPM1pnRy1FUG9RT1E?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T23:47:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "d56066ffc373",
+  "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+  "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-10T23:46:35Z",
+  "summary": "\"The fact that this deal is on is bullish for tech and the AI trade,\" CNBC's Jim Cramer said Tuesday.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5efdc7312d3d",
+  "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
+  "url": "https://www.cnbc.com/2026/11/10/cramer-stocks-inflation-nvidia-anthropic.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-10T23:41:43Z",
+  "summary": "Investors shouldn't let mounting market risks overshadow the potential for a rebound, CNBC's Jim Cramer said Tuesday.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "647d6f6c0b46",
+  "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
+  "source": "Bloomberg.com",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T23:31:17Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b913f5db039e",
+  "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+  "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T23:16:15Z",
+  "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a4ac1ea0228e",
+  "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+  "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T23:11:34Z",
+  "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "bace3f8f83e8",
+  "title": "Anthropic could have largest IPO in Stock Market history",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYndHbDI3SFRidFNjNkUxMUtRSlNDLUpiblJjaGxzdVIxQ3YzVDRCWjVFcXdZTndFMV9zeEx2S21MRFJjOW9idkM2dVhsYmdGN3JMOFdORnZ3X0VUUl9EOGdOMGJPUGYtT1Q4aWd0YlluMWIxMTN4RkllODJsaUZRcU5ldmNlVGs0ZUpoMGo0NS1HODJiWi0xUTVn?oc=5",
+  "source": "wandtv.com",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T23:10:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ea82244c1a29",
+  "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
+  "url": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-10T22:58:31Z",
+  "summary": "The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan.",
+  "categories": [
+   "Politics & Policy",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "48674f891b2b",
+  "title": "5 Best AI-Powered Financial Stocks to Buy According to Analysts",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjMtenNybk84bmpjMTVPNXpIQi1hZFdTOGxxZXotdXdvNzBZN0VoOHpQV2ZIMVBvU2VtWkRySTg5UlZRTjZ3VU1iTXhXNXRfOS1SZE9leC1GaWRlWGEwdFlsbmpySUhySGxMVVZobFZQRFhpYnZLdEU2ZmtMa0NMcXhSMWpobmVEb2FtLUI5b21wUGRyTnc?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T22:52:18Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d68f526af6ae",
+  "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+  "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-10T22:52:15Z",
+  "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "34e6557bc845",
+  "title": "Stock Market Today, Nov. 10: Wall Street's Rally Hits a Roadblock as Hot Inflation Raises the Stakes for the Fed",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-wall-street-s-rally-hits-a-roadblock-as-hot-inflation-raises-the-stakes-for-the-fed/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:50:07Z",
+  "summary": "Yesterday's rebound lost momentum as rising Treasury yields and renewed inflation concerns weighed on stocks",
+  "categories": [
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "813ae07f2619",
+  "title": "Stock Market Today, Nov. 10: AMD Rises on Plan to Invest $2.5 Billion in Anthropic",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWU1akgxbWFPRHUtMDNPVW13dVRlaF93N1dSNTBzZDZEQ0hXRlhyay1MeGxFUTF6MFVCS2g0QUZpNVQ5LVQ3dHRwdzc0LWVFeEJrNjdRMVlITVVDMGFFN2dRMEluMXpreWxfVEV6b3J4RjZ3OTR2OC1xSmpFVEt1cFBKbTBDbHNybTVDZHJSMTJNRnZiRDByVFZOSG1lM0R4TExmVnVnLS1zRENkQXlGaUg3WDYtcXpNYXQ4U3FKeFU3V3FCVzlraExvdW11bTFkczlzUjkwc1dCZw?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T22:42:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "5c7bf252396a",
+  "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+  "url": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-10T22:37:00Z",
+  "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "66e0d9cd3639",
+  "title": "Stock Market Today, Nov. 10: Nvidia Stock Plunges 5.5% as CEO Scandal Overshadows Its Upcoming Earnings Report",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-nvidia-stock-plunges-5-5-as-ceo-scandal-overshadows-its-upcoming-earnings-report/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:35:02Z",
+  "summary": "Nvidia shares extended their sell-off as an investigation involving CEO Jensen Huang raised fresh concerns about corporate governance, leadership uncertainty, and the AI chipmaker's future.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "379eaf585ec5",
+  "title": "BofA downgrades Wix to underperform as AI coding tools threaten core growth",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1ZrdlA4TXJOaDlkZ2J2ME9UTkVfNEtJcHYwWGYxTGxHRFZVZWtKdU9XQWpCeEtLTE9qNWpJRTBfR3BHZ25IY3R3TzQyaTlvakVEdDk4VEpvUzJZZjZtcW9LX1Ria3dmQ0Y0bERlM19TTHdIRnREaGxjbExQeHR4NUFacGFiQ3pXTkRZQg?oc=5",
+  "source": "Yahoo Finance Singapore",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T22:34:05Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "55a9be8b9ff0",
+  "title": "Why Morgan Stanley Downgraded PDD Holdings (PDD)",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-downgraded-pdd-223358866.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:33:58Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Downgraded and PDD Holdings (NASDAQ:PDD) ranked 8th on this list. Wall Street has had a rough start to November. The Nasdaq Composite fell 5.52% on November 5, its steepest one-day drop in 19 months, and slid into a…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8d3f0b247d7d",
+  "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
+  "url": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-10T22:30:00Z",
+  "summary": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "af96115e82e5",
+  "title": "Nvidia Stock Just Lost 10% in 1 Day. Should You Buy It Before It Reports Earnings on Nov. 17?",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUVvTFBYdncwRE5SVUxHSmtBdkMySDRMQ1M0NUUwRnBQcURnQ2xsZ3Y0TU1wMTVKRElJSWJvMHBoNGUxSFdOSi1QY3hhQ3QtWXJkRENRWUMzNVpxMkJPQ1VGUWNxWFRneTI4TmxZSzdtUlpnenpkTWt3S2hIZ2dwWW9ySTZxRmVRck1neUFkWEtPc1NZ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T22:28:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d09a6de68658",
+  "title": "Only 2 Novembers Since 1950 Have Started Worse for the S&P 500 Than This One. Here's What Followed the Other Weak Starts.",
+  "url": "https://www.fool.com/investing/2026/11/10/only-2-novembers-since-1950-have-started-worse-for-the-s-and-p-500-than-this-one-here-s-what-followed-the-other-weak-starts/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:27:01Z",
+  "summary": "The eight weak starts before this one split evenly. What separated the winters that went badly?",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c4d512886e59",
+  "title": "The Stock Market Just Got Bad News on Inflation.",
+  "url": "https://www.fool.com/investing/2026/11/10/the-stock-market-just-got-bad-news-on-inflation/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:25:02Z",
+  "summary": "October inflation cooled, but not as much as Wall Street expected, and now investors have to take a half-point Fed hike in December more seriously. That could be a problem for an AI trade that already looks wobbly.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "139d08a5352d",
+  "title": "Stock Market Today, Nov. 10: Opendoor Shares Fall on CPI Data Despite Revenue Above $1 Billion",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-opendoor-shares-fall-on-cpi-data-despite-revenue-above-usd1-billion/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:24:36Z",
+  "summary": "Heavy trading pressured Opendoor as investors weighed the implications of rising consumer prices, today, Nov. 10, 2026.",
+  "categories": [
+   "Economy & Fed",
+   "Social & Consumer",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "21748780b84f",
+  "title": "DraftKings (DKNG) Management Called the Quarter “A Pivotal Moment.” Here’s Why Three Firms Downgraded It.",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/draftkings-dkng-management-called-quarter-222332663.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:23:32Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Downgraded and DraftKings (NASDAQ:DKNG) ranked 9th on this list. Wall Street has had a rough start to November. The Nasdaq Composite fell 5.52% on November 5, its steepest one-day drop in 19 months, and slid into a…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ae43d1511e5c",
+  "title": "Pan American Silver (PAAS) Had a Better Silver Quarter. Why Did TD Cowen Cut It?",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-paas-had-222329371.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:23:29Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Downgraded and Pan American Silver (NYSE:PAAS) ranked 7th on this list. Wall Street has had a rough start to November. The Nasdaq Composite fell 5.52% on November 5, its steepest one-day drop in 19 months, and slid into a…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "92cc7753041d",
+  "title": "Zillow’s CEO Sees “Durability.” Here’s Why KeyBanc’s Sergio Segura Still Downgraded Zillow (ZG)",
+  "url": "https://finance.yahoo.com/real-estate/articles/zillow-ceo-sees-durability-why-222312637.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:23:12Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Downgraded and Zillow Group (NASDAQ:ZG) ranked 6th on this list. Wall Street has had a rough start to November. The Nasdaq Composite fell 5.52% on November 5, its steepest one-day drop in 19 months, and slid into a…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f397596bbb44",
+  "title": "Why Did Aletheia Downgrade Nvidia (NVDA)?",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-aletheia-downgrade-nvidia-222303350.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:23:03Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Downgraded and Nvidia (NASDAQ:NVDA) ranked 10th on this list. Wall Street has had a rough start to November. The Nasdaq Composite fell 5.52% on November 5, its steepest one-day drop in 19 months, and slid into a correction,…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "342927936930",
+  "title": "5 Stocks Analysts Just Downgraded",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-just-downgraded-222254595.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:22:54Z",
+  "summary": "Wall Street has had a rough start to November. The Nasdaq Composite fell 5.52% on November 5, its steepest one-day drop in 19 months, and slid into a correction, more than 10% below its October 6 record close. The semiconductor index lost more than 12% that day, and about $3…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ef774cbc4d4d",
+  "title": "Citi’s Marc Van’t Sant Upgraded Rollins (ROL). Here’s the Problem Bulls Say Can Be Fixed",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/citi-marc-van-t-sant-222245757.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:22:45Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Upgraded and Rollins (NYSE:ROL) ranked 10th on this list. Wall Street spent last Thursday reminding investors how quickly a favorite theme can turn. Worries that Democratic midterm wins could bring tighter rules for…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "06871aef026a",
+  "title": "Redburn Says Its Cautious Airbnb (ABNB) Stance Was “Wrong Over The Past Year.” Here’s What Changed",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/redburn-says-cautious-airbnb-abnb-222237944.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:22:37Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Upgraded and Airbnb (NASDAQ:ABNB) ranked 9th on this list. Wall Street spent last Thursday reminding investors how quickly a favorite theme can turn. Worries that Democratic midterm wins could bring tighter rules for…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ada1e063274b",
+  "title": "Sanofi (SNY) Is Planning for a Patent Loss, Here’s Where Bulls Still See Opportunity",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/sanofi-sny-planning-patent-loss-222228191.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:22:28Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Upgraded and Sanofi (NASDAQ:SNY) ranked 8th on this list. Wall Street spent last Thursday reminding investors how quickly a favorite theme can turn. Worries that Democratic midterm wins could bring tighter rules for…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "12119f47f357",
+  "title": "Here’s What TD Cowen Sees in South Bow (SOBO) After Its Sharp Pullback",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-sees-south-bow-222210315.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:22:10Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Upgraded and South Bow (NYSE:SOBO) ranked 7th on this list. Wall Street spent last Thursday reminding investors how quickly a favorite theme can turn. Worries that Democratic midterm wins could bring tighter rules for…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4a545285bf0a",
+  "title": "Why JPMorgan Says SAP (SAP) Is “No Longer Priced For AI Disruption”",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-says-sap-sap-222205895.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:22:05Z",
+  "summary": "We just published a list of the 10 Stocks Analysts Just Upgraded and SAP (NYSE:SAP) ranked 6th on this list. Wall Street spent last Thursday reminding investors how quickly a favorite theme can turn. Worries that Democratic midterm wins could bring tighter rules for artificial…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "63003c13732f",
+  "title": "5 Stocks Analysts Just Upgraded",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-just-upgraded-222146322.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-10T22:21:46Z",
+  "summary": "Wall Street spent last Thursday reminding investors how quickly a favorite theme can turn. Worries that Democratic midterm wins could bring tighter rules for artificial intelligence and data centers sent technology stocks sharply lower. The damage spread well beyond the group…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1217c6cdee57",
+  "title": "The Overlooked AI Trade Hiding in a Beaten-Down Corner of the Market",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEh2Y0dtWU1zQUtyeDdkYmZsTUpvYVpld25TcGVQV3JuZUNqekV2Z1pSNlFIX3VFTlh6dHJpVHkxVi1pY3JWZTNRb2tmdXRPd3ItZnVxRTgxbjEyN2JpaV8temZYQW9wbEdaeXhXc1FZRTl5WkZoS2lXNjUxRnlQS1BpaGVzdmUxWEJHbHdacGc1LUVhUno1eWEtbmVKZw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T22:21:36Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "42597d710fdf",
+  "title": "Anthropic IPO could give AI stocks a needed spark",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WcnpXY25VdUZRMy1MdVlJczZxWVVsMXRTaE1JYU9xMkVPZ3VuV1E5QWt5Y0x4Yi1yWnZxOHRFRFdzTkNTNWRkam1RVTRmX0ZoYWxaenhwRWQtNE40U2FMZEljbzRxbUZReWF4OXdnYW1FNmts?oc=5",
+  "source": "Axios",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T22:07:25Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a538fa31bb51",
+  "title": "Stock Market Today, Nov. 10: CoreWeave Stock Edges Lower as a Multibillion-Dollar Question Looms Over Earnings",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenZ3VnBYZjZiTXd0WUU1ZTAzZzhsSHJodnpYcUEwbjZYQi1YbjVJNmItS090OTNPWXpXbGxKaTVGMjFtcXNQUHd5ZkR1Z05MVHEwN0VjeDA4dFlIdXF4R3FDQ2t5M1RFVDV6Z1pQUEhjZ1JIZklFNVBDUWJyZDVNcVJXVTh1NktOeldYUmpEVkhJUEJk?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T22:05:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d043679ed11b",
+  "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+  "url": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-10T22:05:00Z",
+  "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "95c0556e8ffa",
+  "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
+  "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-10T22:03:38Z",
+  "summary": "Nvidia planned to invest $10 billion in Anthropic alongside its initial public offering, the largest of the new financial commitments from several giants to the A.I. company.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "166e0f6b3816",
+  "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+  "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T22:01:52Z",
+  "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b6b86d124d0e",
+  "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+  "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T22:00:40Z",
+  "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1ecf2c1f4681",
+  "title": "Geopolitical shifts high on agenda at the Singapore FinTech Festival’s closed-door forum",
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOHNwcDN6aUVoY2wzZmJFUDZqLVVNOWhyTFh1Z2x2TkppSHRyOHV1WlpOTTQ5VVFzdlRDTUxuVURDRW5PQ2NENERCQ2hEZUZieUhrRkNrMEw3ZC1CQ3JVMG1QTWJJU2NzMFhWSHlTc1k1RmtscFY3RzJOeVZNYlZNT2VMTXN2Q3hhY2c1UEhlMldna1BFQVhPVkdPQklISHllYlpXRmdpb1NBNHBVNnVfRnh5bWUwR0lRQnVtam9Db3RwTnlDelBWVnM2NTVjajlVWDRXUG5TcnNpWlBvNlp4SmQySmx5dVBKOU1hbURBbURrZw?oc=5",
+  "source": "The Business Times",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-10T21:55:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "971ad588471d",
+  "title": "U.S. Stocks Slip on Inflation, AI Worries",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXg5OElsSk43aE5LclhWNmdybnZ4TXNaSzdRM2NKUnpGVVh5Y2FpdFlvejhrYklGa3VmM3hFYlFsWnBzSFZtVVBtMjFYeVRFRDFiU1U4dXRIYmF2aTZDWU1vWUlJUDM3Zk9VdEtKWnNsb2lDYzRUaFpLWU03YmN1cGdYMFktcmtCb3cw?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T21:54:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e3b3b6e6d1c8",
+  "title": "Stock Market Today, Nov. 10: Trade Desk Jumps After Q3 Results Show Revenue Topped Estimates",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZkp2U21BZmJFa2VGcl9LSlRNWW5RekI3TklGaVMyRTluMklNS05lOEFpREFLNVdIZTJYNVltTFJCTUhFZEtKalBYMXRMSWE3VFlPQldtOTI4QzhnaTQ2dVA2bDFJbGNkQldCSmNlRGx3QlNJZjVrbm5KVDhmcWNPWGZMaDFMNFhFc2pRUUFwNzhLdUdTWkNwckpoZTFRenRFTHlNNkxselJsbUUxR3lrWmFvWmdGeFRyQjMtbHBvYUkyVDZMN2FkazNDR29xaGppbWdRSXctMGxMck03Tmt4Y0ZFY2Q?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T21:52:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "4d81acf983c6",
+  "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+  "url": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T21:45:46Z",
+  "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e406afff14a1",
+  "title": "Homeowners tap equity as HELOC balances post biggest jump since 2005: New York Fed report",
+  "url": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T21:37:43Z",
+  "summary": "The rise in balances on HELOCs marks the 18th consecutive quarterly increase, according to a new report from the Federal Reserve Bank of New York.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a6eb50e5937f",
+  "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring",
+  "url": "https://www.cnbc.com/investingclub/2026/11/10/ge-vernova-sellers-have-it-all-wrong-plus-why-fed-rate-hike-odds-are-soaring.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T21:36:13Z",
+  "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "94c30375544f",
+  "title": "How the stock market has performed after Veterans Day over the past decade",
+  "url": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-10T21:29:00Z",
+  "summary": "The stock market is open Wednesday on Veterans Day, but not the bond market",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c80c79fe6bba",
+  "title": "US stock market close: Hot CPI leads to a selloff",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDRKSGVTQ1MxVTR5bF8wTzNGQ3Njb1F3RU9CSnZmYUVIQ19HS0Uzc2RZZHgzaVBBS0tkM2xEMnU3dTNlaFFYZk9mRnFrblNyUllYVEtRMGs2S1BhUXEtcUJidWtFaTNiNFJITC1hRklKdDVOUkVhY1ZhV0w3YWF2TzgyNjRPTDVWSFowT1VVSWFuN3RwNGl1QzNXRQ?oc=5",
+  "source": "investingLive",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T21:00:24Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "305428aed4cf",
+  "title": "AI-related demand, geopolitical risks could shape monetary policy stance: Fed's Bowman",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWVralBfWGtEQV9KVGFZbGtlSzNWUmNtaVBlcTVZa2pXeVNTUlp4R1ZWaVN5Q3Q3NU8zRGR3a0J6RE5GNl9YZDlzTWhkQzJaVlZJQ2FJRFZNd0xSLXJZMHNtSU9YNWt5d3J6U2l6S1dkSF84SWlGa19adjg3UWlIY2RLX0Y1T1M0X19Yd3dkU1VMb3prek1USW5RTUNpblc3Mks4bXVzUUMyX0sxTjNLUUxZeVBkU3dlVnFGUjh3?oc=5",
+  "source": "Seeking Alpha",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-10T21:00:00Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6b09a26b7dd2",
+  "title": "3 AI Stocks to Buy Now That Midterms Are Over",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVJjRTdMRG80M0g0YVlCaFBWb0FNQkNXcVJJaV9vdHNXdk9tX29pYlhiZU9EaS1CckZuQUdRN2FyN1JTRGZFQ2pteEV6N05NU1lBOHctNDhaWmlUNzhxNF9yc1FiU3h3b3NSbW90RzBZc3phazF3MUU3UHh1eDIzSlFQY0RrcWxhUmxNN2w4ek5Udw?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T20:51:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "43d57ee6ae9c",
+  "title": "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmRQc05FTEtYbm9hLUhzOHFESHo4UHlMX2Fwd2l3eTNscTdsTHp1SnF6RGNuMENybV93Z1BZeE03NTVobVF3OG9YUVlhNjI5SElLODdkSXBxNUwtOWlJczdNdmhtQ1N1cnhqcGpaNmlVdS1lNm12RXA3YXNUbDBETzk0UENTUExibVpUa3V5dWFNVGswNEJwaERZSkJodzI2c20wV3hTd2hELW1OOHFvU0JKaHRFYjFWMDEtOFg1WHI?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T20:49:33Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "07392ff37ff9",
+  "title": "If a Stock Market Crash Is Coming, This Is What Warren Buffett Says Investors Should Do",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGpMTlMwVDdnd0dIdXhyRFFFVXBIOUx6RmJaTnNPdFgtd0NSTzNfT1UtaGN1Z1cySUpkcHhoY3dMTmFQNHc5bEFmYkhaU3hWN1JpRkxVd0h4enlrVndxYUdETkJfQWJjeDY0OW5pZjBfQlE3Q3R3TXh6N2V6aF82eWduRlF5d0ZldXZPSFdHaloyYlI1TXFFeTlCOHNkZw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T20:22:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6b8676aae85b",
+  "title": "Prediction: Nov. 18 Will Be a Huge Day for the Stock Market",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWU0xYU9DckhqWVBtUTdIMmhHc3RPRHFDMlA1aXExSnl0Q3RLMFhUTU0tTm5obkhRWm9jU1JnaDU3SWk2b1VSY0xvTC13SzJiZXozczduQVJMdVRCNU1wcVl2NVRKRm9obVN1cHJBeXhVWUdmYWxZU3daOS1mNURjMUJCeXJYWEtZOEZsR3FuY1dUVC1MRlE?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T20:20:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cb792d0783a3",
+  "title": "Here's Where Investors Turned To As They Fled AI Stocks",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52N1F2M1Q1a2lGYUI0TS01UDBrYm5FNlhiYnRrWnpHV3JqeTRyMnF1Q1l3WHdDM0hLdnlNSGhicjZxbjVNMk1RUmR4VzVrSlZxc3NKbm9Ccl9PbHlSVld6THRGU2dIbnZUaGc1RjZhUzc?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T20:19:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2f94bca1d5ea",
+  "title": "Salesforce And 2 Other AI Stocks To Watch",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2hkZTJDeDUxWHFKNTdLQkYzNTV4clBFNlFXdXAwUGFST19UV29nZVNfOFM5cjJDQXR6R3RnN0xVS0dldktMRlZlOVYtb2RYalRjVEdxU2pRbDJkUmI1cnRMYUM0RXNuX1IySFIwYzZnTE9JaVdrVW9BdllvQTlXRTVodTQzb0JiNzBkSTlrOXRBY0hkdDUw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T20:10:26Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cfd647cb340b",
+  "title": "Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe",
+  "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-10T20:01:18Z",
+  "summary": "On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "556cd40ee336",
+  "title": "TSMC Is at the Center of an AI Boom That Flipped 25 Years of U.S. Trade. Is the Stock a Buy?",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWW44c1IzVl9jUE5sXzRiMktza2dPZm50NnBZa2I5Rm16SHB0dkpCSUp5YnEwRVdzVUV3ellDVlowUEg5YmZNUXFPNEdrUmpJRmpqMUE0OFZUQjRlVVpDSDRoRGNtTVM3bUUxNGo5Um1jTGZna25lWWRmMEU2WExibG95T2lESnNCcWh3QjdqMlZiYm5oUDRz?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T19:53:12Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "d8530ee65ead",
+  "title": "Traders bet on a pop for Anthropic's historic IPO",
+  "url": "https://www.cnbc.com/2026/11/10/traders-bet-on-a-pop-for-anthropics-historic-ipo.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T19:51:18Z",
+  "summary": "Perpetual futures traders see Anthropic popping on its IPO",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6afe62489814",
+  "title": "5 Best Tech Stocks That Pay Dividends",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaE9ISDdYaVFhVm5STWVENF8yR3pNM2daYWlfa2QxaGZqbHZ5SThpWW94a2xfR1l4NmhsdTJ0TFJmUmVMdG1KUm5HZ0E2SGprMnFNSTRrYUJ2T1ZwUEFPcFpRVUZwOENPdEVQYWdOT2ZVZGxXUWxnTnVqal9LdExoUFFaSm9SdkZBY09TcERWYWs?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T19:41:42Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "413ad23659f8",
+  "title": "Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around",
+  "url": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-10T19:40:41Z",
+  "summary": "In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man. We aren't prepared. Congress must act.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Politics & Policy",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "47a38f7c3db4",
+  "title": "Small caps have lagged large stocks in the past decade. Why Baron Capital sees a turnaround",
+  "url": "https://www.cnbc.com/2026/11/10/baron-capital-small-cap-stock-picks.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-10T19:23:25Z",
+  "summary": "The small-cap index Russell 2000 is up 13% in 2026, ahead of the S&P 500's nearly 10% advance in that time.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "65b89e907bb3",
+  "title": "3 AI Stocks With Revenue Growth Over 41%",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3ZFa05fN1Bvd09jdnhTdTl3RHFKb0MzQ2IyOW9vcHdoX3FrM3VQcXJKOXBXa2p2TXBmTm96Wk9TVjhNeExvN1IyXzZ5NFBBRGFCS0R5TG9TOS1xNlpCNEJuajR0bXBOQ2JXTFlPMmdpdHp4MkJaQURkU1V1M3N2MWZ6RVQ1M0R4eEJVbmxmQ2tsdEFL?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T19:13:30Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "69e0b208bb66",
   "title": "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjNTVExHOXNVMzNGNzBKQWdlUmYxVm8wYmF5cS1UOXRUNGdqeFlESThWUmt3T2gxeVVVTzYweW1XUG53YnlDVkROSG96U3JCV0lwcDd0bjBReEtsSWRONWVTQ3FsM3I0czFHT2drWDdYMUp1TWU1WDZmamZubXVaajRMV3d4VVRHUVNHSmhxb29lamh2OFBfWg?oc=5",
@@ -630,6 +1460,20 @@
   "good_news": false
  },
  {
+  "id": "4db6e92eb322",
+  "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOHZhYmNhZWVrNnlsNWpENXJtejAzaWpFY1U3UlRhNmp4cnllMXFYZ2dHcUhWOTJCcllWWDh3ejBreF96eElzTU52N2otWGpRRGJEV3hMVEtob2JuVWZvam1OR1cyYXlpeTMyOVNTaHBHLWJTN0Y1TlExUjVsNHdaT0V5WVNVeVY3YXdpT2dPS2JXZ2dZaDlReGVIeFdWUU51VDVQX05FZk1FTjdCdVBBX3RvSkdsd9IBuwFBVV95cUxPOFgxdTRMYy1YWWtuWkMwdnRMNl9LRW0wNGhsSXZEUzdWbTNJU0lScHhkXzVJSVpSTFpSdllYWk1SMENQUlc4ek1VOTBlLVFDcW1JaUdXaC1yWlZ4UkZkZmdzWGdrR19wMy1rRFE2U0JMdFpOWTJ1ZVdsdkpJUldqM0JYcTdGSXB5OE5GY2J2SmFRWXdCY0F2aXFOOXFSNWJVUW5la0VfcG1YQUpsQUkyTU9yT3hDUTY2cjRZ?oc=5",
+  "source": "Al Jazeera",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-10T17:38:44Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "cd79440f3367",
   "title": "AMD and Coherent: What the Biggest Gainers Since the Midterms Selloff Say About the AI Trade",
   "url": "https://finance.yahoo.com/m/37a6550e-2e90-3167-ab42-b09bffc0e624/amd-and-coherent%3A-what-the.html?.tsrc=rss",
@@ -819,6 +1663,20 @@
   "categories": [
    "Economy & Fed",
    "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3b66c8db2ba5",
+  "title": "AI News: Artificial Intelligence Trends And Top AI Stocks To Watch",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTVTWnJlZkpsVU9ZV0g1WHdKQVBKOFFvcUpPeTJuMW9iT2FTMWI1N2hMYk1ud1cwQlBEVlJObDFVTnpoNnBhejJrZnVFelQ5V3NNRklrM2RlaHUtc2NsbmxWcVV1MWVzd082RUdTYmtJVW9MUmJRTG5sV1dJN3JCd1JNX2Z4VnZtV3VpbzdrNXdKNTVSc3FB?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T17:16:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
   ],
   "good_news": false
  },
@@ -1113,6 +1971,33 @@
   "feed": "CNBC · Top News",
   "published": "2026-11-10T15:42:00Z",
   "summary": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5779076d2b5d",
+  "title": "Oil and natural gas diverge as geopolitical risks ease and winter demand increases",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV2ExNlZMbjZCcVJYejdSOGdycXZERnE2SDJfajdJUjhNa3NJaU5YWXpSbGRUUnI0TDZNZVR3M3BBM2ZUVC1rUFFFOFdTQTRRdXN4WDdaclhQZWFwMG1id2U2ZUJxZk54Y3hXU18zTURJMF83Mkg1Z1I3el9YT0ZDRGRiVmRNanJjRmZNUjVacFBKS2JfSnJ5UE1RWUVsSk9Vd0d4dlk1cUhYSU51QnpoQzZMWnYxa0xw?oc=5",
+  "source": "Capital.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-10T15:40:25Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fad12297f797",
+  "title": "‘Baby Berkshire’ Portfolio: 10 Best AI Stocks to Buy According to Warren Buffett Disciple Tom Gayner",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcThDYXV6T3FFWm8yRnVIY2RWbnNINDdOOTMwMmtXU3Q4ZW81c0JHaUpOSi1jZnJkMGZtZDNnVEZyWTA0R1VuYjNrLVNlZGJHSU1aN0NKeGRnTFpvalBHbFVkVDNaQVEwOXNLc2NtOUFOQWp1WWRFcjBWaHNUY0gzR2FQUlhlalJQQWVCUnE0S2VSZ2dubF90MW1lcFRBUQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-10T15:29:42Z",
+  "summary": "",
   "categories": [
    "AI & Tech",
    "Markets & Earnings"
@@ -1915,6 +2800,19 @@
   "good_news": false
  },
  {
+  "id": "1222be9f7c2c",
+  "title": "SEE TOP 100 biggest losers in 2025: Geopolitical tensions, rising costs weigh",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkpFRFFpY2RfMlJvVHlPczFjMnVad0QyMW9zQ0FRSnExam01d1FyZ2p4djNuTkVOelR1a3YtNkdhT3RDcEpzaVZUaGR0QjdTcVdGeWpIRGJCdzNaVDdkRGxWUjVydE1WWjB1RS1OdElhbFF1WUl3YmtiWDZ0R3RDYUZyWThOQnA2Q0J4eUtOYXR4T19fUm9GU2w1aDhpaUxkOWpveHhJa0hyYk5q?oc=5",
+  "source": "SeeNews",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-10T07:54:30Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "dc45ecb4d413",
   "title": "Crude Oil Market Update: Futures Curve Softens as Risk Premium Eases",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjl2YVloVmY2UDh1MGszMzU0d1VJR3dtSTVkc2lBRU90Z3NsWmxpYW52ekdyMDdxYTZGcXZLcGp1cVcwNXBwUFBVQVdqbG1acUpibF9DcVE5TGU5NzlUaG8zNXU5cVdWMGlxNndZaU9qQTVHYXI0ejh3T3Nnekp5ckRUb2VyckJGLURN?oc=5",
@@ -2158,6 +3056,20 @@
   "summary": "",
   "categories": [
    "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "52e940db9a3a",
+  "title": "With the geopolitical premium still intact and rate-hike expectations already priced in, what should investors watch for next in the U.S. dollar?",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVlzb2padWVCSjFTdGVCMEV5MG11aVF6VmoyQmhGTlRhdWJ2WnowbXlIN0hqQjVZSGQ0T21KNGRoZ1hxbU54MnFXQnR0TXlwUW1FMkUxU0ZKS05KbjZ2NTA5dFVZd3ViTV9ra1BUSno3WUhSSFNud3V5bUI1S2RBeHc2V1BObnNVM05UblF6YXgyNFowc3ZTVVUyY1d0Rlg0UjV0WjRFbVFzZ3pOTnZiV2hmcw?oc=5",
+  "source": "Moomoo",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-10T04:04:22Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
    "Markets & Earnings"
   ],
   "good_news": false
