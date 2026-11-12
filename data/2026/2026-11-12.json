@@ -1,5 +1,290 @@
 [
  {
+  "id": "48211099a88c",
+  "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTnBjdXlXUU91SGJZZnFCQ0Y3QkYzMzdtdE44UE9jbFVZWmdNeHAyaDhvTDZ1QkZPVVFBQkpYRWxjNEhSUDJxMkQ3d1YwOUt4ZFBfRHJaNTVvVGNBcmtZZmtCSWNycUlQWWJQcTkxMHQ5R1NOY1hjb0FXdFFxTjBJVXpPMEdLZm9OS2RtNmlHdURxLXVOMzd2WEVJZ0xHWkVnT2tfekNjZ20wcTVwSjJELVZMNTlsS0FDMHZ4QTNNZGJnWWg0Q2N2bXpLYjlaOE1uMGZkcUxxRGZESFQzSXA5MS0tdVJRT3FKRWNMVVJRSFpiSnN0QWNTTzRSQVVLY1VKYmFv?oc=5",
+  "source": "Griffin Daily News",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T05:00:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ac5a8ebf322a",
+  "title": "Economic stability entrenches as forex reserves surge — ZNCC",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGNNR1hudlJ0UGZ5LUswRUl1NzFpUW43ZjNHWjRwSl9SQlNiZHZaUEdvcVZlNl9tSXppMVdDU0RCWElPQUhNYzc3WGZaelEwWEswQVNlV0NoQzFrbHBIYnprRk90cGRjMWR0ck1TaHBrYklITHJaTDFDVDJUOHNRbE8tMU9LUTVUNkkwNnBCcVpWSldyZWlN?oc=5",
+  "source": "Herald.co.zw",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T04:59:10Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "818358bb43d3",
+  "title": "Schwab's Dividend ETF Pays About 3%. Here's What $5,000 in It Could Be Worth by 2030.",
+  "url": "https://www.fool.com/investing/2026/11/11/schwab-s-dividend-etf-pays-about-3-here-s-what-usd5-000-in-it-could-be-worth-by-2030/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T04:43:02Z",
+  "summary": "A 3% yield gives it a head start on an S&P 500 fund. Is that enough to stay ahead through 2030?",
+  "categories": [
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1651d90152fb",
+  "title": "Asia stocks hold up as Nvidia leadership crisis clouds AI trade",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-hold-nvidia-leadership-043951157.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T04:39:51Z",
+  "summary": "Investing.com -- Asian stocks held modest gains on Thursday as investors weighed resilient technology shares against fresh uncertainty over Nvidia’s leadership, after reports that its board was discussing the future of Chief Executive Jensen Huang.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8ff0a7ac6f58",
+  "title": "The Nasdaq Just Did Something For Just the 5th Time Ever. History Says This Could Happen Next.",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ08yOU1ENFc2MHFrbGsyanRocGM2RTNmSmh6dTdpaENjQVktY3dYbEEzNm9wcEl1dTdFOFdyLTd5Sk01V3E2dEFwWWV3YTZaMmpHRlAycGFKWndZQ25TdUZlVk1acGRxWVRKN1VMUGw4YVlmb1dKNkVza0JpUWFFWU5xS1ZvVzNFeENON0paUjhNR2t4WHhwLVlIaw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T04:20:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2965feb8b5ec",
+  "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+  "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-12T04:18:33Z",
+  "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fe15b1fb16dc",
+  "title": "Asian shares mostly slip as Nvidia's troubles weigh on AI stocks, despite a rally on Wall St | National News | 2news.com",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZS1mOGpOTmRVRFVxSU80dEhnNmJmZ2g0QTQxRDhyaHlrWHF6SDVKQnNJVUZjemk2MF8zSXZnOTBuQ0lDMHlvY29uVkJfcXYtVWpFMlBoVklfRTR6WXdFTFcycUNjWE9CcEY2aWZJN2ZnbWQzckxQajk3Q1lpejRVT0xHRzhadlFNemdYTzVVTVB2alJFNHMwY3NCYXQzUi1LVjVnVDFyV0tENnhyNVJSRlgyM1VHZF8tVzl0QktnYkc5M2gwazZoTWMtZC1CendwZWVmQTRLaHVqTXVGdko1TU0yUXM4bmpnZkE2RTFpSVlIOE9OaDNEVUpn?oc=5",
+  "source": "KTVN",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T04:11:25Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "f65986add7fd",
+  "title": "Dow Jones Futures Rise, Techs Fall As Nvidia May Oust CEO Huang After CoreWave Leads Rally",
+  "url": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures-rise%2C-techs.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T04:08:47Z",
+  "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will that spoil Wednesday's rally?",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "f1a623080549",
+  "title": "Relief rally for China AI stocks ahead as selloff was overdone: BofA",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORllSb3pfTV9pZmxabmNkMVQ5eXpBOTR1NWhHT3JpVDdqYnhhMUdfdVhjd2puenY5Mi0tNHJGX3BObnRhUlRZZ0RKN2k3M1E5ekhfUW8tN0Zfc3ZsUmg3cHMyRUFDczFrQ1NGZ1FsVE9oUl9TNS15TjBfYXVOY19oOUV6NTFySjN2Vk1ITGJaTHhmT2ZNR2ljUUNLaGxyOU11aVVxQVM2c24?oc=5",
+  "source": "CNBC",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T03:53:43Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "1e0ec35a6d4c",
+  "title": "Naver Corp Q3 profit falls 21% on AI, marketing spending",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmg1d3dsRS1zZ0NXNzdGM1VWOFdmdW85a0c5enF0SmQ3Q0pPeEFoRjJ6X3RENWVmVVZEY0NLMjduSi1tM2RHQ3hhbl9xb3lHOFpTN3lja3doQ28xd1FRTVg1TnotTUU1SzM3WlhGbkE1MFJpcHo0QnlkdVlsV2k3WkZfWUhoVEZfVFlJa0xxaHhzWTFm?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T03:51:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "dfbec83d3438",
+  "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+  "url": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T03:25:05Z",
+  "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "09ad41378273",
+  "title": "Warren Buffett Says His Favorite Holding Period Is Forever. A Secretary Who Paid $180 for 3 Shares in 1935 and Never Sold Died Worth $7 Million. Here’s What Her Rule Does for $600,000 in One Stock Today",
+  "url": "https://247wallst.com/investing/2026/11/11/warren-buffett-says-his-favorite-holding-period-is-forever-a-secretary-who-paid-180-for-3-shares-in-1935-and-never-sold-died-worth-7-million-heres-what-her-rule-does-for-600000-in-one-stock-to/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T03:23:00Z",
+  "summary": "Warren Buffett's favorite holding period is forever. Grace Groner, a secretary at Abbott, paid $180 for three shares in 1935, reinvested every dividend, never sold, and left Lake Forest College $7 million when she died at 100 in 2010. Here is what the splits did, what the…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a5377d52ae5c",
+  "title": "Dow, S&P 500, Nasdaq Futures Mixed As Tech Rebounds Despite Nvidia CEO Crisis: AMD, CSCO, AMAT In Focus",
+  "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-mixed-as-tech-rebounds-despite-nvidia-ceo-crisis-amd-csco-amat-in-focus/cNGzKh7R99W?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T03:15:12Z",
+  "summary": "Media reports suggest that Nvidia’s board is looking to replace CEO Jensen Huang after additional news indicated that he had an affair with a company executive.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "04cefd19bb32",
+  "title": "Geopolitical Risks Widen Energy and Carbon Gaps in Europe",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaXVxYTc2enh0alRZalNGWFhwb2hhc1pZS2FpbFBKUFZudGJXdDVESDRqcENRYll2RTZMT1pzMk05V1dQV3prTWJFOFZJNXdmY2dLcHJGd1doUjNFb29uU3A4T2N2VktRRGlyeDNZNDE2VHFXMFhTeExXbzA0RjhxNFI2bFgxTzZsaFE?oc=5",
+  "source": "Bioengineer.org",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T03:11:19Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b879dcb3e8bc",
+  "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+  "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-12T03:10:00Z",
+  "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7b9ea008ef79",
+  "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T03:02:03Z",
+  "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5067244c7b22",
+  "title": "Susquehanna Financial names its AI-era winners: 9 IT stocks to watch",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/susquehanna-financial-names-ai-era-025606869.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T02:56:06Z",
+  "summary": "Investing.com -- Susquehanna Financial Group sees opportunity in U.S.-listed IT services amid a rotation away from semiconductor stocks.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1353e321556b",
+  "title": "Warren Buffett’s 1991 Playbook Points The Path Forward As Nvidia Reportedly Prepares To Oust Jensen Huang. Buffett Said He Could Forgive Losses, But There Was One Thing He Would Be Ruthless About",
+  "url": "https://247wallst.com/investing/2026/11/11/warren-buffetts-1991-playbook-points-the-path-forward-as-nvidia-reportedly-prepares-to-oust-jensen-huang-buffett-said-he-could-forgive-losses-but-there-was-one-thing-he-would-be-ruthless-about/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T02:26:06Z",
+  "summary": "A board with no chair, no succession plan, and a CEO under fire. When Salomon Brothers hit a similar crisis in 1991, Warren Buffett stepped in with a strict rule. Nvidia's directors may need the same one.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "94e395142d7d",
+  "title": "Here's My Biggest Worry About Broadcom Stock. It Isn't Enough to Stop Me From Buying.",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWVyanpab3dEZG01Qy1IaktuT3VpRmdpV3pfNDF3b09lMGFsVUgzTDhrOTRocVJHNHdkRC13T1FLMkpMam1EZzJqaS0wSUg0ZC1CWnZMS0swanJHdG9OLWVmQ0JrXzd6dlRuT2VpaWNJd01OejVJR0FlZEtrUWtUVFRIa29DWG1ONU82U2s2dnhjRnNKMXNWUDhjYzQ4bDdh?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T02:13:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ad4bc6fa5c8c",
+  "title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T01:53:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d2a4de800923",
+  "title": "Oil falls over $1 on easing geopolitical fears and oversupply worries",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVNfOWE4dnhlMzA3cExiOE1nR0FNQXFJejNsQTExRExKTlVKNjNjcFRGMWQxMGNmYnNOWFdLaUp0OUo2SHFlNVoxMUo0Y21WazFhVmhZU1VxYlRuWVRfZEtiQ0NGWENEejFpMFRzaUtNbVV3TEhKUHp2aUc0SHJ2VkNzM1BHNU5VeGNNbnRldWZaZUFkTWdDNm9ibk5kQXlOQlRRWHRhdGk5ZEtPZjVjMjE1Q1BJaTZ1NmplRWJVSDlvRFBUQnc?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T01:52:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "c0228f203633",
   "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates",
   "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
@@ -9,6 +294,19 @@
   "summary": "All three of the major averages rallied on Wednesday, driven by gains in CoreWeave and a rebound in Nvidia.",
   "categories": [
    "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4a3a8863130c",
+  "title": "Why Azenta Stock Crushed it on Wednesday",
+  "url": "https://www.fool.com/investing/2026/11/11/why-azenta-stock-crushed-it-on-wednesday/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T01:43:19Z",
+  "summary": "Its final earnings report for fiscal 2026 was impressive.",
+  "categories": [
    "Markets & Earnings"
   ],
   "good_news": false
@@ -107,6 +405,19 @@
   "good_news": false
  },
  {
+  "id": "4018395c4dee",
+  "title": "3 Growth Stocks With Earnings Growth Over 20%",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzUzMWNtVS12cHZxbTcwbVBDZFZRanRVRmNBMFd2R1N0eFo5bmRVdHFCSW1lSGhrVjdkNFFUWnBHWkprT0xmNV91SEJhYWtTaGUzQmN3clRuZmIyS0FqckEyRHN6elM3RmRjaVZMLXpVTEs5aWdFYzVHYUFheXluSEFGSEIxZDZwWnlLTEJvaS1jSEZOdHpBUVlxUTQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T01:13:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "670f376c9e86",
   "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
   "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
@@ -128,6 +439,19 @@
   "feed": "New York Times · Business",
   "published": "2026-11-12T01:07:58Z",
   "summary": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7342e58d0f0f",
+  "title": "Nvidia Stock Tumbles. Jensen Huang Could Be Out Soon.",
+  "url": "https://finance.yahoo.com/m/3d72c4df-c159-3f9f-bf8f-967cb1e59a7f/nvidia-stock-tumbles.-jensen.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T01:06:00Z",
+  "summary": "The stock was down about 8% in after-hours trading.",
   "categories": [
    "AI & Tech"
   ],
