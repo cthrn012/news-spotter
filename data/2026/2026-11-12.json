@@ -1,5 +1,1692 @@
 [
  {
+  "id": "371308033881",
+  "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T19:28:47Z",
+  "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4e47f951ad26",
+  "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+  "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T19:19:40Z",
+  "summary": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "328245fb8418",
+  "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
+  "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T19:19:38Z",
+  "summary": "The president's son will no longer serve as an advisor at Kalshi.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d7d625e4e46c",
+  "title": "Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
+  "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-12T19:15:00Z",
+  "summary": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c12c9edf2a6f",
+  "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T19:14:14Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "27af8a12e5f5",
+  "title": "Is investor appetite for AI running out? Why Ranmore is turning to Asia",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0ZBTEtFeUhhODNSZEdmRXVONmk5WHlodkQ2Q09PNjEtMklub1JlMFU4WGRjak85UUhWNFRoVkJJdG1ncXotREJFSmdIR201Yi1Rb0RNUGJBdnhGM0hsem9aSFRNaEFnZTdBb3A4dk94by11S3pXdFc5anNfQWlGVHMwRkRMNnl5?oc=5",
+  "source": "Yahoo Finance Singapore",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T19:13:50Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e104afde8b41",
+  "title": "Geopolitical tensions keep upward pressure on Brent crude through persistent supply risk",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU3pHUkxWNmRuQVhnTHFGQ3A3ZE9FSy1uLUlpMUp6MnYyOG84dzdFajZHUmVmbTlXb2JtS1R4SnRLUmxjWFpFSko1QU9QMWx2MmlUMF9RemNxOERxWlgyLVN1WGJhTk1HbTJoUG5LRU85N05Fam5kN1ZUaTB3SUlNa2lYS3hiWGFzU0RQSmhILXgwczQ?oc=5",
+  "source": "Traders Union",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T19:09:25Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "15e18f58e252",
+  "title": "Wall Street claws back early losses after absorbing big swings for Nvidia's stock and oil prices",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYmZnTEZLWkZtXzlYOUlrOF92R1J5UEVTZGR5M3F3d3FwMXpRWDhuTFZKTW1ZYWF1T3hHeVB3ZW8wNWtBSlp2VVNlU1U3S1lnYmpNSjBYalhiU1J3bVlOYl9JY3dNSkxUcjg1OHJPLVBjZ1l3b1FYMm4wYVNuWDVVelc0SUs3UVBXa3dSMUtEcmUySXNzWDBHRXI0aUo4UkQzNWpyMl9ObjFSTXBpaU1xMlhZZlN2R2p2WjQ3bTJHSTN2LUZIemVfS0R6UHhaVmhrTEFhNEhPV0dVX2UzTkNtY2JKbEJmcTVodkZsSkoya3R1VlFHWFpBRUVBeFI5YjlXTGc?oc=5",
+  "source": "KTVN",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T19:07:42Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1ba52ba6ab37",
+  "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+  "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T19:05:25Z",
+  "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6e0a9a613845",
+  "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+  "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T19:04:21Z",
+  "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+  "categories": [
+   "Politics & Policy",
+   "Geopolitics"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "3b9e89cb89a2",
+  "title": "Nvidia live updates: Jensen Huang lawyers up, pressure builds after report of second affair",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T19:01:24Z",
+  "summary": "Nvidia CFO Colette Kress has been named interim CEO during the search for Huang’s replacement.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b2082106b0d4",
+  "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+  "url": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T19:00:12Z",
+  "summary": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9e440079b443",
+  "title": "Prediction: Nvidia's Plunging Stock Price Is the Beginning of a Broader Stock Market Crash. Here's What Warren Buffett Would Do.",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeVFEQTZ0V1pLR2M5Qm1LbFJQNEZwUnp3TmFSUEdsZWVtZkg2cEl3bURDdXA1NHg2M2YyUkttVWI3RktaTUNfTmQxR2h2cDg3MTFTRVRMSGY0eWNlck12N2NGUlgzX3FLempZVzl0X3JMWWNZX2tnN09HM1EtTXROUWwzM01qbU1Ud25HSUVjakhnSEpFNkhycE1xbTVVXzM0Wlg5ZHU1WUgtQU84TGNhdDBIeGNsb0F5emRqcm44aWtJcGNkeGF0N0c1YXY2eXhxWG1LOG5ZVS1BNHJoZXlxM05nWExkenNZMFg3NmZkNDkwcFVpTDZNY1ZQY3dSWUJ2UWJ3?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T19:00:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ae07e93979e9",
+  "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+  "url": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T18:54:11Z",
+  "summary": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "482115bd33f3",
+  "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+  "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T18:51:05Z",
+  "summary": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b54cf95e2cfc",
+  "title": "Update: US Equity Indexes Mixed After Nvidia CEO Resigns, Treasury Yields Soar",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-nvidia-185020214.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T18:50:20Z",
+  "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6008d60a924c",
+  "title": "The S&P 500 Is Hiding a Sneaky Risk. Here's How Investors Can Prepare for Potential Volatility.",
+  "url": "https://www.fool.com/investing/2026/11/12/sp-500-hiding-sneaky-risk-how-investors-prepare/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T18:50:00Z",
+  "summary": "There's more to this popular benchmark than meets the eye.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e7187f71af7e",
+  "title": "Despite one monumental scandal, Nvidia isn’t on track for a record stock market tumble. Here’s who didn’t fare so well",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVBKczBKdktzYVZoTkVBcy1UQmRtNDRUZmdjUDE4QzNrTkh0MEpQaUZmeEFnVi1mallzSkU5eEZsTFlOLWotUHpJcU9lZHNOR3p6ZjZneVI3QXhOcTN5Q0RIQm1JbXZkR2doOWM5MXRQVkt2NThmUENWWWNDcmY1bEo0MU05LXVFbkFSYUpFVUIzaExKZm16QkZwdzVZMlJvTkQzSg?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T18:48:32Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2921dd58fdf1",
+  "title": "Unions helped Democrats win big in 2026. Now they want action",
+  "url": "https://www.cnbc.com/2026/11/12/democrats-unions-midterms-2026.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T18:46:36Z",
+  "summary": "Unions spent millions of dollars and mobilized thousands of members to get out the vote for Democrats in the midterm election. Now they want to see action.",
+  "categories": [
+   "Politics & Policy",
+   "Social & Consumer"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "14870bec2883",
+  "title": "Stock Market Today: Dow Higher As Nvidia's Chief Exits; Texas Instruments Eyes Entry (Live Coverage)",
+  "url": "https://finance.yahoo.com/m/b961f164-91b1-38c0-a2e1-5ab20b01108e/stock-market-today%3A-dow.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T18:41:51Z",
+  "summary": "The Dow wavers Thursday on Trump's Iran comments as Nvidia stock plunges on the resignation of CEO Jensen Huang.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "177664ea8788",
+  "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+  "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T18:41:49Z",
+  "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6349e683fc0d",
+  "title": "U.S. inflation is already bad enough. It might get worse.",
+  "url": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-12T18:39:00Z",
+  "summary": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a65726aee100",
+  "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T18:36:43Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6ad6c9a2db1d",
+  "title": "Who is Colette Kress? Nvidia's finance chief steps in as interim CEO after Huang exit",
+  "url": "https://www.cnbc.com/2026/11/12/colette-kress-nvidia-cfo-interim-ceo-candidate.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-12T18:36:30Z",
+  "summary": "Colette Kress joined Nvidia in 2013 after nearly 25 years in finance roles at Cisco, Microsoft and other tech companies.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ca82d66df2f2",
+  "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T18:33:22Z",
+  "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "82ba770a292c",
+  "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+  "source": "Federal Reserve",
+  "feed": "Federal Reserve · Press Releases",
+  "published": "2026-11-12T18:30:00Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed",
+   "Social & Consumer"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "928e7ad34897",
+  "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
+  "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+  "source": "CNBC",
+  "feed": "CNBC · World News",
+  "published": "2026-11-12T18:27:19Z",
+  "summary": "Treasury yields rose as bond markets reopened for the first time since Tuesday following the Veterans Day holiday.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "393d4b9c7136",
+  "title": "Equities Rise Intraday Despite Nvidia Sell-Off Post CEO's Departure",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-despite-nvidia-182433809.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T18:24:33Z",
+  "summary": "US stocks edged higher intraday Thursday as markets seemed to shrug off a sell-off in Nvidia's (NVDA",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "6f5df5da9858",
+  "title": "IonQ Is Up 3% in a Week. Is Its “Industry Record” Guidance Really That Good?",
+  "url": "https://www.tikr.com/blog/ionq-is-up-15-in-a-week-is-its-industry-record-guidance-really-that-good?ref=yahoofinance&tlnk=yf-261112-w29cp4hq&.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T18:20:25Z",
+  "summary": "Key TakeawaysIonQ shares are up 3% in a week after third-quarter revenue rose 336% and it raised its 2026 guidance to $505-$515 million. Nearly half the quarter’s revenue came from a chip foundry IonQ bought in July, and rivals Rigetti and D-Wave rallied on IonQ’s numbers.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "bd256d1db850",
+  "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
+  "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T18:15:39Z",
+  "summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6c63d66c1dd3",
+  "title": "Stocks making the biggest moves Thursday: Nvidia, CoreWeave, Nebius, Yeti & more",
+  "url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T18:12:07Z",
+  "summary": "Follow along and CNBC highlights the biggest stock market moves of the day.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a3d887525c68",
+  "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+  "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T18:09:11Z",
+  "summary": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4b406f75f91c",
+  "title": "The bond market now has an even bigger fear than AI fallout",
+  "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-12T18:08:00Z",
+  "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "32b9ab741158",
+  "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUV3Mk1lS0V6YVlNMFBiTEQwdVlSU2Y4Y19XbndhRnl5RlJxV3lndDhXX1BCbGJycVdMdzBfRnRINTVEVFdfelg1SHVlcG5aV1F2Vnl6MFBxOGRGaE5xVXVlcG5PTHFoc3hmTi1HZzRCUC12NFh1RUYxc2FEa2FrNFVsWFB5SVY3MUcyTC0tSFhRNWlPX3Z2OA?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T18:06:03Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1dd8f2cf95ac",
+  "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
+  "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T18:05:44Z",
+  "summary": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7fcbd122ec2c",
+  "title": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-midday-nov-12-nvidia-ceo-resigns-amd-surges-as-wall-street-edges-higher/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T18:05:02Z",
+  "summary": "Stocks edged higher Thursday as strength in semiconductor shares helped support Wall Street, while gold prices tumbled.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "fc7bcb3f2310",
+  "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+  "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T18:04:05Z",
+  "summary": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "61b0e982d503",
+  "title": "CoreWeave stock sinks as resignation of Jensen Huang ripples through AI trade",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc3g4Ti1XTGN3NmZfTjFYZ3RtR2lhWTlTcnhuaFRIQXUxeWp2SmN1OXZQcHlzbWJwQ3EtT0ltc0hfaS00QjZKYWRnS3FmZDBwMG1wR3JvVDNXYnpaQ2NPTEdKZ2dyRlhCYWhJZ1NTWDl4amgzOFppaHlOWlFTY2p4Q2lGaDY5bGdLY0t5NWpqanhNLWZRNkhaVGx3UWozZzNlTmdybTFrSWY3eXFURC1pWkY0RXpyaUhDdE9ZUHI0UVBtckFFUWJCZUZseE1sRGZnYkU1elpYYmY?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T18:03:19Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "271e6c3a08e6",
+  "title": "Fermi Inc. Common Stock Q3 2026 Earnings Call Summary",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRGxvR0hJNjc3dkFkanlKSHAyM28xeGxRdkFyZEFqam1kRG8wX3pRaGFjVU9kNndLSVVvT3F3d3cyQzJ5NUlKVVhsbDNKUlNldDg4WExDOVp3UGNxYy1pZV9tM3lsWUJGeUdDbjRKZ0RBVmxyQmxvdXkySm8zekVjMGROZDlTQi1Eb0RzbmhsdmMzLU8z?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T18:00:27Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d0b920a022a3",
+  "title": "TG Stock Tumbles 19% As It Incurs Q3 Loss on Soft Construction Demand",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/tg-stock-tumbles-19-incurs-180000178.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T18:00:00Z",
+  "summary": "Tredegar's Q3 earnings per share turn negative due to lower aluminum shipments, weak films demand and higher input costs, while growing TSLOTS shipments and expected restructuring benefits offer growth opportunities.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8e878c343827",
+  "title": "The trillion-dollar mistake corporate America is making about retirement",
+  "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-12T17:59:00Z",
+  "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "dd0943fb06bc",
+  "title": "NI Holdings Posts Q3 Earnings on Strong Underwriting Results",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/ni-holdings-posts-q3-earnings-175900731.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T17:59:00Z",
+  "summary": "NODK's third-quarter 2026 earnings per share benefit from improved underwriting profitability and favorable reserve development, despite lower premiums and investment income.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "95a4709c7a2d",
+  "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+  "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T17:53:31Z",
+  "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0a83851a0658",
+  "title": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+  "url": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T17:50:59Z",
+  "summary": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "18c9123a98d8",
+  "title": "Europe's STOXX 600 pulls back from record high as investors weigh earnings, oil prices",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2lhYU41THN2eG9LQ3BhakNHMERZZEhUaG05elhtaVFsT3EwczI1QWxtM21uVGFEVUpYR2FkYnlUejJrYzUwRVdfR19SRXFQN1VuQmNmNXluOWVRNUNzdXlrSTRlekpJWDJETF80RTJ6a19VN1BNOFBKbThGYnBmWGdLSktleXdBZEtTMGNOYV9Rc1lVN01TNDhPVXJ6QkxtOGlUaG5FQm1TekNQU2VvV2JwSXhNdmdfT1l3?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T17:45:20Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "b8182560b025",
+  "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+  "source": "Federal Reserve",
+  "feed": "Federal Reserve · Press Releases",
+  "published": "2026-11-12T17:45:00Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8a85b24f7aa7",
+  "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+  "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-12T17:42:00Z",
+  "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a4da00f3e998",
+  "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T17:41:46Z",
+  "summary": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4adcecd39d3e",
+  "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+  "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T17:39:54Z",
+  "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2f23de574005",
+  "title": "Latam markets retreat as geopolitical risks, stronger dollar weigh",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemo1Tlg3UXVINEsyanVLU2RQQU1aS0RrWlVIOFBBY01aTkc2RlMxOW95ZGNZWHZ1amtrSTBqMnNfbklpYlE3QVRhUmZpRWhNc1p0ZFN0RVd5amRJZ3BNM0ZKLWJSdm9OMmlIZS1hMnFtaTF4OTQxTldpOUVUVldoSkgxcW01Yl8yNXNrWUdZZHVnemJOaXhMNm45Y2h1Sm52Sk5kX3ItanVKbEpfTi1kbkpFNzJCTVJUM2c?oc=5",
+  "source": "marketscreener.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T17:39:01Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "075bb67f5851",
+  "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+  "url": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-12T17:38:00Z",
+  "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "dfc7b8fa0167",
+  "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+  "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T17:37:36Z",
+  "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "452f7427d246",
+  "title": "Stephanie Link is getting out of Nvidia and buying this chipmaker instead",
+  "url": "https://www.cnbc.com/2026/11/12/stephanie-link-sold-nvidia-and-is-buying-this-chipmaker-instead.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T17:37:22Z",
+  "summary": "Investor Stephanie Link told CNBC on Thursday that she sold her shares of Nvidia and is scooping up Micron Technology instead.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a3d7f8c8ce86",
+  "title": "Strong Earnings and Favorable Valuation Drive The Manitowoc Company’s (MTW) Outperformance in Q3",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/strong-earnings-favorable-valuation-drive-173613537.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T17:36:13Z",
+  "summary": "Voya Investment Management, an investment management company, released its third-quarter 2026 investor letter for its “Voya MI Dynamic Small Cap Fund.” The letter can be downloaded here. U.S. equities posted modest gains in the third quarter, led particularly by large-cap…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5e2cb98decc5",
+  "title": "3 Unstoppable Dow Stocks to Buy in November and Hold for the Next Decade",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOREFDTXVITVFlY2czcGZ3a1FlbG9rRDN5Ui14VzBfbkRFclVnU1B6Rzk4Si1vMC01enNDZnR1ZVVHU1RFdnUzOXRZTFVQb1RXVG90NDJIb2pRM0dDSXpZcm9oS2FmbGE3UGpVTWRpRndUVWJSQWFwZW5WSERNN1NHVmJGWTBJRWFVSzRsaFlIRmFyRVNBc0lfZw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T17:35:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b871bba53e8e",
+  "title": "Tom Lee is buying the tech dip, says Nvidia CEO scandal not a thesis changer",
+  "url": "https://www.cnbc.com/2026/11/12/tom-lee-tech-dip-nvidia.html",
+  "source": "CNBC",
+  "feed": "CNBC · World News",
+  "published": "2026-11-12T17:34:01Z",
+  "summary": "\"We are sticking with the thesis that Technology stocks bottomed last week,\" the head of research at Fundstrat wrote.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a3f06443e2df",
+  "title": "Update: US Equity Indexes Shrug Off Turmoil at Nvidia as CEO Jensen Huang Resigns",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-shrug-off-173400993.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T17:34:00Z",
+  "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1b2d8eadc150",
+  "title": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+  "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T17:33:35Z",
+  "summary": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose personal relationships and sexual encounters got them in trouble.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a66a64fd5b22",
+  "title": "Buy Nvidia with 'both hands' because the valuation is at 'stupid' levels, says analyst Meeks",
+  "url": "https://www.cnbc.com/2026/11/12/buy-nvidia-with-both-hands-because-the-valuation-is-at-stupid-levels-says-analyst-meeks.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T17:33:05Z",
+  "summary": "The Freedom Capital head of technology research noted that the stock with Thursday's decline is trading at just 10 times fiscal 2028 earnings estimates from analysts.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5e115082a5c1",
+  "title": "Box (BOX) Rallies on Improved Revenue Outlook and Solid Results",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/box-box-rallies-solid-revenue-173141662.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-12T17:29:56Z",
+  "summary": "Voya Investment Management, an investment management company, released its third-quarter 2026 investor letter for its “Voya MI Dynamic Small Cap Fund.” The letter can be downloaded here. U.S. equities posted modest gains in the third quarter, led particularly by large-cap…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "dad6a0660695",
+  "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+  "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T17:26:06Z",
+  "summary": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6211a5ec8942",
+  "title": "Nvidia’s Jensen Huang Resigns. Is This Top AI Stock Still a Buy?",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjFCTWNWdWVYYktWWTNJSnQtcnlDSzlXZFNZWGNUOFZJb0N6alV5aXM0NXpLYjVTd2FoQzZuZ2d1eF9Pc3lMeEZxZlAzYXEzSHQtU2pGNUY1dFFOVVhjZVRPZVhjYXpySUFNSlBSWGRWdHZkdDFkdy1yeTVxaC04V0FFc0FqTmtjcmRDaTdJUTMtWE5Rc0lWQXdhLUEzZjFseDNmZjE4VEw?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T17:20:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a9272c3594c1",
+  "title": "Why bond king Jeffrey Gundlach is steering clear of the AI 'blast radius'",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMnJNcnQ2MDlrUWZ5V0JHYUdBUGhOdWd3ZW4tOWxScmhOZndzTFZEY3c3YUR3emo0Zzc1OEhpdVM5QUJ0Ni1ScnhXZURnbXVSUEZBQnFZMjlpMF9BWE5oODYxMnJKR0RjOHFWVDUtWU0weXQ4S3k4SEVmYXl5NktkU0JXY2NEVzNSNmEyODluNXpWM2ROZW0xaG5HTHdlUTVHVzZ0SGprcmhFOWVocS1OWnBBWW1iN3FycmtxZWVrVmhJQVE4VFJ3?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T17:17:58Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ec3480dead8d",
+  "title": "Wall St recovers as energy shares climb; Nvidia woes deepen",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T17:16:53Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "d132e8c75322",
+  "title": "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
+  "url": "https://www.cnbc.com/investingclub/2026/11/12/sitting-on-big-gains-in-nvidia-jim-cramers-advice-on-what-to-do-next.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T16:59:52Z",
+  "summary": "Cramer has been an Nvidia bull long before the generative AI boom.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "5e7698e61ba8",
+  "title": "S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNi11TUtmWkhpU3htU1hpMXhVTE9veDVjbzJWdjBqLXNKZ3hDTDZ0MjVjcVV4cTZWS0FjbmtiQTNjV0luNTh0WGg1SmZ3VEw5WkVtSHEyLXRRVVF6dHRWZlFnSEUtTXdCbEs3Tzk1VjFLWkFsbnJ5dlhWbVNpV3M1dGJtcmZaSVBHdm1nSEdXa0RQRGJIWWx6MFdCWTk1QzBBczc1ZUF0NA?oc=5",
+  "source": "Kitco",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T16:59:36Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a6d58986ed13",
+  "title": "Nvidia stock falls after Huang resigns, weighing on broader market",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVNwbUF0dnZ3TUV6OTl2cWE0clBuRE93ZEdlcjZxNjhlTWN6emg0ZlYwOUtIVmVMMlltc2dlbjhZOEstOXoxMDl5VDFON05QNFctSkw2TGI2VGdxT2d3eHZsSndTS054ZHZYZjZwM2RtNnFNN0k5a3pDR1luMUN4dl9aWUI?oc=5",
+  "source": "NBC News",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T16:56:41Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d40da981ee4d",
+  "title": "The Stock Market Is Surviving Nvidia’s Drop. Now Comes the Hard Part.",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR24xVXdIX1BsTUE0UGtwdkJwZS1WcmE0VUxyVWR3MXBDblFxcTk0TzRqcEFSVTRJbl9WVEh2bGRDN1NiT0dVc3otWUdNSWFKRXl0Mkg1dDZfVHZnMmctZ1ppM1h0VG1rQkJLVEs2WGVVdjF2Q3F2QlBtckxQNUUxV0wtemFnNWdUZ2dEZVExLUg2d0lobEE?oc=5",
+  "source": "Barron's",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T16:42:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4eedea552a40",
+  "title": "Alphabet vs. Broadcom: the best AI stocks for risk and reward",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDVQLTBZRE9CU051Z1N6NXVtQ2d2dlJJMW1DYmF0UXFBY0tVTWFfT3praUZYUjhCRWJON1F1R3I3Q3IzelZNbVFWekdhWEl4dXE1YTl4a3Vqa3l2M1ZlVmRLSFAwVjhZS2UzWlREVmlkNk5TeWtwdU1hRkk2MF9NZGp1QWtWRk1veEVfTnNSV3dONktjVHlVdg?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T16:38:18Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "87cb0c408a9c",
+  "title": "Trump says ‘we don’t need a deal with Iran’",
+  "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T16:36:23Z",
+  "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
+  "categories": [
+   "Politics & Policy",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4f0447842d83",
+  "title": "Nebius pares back 2026 revenue forecast on capacity delays, shares slump",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVRoTHBBUU1FdUNaczFGcWo3MVRBRGZaWndRSXQ3NG45WG03cW1YM1dqRzQ3N3Z6VHNQMjZjRmEzV3MwOU9PckpOM25TYWZMTDNNTXZSNjBidE4yaUFYMjhWOTlEUzZLdjJvZjZUN0I0cDYwbThQMS1CdjViaEdsVUwwZDcyMHhCWHVQUVliaEZ6N1lacFdPT29DeU9qemY2OWg1Qm1wdw?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T16:28:38Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6baae670e70b",
+  "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+  "source": "Federal Reserve",
+  "feed": "Federal Reserve · Press Releases",
+  "published": "2026-11-12T16:00:00Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0d016e098ea6",
+  "title": "Nvidia Punches a Hole in Bull Case for AI Stocks",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk51R2lDb091TUxXQ2Fkd3gyanlKUEk0SXc3a2wtbVVDZ2drYnNDNU1qOTRldEZodjg0MFhJWUZQeDRZdVh1cDBPY2c3Wmp1U252R3Y3UTNLZUJxQ3N6UkhYUlJaOVAxZWk0enRlcGV1WDMwVDZmam1Jc2VuQXRQQ3lJRzRvRmZXN2ZZdU5CNDZ4MFpOamNkdkxSM1MybDlPTk9raw?oc=5",
+  "source": "Bloomberg.com",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T15:59:23Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "10b75b4a637d",
+  "title": "Stock Market Today, November 12, 2026 : Nvidia Stock Tumbles After Jensen Huang Exit; AI Shares Face Leadership Shock",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYy1EdlpSVjJXS0pZQXdGQ0YzRzZlTVRQT1ZZeS1JODVZRDVMQjllQ0VweXdYOFF2SWlYdjlvcXAyQTYwVWVyV3U1R0tnVDQ1ZWxhY0U4ZGVRV1U2RkNwVE5uMUZhY01xMGFjN2xQSGF0M1J0T1ZSMlJHVDhxRTJSVURPMXRJdUExM0tGVkZNc0VoeVk4Q252R01BTTlNWUZhOU1RX0gwdlEwUUVLTFRSMDU1S2NIRzR0WVZNQmYyTTRtcVdpTnhiSHJfelNhS3hPNVNCOTZid2JDMmloRjVIVmtNbFR3REhjQ2xKMg?oc=5",
+  "source": "Eurasia Business News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T15:57:21Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e56b90cd7011",
+  "title": "Yankees President Randy Levine pushes college sports bill, discusses MLB labor negotiations",
+  "url": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T15:34:31Z",
+  "summary": "Yankees President Randy Levine discusses the Protect College Sports Act, and the state of MLB's labor negotiations.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c3d5ac8c4d01",
+  "title": "Geopolitical Strategist: Bitcoin Is The \"Third Way\" Between The Dollar And Yuan",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX09POWlJQXZlVGdQX0cyZ0N2cVpFZWNtVHFtRHJMandKSjhGdk5DNVdmbTNiUjFXeVZPMlkxaEFxT19EcGlfTTNGSmJKVmZMUE94bXhjbk5YS0FDLS1XenFBRHlnRkpuMEJ4dmhGQW1NVFlTdnBwSWtoTUliQklWOFFTbE9sZU02MU1UdUNzZ2FTVUpQVW94UlVhUVNtOElUSHVxLUJjV3VYQ0x2ckl2cQ?oc=5",
+  "source": "Bitcoin Magazine",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T15:30:05Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c7ac456244c8",
+  "title": "‘It had to happen’ — Jim Cramer on Jensen Huang’s resignation and future for Nvidia stock",
+  "url": "https://www.cnbc.com/investingclub/2026/11/12/it-had-to-happen-jim-cramer-on-the-resignation-of-nvidia-ceo-jensen-huang.html",
+  "source": "CNBC",
+  "feed": "CNBC · World News",
+  "published": "2026-11-12T15:25:49Z",
+  "summary": "\"There's way too much evidence,\" Jim said Thursday, moments after the news broke.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "bdbaced89941",
+  "title": "Stock Market Crash: What History Says Comes Next After the Market's Big Single-Day Dip.",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0ZjTUtUb0ctN0k2RlNhbllqVFhvZWw2SHg0OXhuNFY1dGxGVkdVLU51enVrVXV2Ql9SZWJsY0pNWXFodThjZmpfQURzNFpEQUM1Uzh6cVVoSUJRNWRKakFpbkQzcC1TblBFaEI2cWo2dEhhb2Q4aktIb3lndVFrdjRLakd4U0VyUlpPYWdNajBsbUxmNk9kOU4xRVg?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T15:23:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a3f252c0f8ae",
+  "title": "Watch live: Stock market reacts after Nvidia CEO Jensen Huang resigns",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnpEX25jaWRVOXBvWjJyUU1qRXpfYXF1a2RaMzRpUnhJUzVfSldKYjdIU2VUa3FQaWZ1ODFXODdnNl8xZk5YVTdFVFhCdkNCUXlvSThSOGNUdjQ2dkdiYVVCVldFdjhuQ1pjSUV6T1lOU19Db2tnLUR6cEp5d2ZRN1ZQbnE4SnozUEV6ZENLOHJiMXU2N2Rac1VHbnZIbXV0UXBxa25ETURUSDFhUUxtUw?oc=5",
+  "source": "NBC News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T15:13:46Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "679bb2233a26",
+  "title": "Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy",
+  "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T15:12:43Z",
+  "summary": "Nvidia’s ousted leader was a rhetorical and financial booster for investments that are driving economic growth.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "a020bde73133",
+  "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+  "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-12T15:10:32Z",
+  "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "bce5834c657e",
+  "title": "Critical materials: the new geopolitical battlefield",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORm53Q1dCeHNIaUZBM2ZCSW1CSkJQbjJwM2M0QjZlZGtTdnNPd09McVRNV0xxVW01Mk5MbDhNWWxiU0VOcFN1QzBBR0JBbUpHNjM4LWlhUmFEcjh0NVEyUWc2eHpRRERDQU9zWFZvX2wwaHlWZ1FUMGtENTJxQmpIR1NRaWNzeWN5Ny1qYkkzbUJhQ1JoM3phUGJlbHFiS3g0VDZ1LUNvWQ?oc=5",
+  "source": "marketscreener.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T15:09:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "98b2b6872777",
+  "title": "Stocks Slip as Nvidia Weakness Weighs on Chipmakers and AI Stocks",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVZQUi1sUmZUcU45TXQzNmlKT3UxbmdnYXBVZUJyYnRPYVN1U1BwTmhTQ3lOVVA2Sk9oU1RwX3RITDRJV3o4dHNmNXZ2NHA5czBJSTdFbGhPN2hucmpwcUxETVhJbEpFeEx6Y2g5eklMLUNyTERuX1RoZ3BySHJUS0Y1UklCSWZSbC1ORHV4Y0NZTHAxWTV4ak11QUt2TXcydDRKd0ZUbWdiRkNtS0E?oc=5",
+  "source": "Barchart.com",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T15:04:26Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "915f0da3f151",
+  "title": "Global AI stocks sink as Nvidia CEO's exit deepens sector concerns",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmlWRmdjbzV0cVkybG5EdlQ4ZDMxem4yRlhkNUxzLV9CMXdNbUdTdDFVVlRTV1pRY2xaVzJaUkE4Q3BQU3E4aXp3RnNPME1NeUNzQUtzakM3RVpVTGhVZUZ4bFY1dXVmQUl2b1lzMVJocDFXaGwzTzdqMlRXakY5bDliTzE2SjZtb3AwclZoN2JoYkJXVHRiaE9OSUI0WWpLS3puaWNMWHVGdw?oc=5",
+  "source": "Euronext Markets: Real-time Stock Market Data | live",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T15:04:15Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c852ee735162",
+  "title": "AI Stocks Face a 2028 Test After Chip Sell-Off",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR3NKYWNncDhwMmNsWE5CU1lRMEp2SXdZTWd1WkFuS3VFX2ZOVWJrbVJXUjFqWm5lcXU4djN1cUl4bVMwRFFIRC01TnFUd01wa2R2Z29aOW1wUThwcXNINHZjakNWR3lhelI2R2tOVXBuTTRWaXpnYkZ1aUp5SzNHZkxsLTJaTEU?oc=5",
+  "source": "ETF Database",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T15:01:49Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b076913b0ec0",
+  "title": "Oil prices rise as geopolitical risks offset rising crude output",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTRMclVYN05nVk1la2xKQTRKZW9tb1o4cTA0OXJVc0h4YlFzeGR6QWxoNGxLdzZRVGRrc00tamJsUW1QQU1Lb3MtSHpBb05NclE1YmVkQk1rbnpmTFBud2sxc2cydkFRM3dVSmNCUDlyRHkwYXBKQktjVURsYk1BblEtM2FZRWM?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T14:48:15Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "0dbcabf87960",
+  "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
+  "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T14:42:23Z",
+  "summary": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6ea23f667237",
+  "title": "Oil Gains after Early Drop as Geopolitical Risks Support Market",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlA1amlKQzYwUFRFbG56Q0tIZENOdXhfcjlKTGR5bFJRVVpxVmhaMnAzTmw2NW13c2ZXTmZ2Q0hBOGFRTzJLcGtKVkltenFEU3p3R0J1ekd6RUpLZnplN0RIck9HUGVRSmh2cEpYWXZqdlJMc1U5MExhRzBpYUc0Y1kxb25HS3J0cnpJYmFXM2VpQzlOd0tKWnU2QTd0N1FfZVlmMG1rMA?oc=5",
+  "source": "ASHARQ AL-AWSAT English",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T14:37:30Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "be6468c01e0c",
+  "title": "A drop for Nvidia’s stock weighs on the US market, while oil prices swing",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTaDVreXliSWxTTTN1NFVqOGZGWTR2S3N4ZXlrMmhlOW1yMGYwaFAyZHZlaE0xbWlHZ3Z2bVAySHdLWmw0dkYzbzZ1ZU01b1BnUmNfN3huamZsczNDZTZ2aHlwTU5XeWtKbmlPNk1xN2FXQ2ktMFAwOA?oc=5",
+  "source": "Los Angeles Daily News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T14:33:35Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "682ec3c27070",
+  "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum'",
+  "url": "https://www.cnbc.com/2026/11/12/amd-upgraded-because-it-will-benefit-from-nvidias-leadership-vacuum.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-12T14:31:37Z",
+  "summary": "AMD is likely to benefit as Nvidia stumbles after the resignation of Jensen Huang, its long-time CEO and co-founder, according to William Blair.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9bfe183a3a06",
+  "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
+  "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T14:23:52Z",
+  "summary": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9baa958fcc3c",
+  "title": "Qualcomm CEO on tech stock meltdown: 'There is no AI correction' for us",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlI5UWRXei1OUkJWZ0xoaFlJREh4bzRSSnJydWZKUnRVOGFWcEVEV3NTSFJTcTc3MjdpUXhHZXJoRkV5TS1CREU1U1pPMUUzY3pCRS1UX1VZNGNLWmxuZWFfdnNUX1lodkRSNldBeEhXelNOeGEwamNPTUVMbjNmT1F0czBrc1VsXzI1MnBqb0NlTlQzZGR5YmNqZ2tJS0NhdVdTX2IyMXI4RjRkX1VPSTY1a3A0RmhYMW1WWlFRcFNLbzM3TVhN?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T14:21:55Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "45902e2cdeb0",
+  "title": "Nvidia stock tumbles as CEO Jensen Huang steps down, dragging down other AI names",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlcxMGw2ZjlXTThMWHdjWmJyRVloWUl4eVEwMWZ2M1NSdThQLUZ4YXd5RUNZdllfSkdaY1dJamE0SEFNLXZjRE0xcHFLQUpzSW0zWlBTYWIyZnBHZnBSenZOeDVWNWEwY2hyR0JOR0JLT1FEaXhzdnpoRk5Xai03Q1hPci03UHdZc3NLbzdWQVlJZkZGclp6Qno5b2lvSFd0bTNVbFpNQQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T14:21:16Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "879a52c9d9ab",
+  "title": "Gold steadies near $4,000 as traders weigh rates, geopolitics and safe-haven demand",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUJkSk9PdUFCMDdFVGE2ZDlJWXhHTXJzbThyN3RuS2xvV1lTNWtxY2YwOWFnT1RCM1pNVTJEaDdGQ3REUWZ5c2NMYlhYclJnbHB1YllvUzRrVG10Zjk5T3F1OXNCWGV2SXpyV2tKVndWb1c2VWxWWDZnQWo3WThxYjNCSVlfbEVBV3ZYbXM1S2pvMzI4azZnRjZlOWhhV1hwOFZ0TVphaFk2ZHljeDdXU0FEY21OWUVf?oc=5",
+  "source": "kalkine.ca",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T14:19:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b919e80e9908",
+  "title": "Nerves around Nvidia as investors await the outcome of Board's crisis CEO meeting",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-boards-crisis-meeting.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-12T14:15:00Z",
+  "summary": "Shares in Nvidia are back in the red in premarket trading as Huang's future hangs in the balance",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e2efaddbec39",
+  "title": "Trump trade chief Greer speaks with 'Squawk Box' as tariff threats rise",
+  "url": "https://www.cnbc.com/2026/11/12/jamieson-greer-trump-tariffs-election-nvidia.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-12T14:14:45Z",
+  "summary": "Trump's tariffs, which have ignited trade wars with multiple U.S. economic partners, will likely be a top target for Democrats once they take control of Congress.",
+  "categories": [
+   "Economy & Fed",
+   "Politics & Policy"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "3a7234e850d1",
+  "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+  "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+  "source": "CNBC",
+  "feed": "CNBC · Politics",
+  "published": "2026-11-12T13:59:30Z",
+  "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f46eeb9f1e12",
+  "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+  "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-12T13:27:09Z",
+  "summary": "The UK is seeing impressive growth, but will it last?",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6c0fcdb9a955",
+  "title": "Stock Market Today: Nasdaq, S&P 500 Slide as Nvidia Shares Plummet on News CEO Jensen Huang Is Stepping Down",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSk9Kd2tuSDBRYnl2SWJyS0dhTUw5UWd4Wkw2RHFTWTNDWDg1bUNwZG90VlVXV3ZRdng3WGkxS0lhYkROekJwQU5LU2g2MHNXY1YxOFJ1dGpZdVdOcXBMa3l4Y2RGVUNPc2cxNkdlZlBxUTJQMl9rbUlBS3JBb0MwSWdMN3I1T284dnhNN2hQejFfSWtZZHRN?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T13:18:05Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d798d2a36b2c",
+  "title": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
+  "url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T13:15:02Z",
+  "summary": "Medical bills can move onto credit cards and other borrowing, making the debt harder to track. Here's what consumers can check before financing care.",
+  "categories": [
+   "Social & Consumer"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "e599eb57e198",
+  "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
+  "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T13:14:39Z",
+  "summary": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "eec6b2599fa7",
+  "title": "Oil prices fall as rising crude output offsets geopolitical risks",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnp4cER2cUlqRlEtR3Zla2c3NmlFeHhlcjhWdjJuWUtPUFRfb3lubUpxa016TWhsakZOa0NEVW5DWGlMaFdIdC1KUklldVJLbUJKOE9sTU9zYWZncDVROXdSXzhId0luY1B4cmF3a1Nna0c1ZXNMbFBIaVZVbkZ0TTUxd2pDQm1qUUNGT1VjVjN0RlZlaTlrRG5DRXFPZ0dvVlpVRlFhTnV1VXVjcjNoOFYwaEhJMGQ2dS1kMGNrRmRMUVUxMktKalFn0gHPAUFVX3lxTE5QYy10OFIwel9vMmwwWkFDckIxUnNEbDJUaThxRDVwMjlVYlBRNFhwdlBrWjZ1OG42RDJwREdyeEVIaXIxX3ZYR2RlMlQtQlN6R2ZVVmpDWVdzMUNuZ1p1dFd3MmhZaldEWlB0bGZZTDcwYzB2RDJwQnktTDJ2aUIyMU5HdHFyWm1ES0M4VzZxZFhBT3UwVVFQOEtscHdZVVBJNG05RmFTcmlRNXNFYkdmTHpmb1E3d01DS29BVlltTjItQ1VSWDdCNDdrODBMaw?oc=5",
+  "source": "Business Standard",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T13:12:34Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "745823906f10",
+  "title": "Nvidia Leadership Crisis Drags on U.S. Stock Futures, Pressures AI Trade",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGkySm81VjBXcUpPR3dfMGVnRG1SYU80ekFpTTNPTVN1REhlV1JpblJPSE9FWGlHTm1EWk9GLW91N213ZjBQdUM1OXprWE82bEtXTVQtb2NwT1VvLS12dU5obVFHeVlNckVRaVNSUFVSalVVeW55SGh6d3ZBRkh5T0hULUdibklnZDgtZ1YwLVFOQWxmV0dlbEpRTGk4dw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T13:01:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "caadd1cf1302",
+  "title": "Here are Thursday's biggest analyst calls: Nvidia, SpaceX, AMD, Apple, Ulta, Disney & more",
+  "url": "https://www.cnbc.com/2026/11/12/big-wall-street-analyst-calls-thursday-like-nvidia.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-12T12:58:09Z",
+  "summary": "Here are the biggest calls on Wall Street on Thursday.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c47cddbcf095",
+  "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+  "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-12T12:56:27Z",
+  "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "54ef3de1c9d1",
+  "title": "3 Big Questions for the Stock Market If Huang Exits Nvidia",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcS1jWE1selRhZTFHNHMzREliMUFzbS12OEdsMGNVNDktczVGenVjdUstTEZjR09sYk1fdS1hUGpheF9EeTdpeGRrSlRLT2xERmtoX19SdFd2NXMwX1hCNzlxMkhjaDhtUDIxZnZ5NGstTzY2T285RE1PSTlBanVhTA?oc=5",
+  "source": "Barron's",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T12:44:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "75d85193bdb1",
+  "title": "TSX futures inch down as Nvidia turmoil dents AI sentiment; oil, gold decline",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUjV1NmhwN3pkREp3eTdIdVFnNC1iYWJyc2RabVBzb3V2RS1mY0ZaaHJKcmZBejFNclA5a1BVOFp6WkZjZl9iU1R1cUxTaVZFN25Hb1lLc3VJRzNHRGJHWk83SUlOSHVucDBxNW5Pb2R0dmNFdHdkTmJqcGR5MUExYldHb0l4UGZ2M2F0dXNXb19GX0dRMWpNZjRDUzhyN1lmRHprSk1BeU5XV0IxYWxPSWd3LWZ4c2ZsNE5qb1VXeDNHejg?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T12:26:50Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1d9af445aec4",
+  "title": "Forget Buying All 7 \"Magnificent Seven\" Stocks. Here's How to Rank 6 Top AI Stocks Right Now (Hint: It Has to Do With Anthropic.)",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOenpUODdOVU1JZzF6R1lublY4eUJ2VnFBRU5tVURFdVBqb2VBb0RISjJzRllWOVdjd01MSHpBVlhWcW80WEo2WlNHTy1JOUlXN0UyMmZsVURrQ1R5aTRSdFBRc05kY1h6NTJwaGdXY19SR3E1M3VUeDMzdmJhOXZBMERGWm5XUldFbEdNbjNUWFJvc1F4dDVPTU9xRU9VQQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T12:25:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "44087d608320",
+  "title": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
+  "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-12T12:03:39Z",
+  "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "66fa64e8f6a8",
+  "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+  "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-12T11:23:04Z",
+  "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "33beb03b6f0f",
+  "title": "UK economy grows at fastest rate for more than two years",
+  "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-12T11:20:25Z",
+  "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b09086ae3036",
+  "title": "Anthropic’s IPO Won’t Dramatically Alter the Stock Market, but It Will Increase Concentration",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzJKZVhVUktnb1FwVGdjMzJuSk8xeTNSYmI1WVU0LXA4TGp3c0VOVm5jcmRYeWVJd0R4RlAtRnFYTUxlYm5lVFdYeFVSY0ZJT2JwcERwZURaa3pJZDE5VmhRM2tEVXBuV1ZjU0pndldlNUU5LUt3eU5qaDlBbDlEbkdlVGRiUlQ3WURBZ2VmOWkwSVAzVE9YcjgzR0FmZi12dXRMeVdRU1VkSmstdnpOdHQ5SUQ4QXFJ?oc=5",
+  "source": "Morningstar",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-12T11:12:26Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "75cb3511b887",
+  "title": "Quality Stock ETFs Stand Out as AI Stocks Wobble",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43SXY3Y0RqNnlFU0ZsdGMzVE1ETUhEUkc5R09URUludGd3OVY2ZEY2U3piUU1iNldERE04V2JQQVMtTllRZjIyMXExU3Vfb3VISDRqYmtEZkRNQ1dPWGFCM3ZFZ0Vsb2lUWTJWc1NaelU?oc=5",
+  "source": "Barron's",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T11:00:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "017c33c27ebb",
+  "title": "Apple is the Best-Performing AI Stock in the “Magnificent Seven” This Year, and Alphabet is the Worst. Here’s the Better Buy for 2027.",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3d1NXljYU9aenBDSmhfcXVXb1FJRWVGU2p4Q2I5d3Z1bHZhVVpGTWpSWERwM1VkX0ZwUEw5Ym1kX1ZoZ0ZmTTNhdktFYlhHb3dNaDV1dnFkVFJYWl8wRFUtOHZyNTRsVXRYMF9aLXZvdDVzVlJrcDdaQnhRV0p6VXZhczZFX0hCdFVLMm01NURTU1hXMHRTZTNfRQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T10:30:01Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4f8a4ba4453e",
+  "title": "Dollar rally gains momentum as Nvidia and geopolitics keep markets on edge",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlFOZU95WG94UWFyQWhJNW9yeGVYUHJpVUk2aHFuS0o4TGctQjJQVWNVUUZvekRwZVdMRFZTay1WQVhVeVFfTDBCU09kVEkxNGRTeF9oQV9tSWNRRTFuamFpcmNBSzhrZTdvNV9ENXZMSk1Ea05UaG5wNXBKanFuakNGOE1IREw4NlhLZk02YWd6TjVCZjRqWVZzZFRBTEFWWml4MHJrVUh3blZvR2tqenY4dGhYVldnMjhoZFFR?oc=5",
+  "source": "FXStreet",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T09:01:49Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "c7d7a1f2cb8f",
+  "title": "Asia stocks slip as Nvidia turmoil clouds AI trade; China chipmakers rally",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEhYMU5Wc0tPZGhyZXU3Wnk3NVJlbWNmOVNBX281ZG16d2ZES3B2VHhsZnBXMWFxUHBRZ1dXNWpQYUw5bFFEdFNJTUQ0MTM1NVQ0WjdzeUlNUnlUVEF4c2szZVRPOXVtWjM4TVFUNHlra2xwSi1NSld5S3Y1Ung5LTRuWWlBY2FmcE1FMmhJdE9FX3dBZ1ZzSzBwWVM1MVFN?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T08:54:14Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "062ea0a51b5a",
+  "title": "ASEAN summit agenda highlights bloc's economic weight and geopolitical strains",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0UwNW5HV1ZKQlQtMGNVSDRyMmIxQjd6WExXMUJuV0VJQkRIOHFqSkRDWVl3UC1ESDBzd1QtWlI2Y3c2SUpKS0d4X2k2TmVEd2NZMndKTnZRSVRocTdWOV82SDVIMWtaZmRmMmlpY2YxeHd1M0dqazBpQm9rRTlhb3o4UHB0YTNaUVdjUi0zdUtWQ2xheFNlYk1UMA?oc=5",
+  "source": "Traders Union",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T08:41:37Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "66f02c4912ff",
+  "title": "AI is coming for consulting’s billable hours — and its graduate pipeline",
+  "url": "https://www.cnbc.com/2026/11/12/ai-consulting-billable-hours-graduate-hiring.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-12T08:20:56Z",
+  "summary": "AI is changing the consulting industry, forcing firms to rethink billable hours and the traditional graduate career ladder.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a5eef5fac0e0",
+  "title": "3 AI Stocks With Up To 30% Revenue Growth",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82YzcydVo4T2F3U20xam11WjZjNnBSWXhTVmt6Z3RPY1JQQ0JkQXVKNHFLTVlsN0l2Y0NJVnA1bHJJR2J4ZjFuYnhYTUxicm9nWWpnZ1pzZkhYQ1V5NHZXUnBCV19vWXdGSzd0bTRYc19pdF9iVy1ucUpxMA?oc=5",
+  "source": "Yahoo Finance Singapore",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T08:14:03Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "40c065b00680",
+  "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
+  "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+  "source": "CNBC",
+  "feed": "CNBC · Economy",
+  "published": "2026-11-12T08:02:15Z",
+  "summary": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "1c269dd9b3b6",
+  "title": "Easing Geopolitical Fears, Oversupply Worries Weaken Oil Prices |",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlVzRTByVFJhLXppUGc1ZzlZUmpOMmlaSlFISkxjQWFXdTgyN0lwQTBUdktrRThiYTBMZ3BISnllcnp6ajVUVUpReVFTUUl0UEMwMzBXUWI2Rm1ObWduWmc4YUdtTUF6VzdITDE1T0ptZ3hzeUhjVnY5RU1fcDFZQU1PMzNlMVdPNlRYZVd2UnlDdU90cE1KYjYwSQ?oc=5",
+  "source": "Business Post Nigeria",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-12T07:53:12Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8eecf18e838f",
+  "title": "Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit",
+  "url": "https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-12T07:50:34Z",
+  "summary": "The scandal engulfing Jensen Huang is fueling calls for tighter restrictions on China's access to advanced AI chips, just days before the Trump-Xi summit.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3ce081d2b68c",
+  "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+  "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+  "source": "CNBC",
+  "feed": "CNBC · Markets / Finance",
+  "published": "2026-11-12T07:28:48Z",
+  "summary": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cc50a062f03f",
+  "title": "Gas bills to rise as Middle East turmoil persists",
+  "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-12T06:15:36Z",
+  "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "857abf0f0424",
+  "title": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+  "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-12T05:45:05Z",
+  "summary": "Agile Robots plans to expand in the United States and increase production in Europe after raising funds in a round led by SoftBank.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "48211099a88c",
   "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street",
   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTnBjdXlXUU91SGJZZnFCQ0Y3QkYzMzdtdE44UE9jbFVZWmdNeHAyaDhvTDZ1QkZPVVFBQkpYRWxjNEhSUDJxMkQ3d1YwOUt4ZFBfRHJaNTVvVGNBcmtZZmtCSWNycUlQWWJQcTkxMHQ5R1NOY1hjb0FXdFFxTjBJVXpPMEdLZm9OS2RtNmlHdURxLXVOMzd2WEVJZ0xHWkVnT2tfekNjZ20wcTVwSjJELVZMNTlsS0FDMHZ4QTNNZGJnWWg0Q2N2bXpLYjlaOE1uMGZkcUxxRGZESFQzSXA5MS0tdVJRT3FKRWNMVVJRSFpiSnN0QWNTTzRSQVVLY1VKYmFv?oc=5",
@@ -80,6 +1767,20 @@
    "AI & Tech"
   ],
   "good_news": false
+ },
+ {
+  "id": "002d9489bee4",
+  "title": "Asian shares mostly slip as Nvidia's troubles weigh on AI stocks, despite a rally on Wall St",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0Z5TG1BYVRrbWV5QXBWZXZjUzllNmt5RDc3Y0JlaTg4SVBGUkV1UWhpYXZrOHU0TWZVQnZ0WHBqOHE5VUo3Nmwtd0pubzh4aW11QXF4MzV2SWJ1TW1OT0h0SkxQUU53bHJIcmNKcG1odFpWNkNzUENEeDJZOGUwVUNIeFQ2RnVacXZBSXAtcnV3dlVqWXdoNk1OdHZuUQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-12T04:18:11Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
  },
  {
   "id": "fe15b1fb16dc",
