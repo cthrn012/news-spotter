@@ -1,5 +1,32 @@
 [
  {
+  "id": "8ffedc80943d",
+  "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more",
+  "url": "https://www.cnbc.com/2026/11/15/caterpillar-buy-kevin-simpson.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-15T23:11:26Z",
+  "summary": "Caterpillar is an established business with exposure to the infrastructure needed to power AI and the broader economy.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b2fa6b946713",
+  "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+  "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-15T20:33:07Z",
+  "summary": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "be0f439fc3d0",
   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
   "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
