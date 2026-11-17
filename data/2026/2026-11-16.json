@@ -338,6 +338,19 @@
   "good_news": false
  },
  {
+  "id": "48097b5ac052",
+  "title": "Business Daily",
+  "url": "https://www.bbc.co.uk/sounds/play/w3ct8grt?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-16T21:30:00Z",
+  "summary": "Jensen Huang quit Nvidia, but the AI chip boom rolls on. What's changed is who's paying?",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
   "id": "b0c20f5a96b4",
   "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
   "url": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
