@@ -1,5 +1,930 @@
 [
  {
+  "id": "98567bb6fa0c",
+  "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+  "url": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-19T23:56:00Z",
+  "summary": "Retail investors showed up, but Anthropic has so far failed to provide a broad lift to the technology sector.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1eb7507f8cbe",
+  "title": "Gap names new Athleta CEO, lowers full-year guidance",
+  "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+  "source": "CNBC",
+  "feed": "CNBC · Earnings",
+  "published": "2026-11-19T23:54:20Z",
+  "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9d2a1bd9d903",
+  "title": "How did Anthropic's stock market debut unfold?",
+  "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-19T23:52:25Z",
+  "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "af0abc2030d6",
+  "title": "Lumentum CEO defends Marvell deal after stock plunge: 'We've got work to do' with shareholders",
+  "url": "https://www.cnbc.com/2026/11/19/lumentum-marvell-deal-ceo-shareholders-cramer.html",
+  "source": "CNBC",
+  "feed": "CNBC · World News",
+  "published": "2026-11-19T23:47:42Z",
+  "summary": "Lumentum CEO defended the planned Marvell merger despite stock sell-off.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a0c64e310a22",
+  "title": "The Semiconductor ETF Is on Track to Beat the S&P 500 for a 4th Straight Year. It Has Never Done That Before.",
+  "url": "https://www.fool.com/investing/2026/11/19/the-semiconductor-etf-is-on-track-to-beat-the-s-and-p-500-for-a-4th-straight-year-it-has-never-done-that-before/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T23:43:02Z",
+  "summary": "The last time this chip fund beat the market three years running, the fourth year cost it around a third of its value.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0130e69489b3",
+  "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
+  "url": "https://www.cnbc.com/2026/11/19/alphabet-stock-larry-williams-rally-signals.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-19T23:38:35Z",
+  "summary": "Jim Cramer said that veteran chartist Larry Williams sees bullish signals in Alphabet’s charts.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "89ade57d7147",
+  "title": "Anthropic makes stock market history with the largest debut of all time",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWWREbWc4NERHcjdPMkgydUYyenA4cWxQOS1pM28yaVNzYUlaNElfMnRzZW5iS0JmNmlTbk5ud0lCZm0tdHhDYVZmSEFPcDdya0xHaEJSUElUZmo0VGpiM3ZzYVBmU0dEaWpCS1p5UTFRRktabGVhcVBLN1lwaUNybzRzWExfSWtwOE0xS2JtVVQzRVAtQld2S0VKVFRadEVKcXRMSDJXRWxKS3JzbG5kbzVn?oc=5",
+  "source": "CBS News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T23:36:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "779c3aaa135e",
+  "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+  "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-19T23:33:51Z",
+  "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ce9fd7efc3bc",
+  "title": "Here's how big Anthropic’s record-setting IPO is: Visualization",
+  "url": "https://www.cnbc.com/2026/11/19/ant-stock-anthropic-record-setting-ipo.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-19T23:32:18Z",
+  "summary": "The AI company sold 930 million shares at $83 each, the biggest initial public offering on record.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "550fcd816750",
+  "title": "Why is the stock market down today? The Dow fell 1,101 points on November 19 as AI stocks slid",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbk1QQTNPYVRLRDZPbDF2RkRqVnMyRjl0RkJwVEJyNmczNU9tVmtoWmtZQjQwTkNLQzJlN0NaNjh3VHNEemhlWE5MTktHUlcwX3RkN2QwRGFIY1JlRGlFdzhWS08zNlV2a0pnRHR1NXkyLURUNUltRU5GekNmY0ZFMkNxY2hTWWZueElWTHJqX2x5aDJmdy1FZUpjWFdlN1ZUZ3VrZURPN0l5SmFyYTFPOHRaU1hVd1l6RHRBRA?oc=5",
+  "source": "Nacionale",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T23:27:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "552848e212e5",
+  "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+  "url": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-19T23:22:53Z",
+  "summary": "Jim Cramer warned that Nvidia's leadership crisis is overshadowing Anthropic's historic IPO.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "29f5330a732c",
+  "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+  "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-19T23:21:23Z",
+  "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "bb0bf5cc4814",
+  "title": "Cathie Wood sells $85 million of tumbling semiconductor stock",
+  "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-85-million-dollars-tumbling-semiconductor-stock-nvda-nvidia?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T23:17:00Z",
+  "summary": "Here are Cathie Wood’s latest moves.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cf0703ce68ed",
+  "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+  "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-19T23:11:00Z",
+  "summary": "All 11 sectors of the S&P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d7281206c4ed",
+  "title": "Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T23:05:02Z",
+  "summary": "Strong corporate earnings and a landmark IPO are providing pockets of optimism, but mounting interest rate and valuation concerns continue to undermine investor confidence.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "28fefe16dbf3",
+  "title": "California targets Nvidia in China AI chip probe",
+  "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-19T23:04:30Z",
+  "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8a7aed07c4cd",
+  "title": "Stock futures are flat after Dow closes below 50,000 for first time since June: Live updates",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxQks4bFpKT1BKX1dQYjkzSVJCQmxjcGhVZVJrQnJuNlkzZmlxekVXaW5zcHFiTldVekFkbUo1THRQbi1OZEphcDNEOUtGUDlXT3VVZTBod3VUMkJwLWNJV3FPcW4zdDROaWFFNTBDOXFNVjduZXN6WFJqSWnSAXxBVV95cUxQMUJLOGxaSk9QSl9XUGI5M0lSQkJsY3BoVWVSa0JybjZZM2ZpcXpFV2luc3BxYk5XVXpBZG1KNUx0UG4tTmRKYXAzRDlLRlA5V091VWUwaHd1VDJCcC1jSVdxT3FuM3Q0TmlhRTUwQzlxTVY3bmVzelhSaklp?oc=5",
+  "source": "CNBC",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T23:03:40Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a3351f0c42c0",
+  "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence — ANT, META, AAPL, GME In Focus",
+  "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-lower-as-anthropic-trading-debut-fails-to-provide-adequate-confidence/cNbio2mR90v?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T23:01:05Z",
+  "summary": "Anthropic closed its debut trading session 17% higher from its listing price of $83 a share.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b70d80933b07",
+  "title": "Stock Market Today, Nov. 19: CoreWeave Falls as Profit-Taking Follows Anthropic IPO Pricing Above Range",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-coreweave-falls-as-profit-taking-follows-anthropic-ipo-pricing-above-range/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:53:05Z",
+  "summary": "Heavy trading in CoreWeave shares came as investors weighed financing costs and demand for AI cloud capacity, today, Nov. 19, 2026.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "33d5f8d77f91",
+  "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+  "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-19T22:53:00Z",
+  "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a72f5aa17dbc",
+  "title": "Beyond The Anthropic IPO: Top AI Stocks For The Next Phase Of The Secular Bull",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1htYWhpRjV4Q0wxUU5jZzdRYXNwOUIxWFE2S2dBMmxzS2FYRlRkOTl3UnlXYUpEQ0tFQkVTbXBHdlQ1eC10Qy1MalpFWDU5dlNxWmxQMXdlSERLYThjTWZHeThMSHF2U3VHR0s4N2hEMG9STnFocUhLU3c2X3ltX0l6NTV6VlNGTmFFOFQ2RDJmWWx6VG8xak1Famw3aHBVYjA3bHhBczd4Mk9JSXBWMW9IendrdUp0dHc?oc=5",
+  "source": "Seeking Alpha",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T22:51:44Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c471b81e96b5",
+  "title": "$1 Million In Stocks And Bonds: Worth It?",
+  "url": "https://www.trefis.com/stock/voo/articles/626703/1-million-in-stocks-and-bonds-worth-it/2026-11-19?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:51:05Z",
+  "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "eebaee7243a8",
+  "title": "How Much Anthropic Are You About to Own?",
+  "url": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-19T22:46:06Z",
+  "summary": "See how much of the stock you may own through common index funds, like those found in retirement accounts.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9281a238e9ae",
+  "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
+  "url": "https://www.fool.com/investing/2026/11/19/this-beaten-down-semiconductor-stock-could-soar-in-2027/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:45:02Z",
+  "summary": "Broadcom’s custom AI chip business is booming, but the market is pricing the stock as if it isn’t.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2b8291cfea2f",
+  "title": "Judge Allows Trump’s $15 Billion Case Against The Times to Proceed",
+  "url": "https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-19T22:42:41Z",
+  "summary": "Mr. Trump accused the news organization and the book publisher Penguin Random House of disparaging his reputation as a successful businessman.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "573418eff796",
+  "title": "Is Johnson Controls Stock Engineered To Make You Money?",
+  "url": "https://www.trefis.com/stock/jci/articles/626792/is-johnson-controls-stock-engineered-to-make-you-money/2026-11-19?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:41:52Z",
+  "summary": "Today’s big story: Could Anthropic Stock Fall 25.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ae3cb2e1033c",
+  "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
+  "url": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-19T22:41:19Z",
+  "summary": "Gregory Jensen, a hedge-fund billionaire, invested early in Anthropic and OpenAI. But to fund a succession plan at his firm, he told colleagues that he sold his OpenAI stake.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6d068f9f6f65",
+  "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+  "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-19T22:41:00Z",
+  "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8ce5c1f42638",
+  "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
+  "url": "https://beincrypto.com/tech-stocks-bear-market-record-highs/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:40:39Z",
+  "summary": "Kobeissi Letter data shows 20 tech stocks down 25% to 76% from record highs as the S&P 500 sheds over $6 trillion.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "750772876908",
+  "title": "Hedge Funds are Dumping AI Stocks at a Record Pace. Where Is the Money Going?",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsSURMakRsRE15LVdXdjYwNjIwYkt5RVptM0duQmk5OFNSUEYyREFqTjY0RDNfb3JOdVBoclJyUjI4UFd3eWlKOE9VNTNnMzZMVWNSdmFZcnQ5S19oQkZ1ZVB3MHNVRlBxN20zRA?oc=5",
+  "source": "BeInCrypto",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T22:40:39Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3bcb7a100498",
+  "title": "Update: US Equity Indexes Sink as Widespread Sell-Off, Volatility Spike Mar Anthropic's Historic Debut on Nasdaq",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-sink-widespread-223941525.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:39:41Z",
+  "summary": "(Updates with index/price moves, macroeconomic data, and company/geopolitical news from the first pa",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3803cb063b36",
+  "title": "Why the Stock Market Fell Today: Dow Drops 1,100 Points",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVc2TzYwb004TVRaeWMzSGcyVElLMEZjd0ZZaEVObWxDQmZXejBfOE8wOVZwOWlLS09xdy1JNFVBX0I2RllyY2RVOXBqTEtnd2UwTkN4aUw4SWRPZkVUSlFQVGxSMDd0SEdWYmprN3hqRWtzXzZCZmdkTzhOZlVQVVIxelprbVpMeV9GODNXLU4tckdBa2RYY28tSjhoVkJienpz?oc=5",
+  "source": "Around Prague",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T22:35:40Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c23246af32da",
+  "title": "Jefferies Has Wall Street’s Highest Target on Eli Lilly (LLY). Why?",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-wall-street-highest-target-223346007.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:33:46Z",
+  "summary": "We just published a list of the Morgan Stanley’s Vintage Values 2027: 10 Stocks Analysts See Climbing Further and Eli Lilly (NYSE:LLY) ranked 10th on this list. Bloomberg reported on November 13, 2026, that one bank’s strategists expect the S&P 500 to reach 8,700 within 12…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9492de2cbdcb",
+  "title": "Two Deals and a Higher Target: UBS’s Call on McKesson (MCK)",
+  "url": "https://finance.yahoo.com/healthcare/articles/two-deals-higher-target-ubs-223331229.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:33:31Z",
+  "summary": "We just published a list of the Morgan Stanley’s Vintage Values 2027: 10 Stocks Analysts See Climbing Further and McKesson (NYSE:MCK) ranked 9th on this list. Bloomberg reported on November 13, 2026, that one bank’s strategists expect the S&P 500 to reach 8,700 within 12 months.…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cfe77a88ae01",
+  "title": "What Morgan Stanley Saw Before Raising Its Visa (V) Target",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-saw-raising-visa-223317532.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-19T22:33:17Z",
+  "summary": "We just published a list of the Morgan Stanley’s Vintage Values 2027: 10 Stocks Analysts See Climbing Further and Visa (NYSE:V) ranked 8th on this list. Bloomberg reported on November 13, 2026, that one bank’s strategists expect the S&P 500 to reach 8,700 within 12 months. They…",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6aaf59f72e86",
+  "title": "Anthropic IPO value surges in stock market debut",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhoTGRKVHhRajRPM2FlYWxxN1ZRWHdVaDBhZWJwdVRSY3c1bFIwdERacFNrbmNPR0lONm5LdGdVSFVub3pWTEctWHV6NEJaMjZnbWZBaHJiTU45WlBuMnI2Mm12VXJrVWpJWFlJTHpmWEdwLXR6b2F6NWpaUko3RmcyOXJJY0w3cEJjRnQxODhZc1JjaHdVQkN1R1E5SGFHMmhNR2h6ckFFRV9nTlJMZQ?oc=5",
+  "source": "CNN",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T22:28:14Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "843fbaaf5cd2",
+  "title": "The New York Times. . Anthropic began trading on Nasdaq on Thursday, becoming one of the world’s most valuable public companies. Its stock market debut comes amid concerns over economic disruption and the safety risks of A.I. Follow live updates. https:/",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjljRXg2R3NWR3VIYUJmekxHSWd2Um41Q1M2bFR1UmNqWHU1RGpsNDNnc1N5X1I1SjFOaklqNmJFdlR0eG1NYUg4UHF0Q3lMdjV5N2FRU2ZQcmxuVHJWQVdGUkxFMzZXamdYSkR1TG1BWFBTLW9Ca01sLUFrOG1Fd1JweVFlQ3N1emk5bGxkaDFER2hFNVNKRWt3Y01mc2RjOFRyeG9lNENzRWNqQUE?oc=5",
+  "source": "Facebook",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T22:25:52Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fec479877bbb",
+  "title": "Congress passes bill to protect older investors from financial fraud",
+  "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-19T22:23:29Z",
+  "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "36db338a65a7",
+  "title": "Nvidia vs. Intel: One AI Stock Is Worth the Drama, the Other Isn’t Worth the Wait, Says Investor",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2Y1dk9LNHBXLWpMa0hUcmUwT1JKVHZaeDA0RU1rNFJGUWx4aE44d2JDSWgwVDFaVHRGd3BNaG5ZZ3JBTmNXZENjTHZoMFdMalhVeXNCSjFZVEluYkdRMGdYV3Y5a1ljRlVyWndwZndvWnp5aXNUZmNrbEp0QW9MVTZvekZTRjhpUjlKWGRMSzY?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T22:20:36Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e0289d8e8412",
+  "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXFDQjFuLWxNV1h6NTZldmRBOVVFVm1Kc0VvdUxjZzZtYkhHcjFEMG9SWVJXS0RnVmJhd3lReGp4OHhtM1pQOUFxQklCMmlOWlRzaWlEUXBmT1JyQy0zUk5Ya2Vscnp6VGlod1BEUThjWkdJaUlGNl8zWUlhcmZ1bGd6Yw?oc=5",
+  "source": "The New York Times",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T22:17:42Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "025c16b31f9b",
+  "title": "AI giant Anthropic debuts on stock market in historic fashion",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTc5WTJGZ3lDemVfajdRV3A0SE9iTG93LTlDOUw2VWQtWFJBbzNtUUZKMkNDRURlSzgwYzJLZGdEN2VOQS1qSUEybXQ5ME5Hb0c1R2xxeVRscEc2ZXJYVWM2clRwNzFQSzJ2Z3htVktsMUthQ191T3MwRHZZMGV0U3QzMW96anViaE9LMGowRHJIVkhUQ0ljU01jT1pOTmFf?oc=5",
+  "source": "CBS News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T22:17:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6e3d452ff2d9",
+  "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+  "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-19T22:12:00Z",
+  "summary": "All four major U.S. stock indexes are now on pace for their worst week since President Trump’s “liberation day” tariffs of April 2025",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "9201ebd8de65",
+  "title": "U.S. Stocks Slide as AI Bust Continues Despite Anthropic IPO",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0gyWjhIVGZYS3A2TDJtbVdaZVJHdlo5Smt3RkhsMHJ2bUh6ZVlOLWE5cDhkV3hXcmFVZFRVTmgxdlJXQ3dLRWREYVljemhSVjkycmlFYzctSW44YlhybXNtOFNyYVVvMEw2bGFNSmFnMEJrd2xWMklDbHJ4RGNRNFVnX1VTNUR0QXA5V1BaRlo3Tmo2eUE3U2lCQko5c21rQVMxOGlB?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T22:04:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fff501074b11",
+  "title": "Stock Market Today, Nov. 19: Nvidia Slides as Investors Weigh CEO Transition Fallout Despite Strong Q3 Results",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHRFQXJvd0VTZFAtVzVJUF94ZE13ZjR0WGFHZzYySjJLM2VDSjRoTHM1OWFOMk03NHdyVDhDWV9yeEd4dHlKQ3VSd1pCNGxYU2w3TGF4VGNjcHVZQlE5RGI1RWd6djgtcUh4X3plb1JiaHJjVzhZakJyQTl1c0VaRGFNTjZpLWZhVTJwbzV0Yi1fbk8wSG1wQ3RMUnFaU2xGZERhRmcweXM3d292N1pKWWdmZFMwQzFsUHFMMkhoODhfd21OZWJNdVlvX2pBOVBlMm1kN3JZM3F4cDVETEt6cEhtcWI2WUx3dEZsWHZpVGFVOHp5YlI4QmI3YnE?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T22:00:25Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fe5680bdc601",
+  "title": "Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYUZ3Rm82c1V1TW1rd1lFUTRYM2s2LWJvSG44OWJOTHZ2UEkzNnkyT2ZPZjFES1FjclE0WWYyNkZlWm9DT25xTEIta1JzNzVXLU9ocVF4VVZ1VUVRWmhfQ3JKazNPUjY0M2lEa0lncE1PLS1uTGw4Nk9BdkRWdVk1aWQxT0RlTEVQUEhQT05GWktVYkl0Qk5RSGdWWkNmeEF1Q0JDZVhaQVM2VVk5d2ZmXzVtYXdxSWFPWHR4YWRZemo0Sk9HcFFxWWZrUGVBeS1DcjZnVkJxNzBGRnl6ODVyZ1BSSnByX2ZxM3dEX3BLaWVoZl9hb1VNMHVmOA?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T21:58:30Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "82bc8d59c2bd",
+  "title": "Markets are sending troubling signals about the state of the economy",
+  "url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-19T21:57:00Z",
+  "summary": "A number of recession trades have started to emerge, even as economic data has largely held up.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3793868227ae",
+  "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9maUJCTXFWclNjVEFUY3FpTDh0T3daWGk3NkZlS21KYzBqNXBDUlBuc1QtYWFtd0FROXcydXA5LU1ENnltNlFiLWJzUjhJZVFrc1FrV1FYeGUyUkpNUThfaFBsSjE4VkY1NG9ZVGxNZkg1WXpfY3hMWlRTVzFmdw?oc=5",
+  "source": "The Guardian",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T21:52:25Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "5434a843beb4",
+  "title": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS1MzMmUzRGpWYXlHWWRvTFVZVHFhTm5tNkhaZWlxaFdLeFktdW9mb3VINzZqUWZxSzNnVDdyTWlSdm13TkNvYzdaTDhRWF9OS1MxNFlJLWRHSmNwVU5oVWJob1BJZFItbnZINWJlODgwSGJleVdUYjNXM1BTNGUwS3FCY0xrdjljWUVIcTNxcTlhZVZnS1BJdFpoNkYzckFxbEF6Vk1uSjZ2SkVQdzM3cXNDYmtSbGlCSFpkSHhLdXpDWC1WUTdDYWdHNHd1ald5SzhxNUVoTmJldFIxb1lZamJGbEZ0cjRiaFFwanZQMEthamwzSTVud0RsVVVMdw?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T21:50:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b1ad1e4059ac",
+  "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+  "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-19T21:45:00Z",
+  "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "809d23d9ebce",
+  "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+  "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-19T21:40:31Z",
+  "summary": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1bfca6b73ac7",
+  "title": "Stocks plunge as investors take cover amid growing uncertainty",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZjFqa0hNX2pnT1d4RGRQWEhNTDl6djZzd2sxOFZhOWE3UnUyZFpxWk1NVzJrNnpGbS02bDctT2FLMUNNdzV2ZW9lMjVrM01ZRHpBNmpycjBJSVRVaWVPdGlyazkxQWJLal9BSHo1Zw?oc=5",
+  "source": "CBS News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T21:25:11Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "45347cac8379",
+  "title": "Anthropic IPO: AI Giant Rallies As Tech Stocks Slide",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43dEJ4ejMtNGsxc0xXMlpBN3hHdW9vcUV4aUVWUnpJdFBCek1iMG1VNHYyU3MtMTVoZ2licm1VODlJcE5HZGw2MFItNHBCb01wNUEwaHlCam8tYlBaelNmbVl5SVl6ZTBIV2tlQkhaQnVTUjZtTi00RkpMS3hRQlE?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T21:24:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "c7181b60313a",
+  "title": "US Tech Stocks Are Set to Rally as Anthropic IPO Boosts AI Trade",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVIyNnhmRkZ6eEo2Q2tmb3N1UU9vNkFIWnFveHZfRElvZlQ4c3pMSFJNeVYtMWxYY1ZLWTJCTWFkTVN6QmN2S3luOGVhUURQczU2ZmwwVmw3VlVUS2xYdlIwbUJiVEt3SXZkVXpSZW1DZDBHb01TcF82NWZULTZzMDRMcjJMaDhsOUpCZHZRUzEyVXloUlRZV2RleE5EZUV3RUJJWDFNaV8yLWxsY2tfR19tMFE?oc=5",
+  "source": "Bloomberg.com",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T21:18:45Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "1bdcebd862e9",
+  "title": "Anthropic IPO Live: Stock Closes Day At $97—Up More Than 17%",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY05tbXdPVUlQLUxjRkhYSmRXV1AxY1BGS1dELVJKOFd0ZklWcXpmdXBtNG5lX0JTZlRaZGNrYi1ZM0Utc3ctU3Fvc1F1SmJSbG5oUHRrZU9FclZDaUROd21lckNlVUE4ZVVEbGpwY0gtYnBJNV9yZng3ZmMxM3I0OGJtYmp5TkstQUV2RnlKcUZoSjAyVVdIUHV4RUszS3ZSX3c5eGlCLXBMREdUTUE?oc=5",
+  "source": "Forbes",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T21:08:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "407f9aee0119",
+  "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHRjdGpScDJXeWZMVER5aklNTTZQZVEzVGE1R0ktNTVEZW5aU283ajRXTGpBSGs0TjdTZHFha0ROamRxMDJiVC1YRFpkNXhNT3JlRDRCcVM3NG1LNUE0NGJUX1VqdzBPVkhxTElTTzl0bTI0eUxtQ0NJN2NQTEwyanFoNkZ0VGhhS2NSNlEwMGVhU1cxeERQcmZZNA?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T21:00:28Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "40ee94ce9fc8",
+  "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDZndHkyazEwZDlMRGlkZUZDeHJ2RWZlNWRMUVZsRjZFX0pEclVhNElua3dYUHBMS0FPMkEtY1lLaWlPMGkzZVV3dDBZUnRJUnVEdktLdFBMN09fbkZWZXhnOUNJMjNoeE5QR1FicTVOTnV6ZFhUMnRrbG5KVzZDZ3JhcWdsZmhLRDI1LXdPYVRxbFFlcTdmTEVwUXoxUQ?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T21:00:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "20575f7ee3e7",
+  "title": "Stock Market News - Bond Market - Currencies Markets",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSk1SMEVJUWVGN1RIVTEtSThObVFxbkFHTE9ySmdyRUx4NjJMNWsta3lOaFBOVFF5eUEtN0lVaXc5QlFiTEdiQVZYSQ?oc=5",
+  "source": "MarketWatch",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T20:55:46Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "30c5380425ed",
+  "title": "Daily Briefing: Fed Flags Risks From Hedge-Fund Leverage, AI Stocks and Private Credit",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWNTS0EzYkdSQjc2UmF6MGthZkQwTTlUcEt5WEJ1cWZXcVREMmprY1U4cFJ5a2piMjRaRHNuX29peVpyTHZkR084OFJsQ2U1SlVTcXhXaXUxYWdqblo2OTEtSEhWc0U1eUE1ZkRaX2ZjODUxeHFLU1kwbmNJbGZmVG1GZFFlUVdsR3lHbDhVQ3UzdEczcWkwaFFvQTZJM3VpX0ktbmQzTTV0RmtlZktQYlFyUHhBQnAyRFkxV2lrUVhVQkhDYXVF?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T20:53:52Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f6192d2ebb33",
+  "title": "US Stocks Are Predicted to Extend Their Historic Rally as Gains Moderate",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXJSam1KZ1d3Z2dsQlhYa19WRE9PWURGWEg4TDhsUXc4dmRmYzRPUTd1ZXZ6ZFA4dWVpMWxqSnBIOGZuRjVmOGY0VVk5a0xjVkgyVkRwWUtxbkdLRWhMTksxNW40VUp5aHdmNVlDN0hUWEFrQnJrRXZNSHVLazAzQTlmT0JqTmIzTndlNXhUYXJSSzFKZHZKQUFtU1FsNDBqYWZqMzQzVHEwUTNuOWc?oc=5",
+  "source": "Goldman Sachs",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T20:42:21Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "29267cfe4c23",
+  "title": "Why Is the US Stock Market Crashing Today? Dow Drops 1,000 Points Despite Anthropic IPO",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iQy1ONS05blpQMVlFOXg4VFdqQzVQbm1MNWgxUTM5WHpkWWlienZhUGRPLTJvRDFiWmQ2QmNHQ3lCVG1CYjNILXQ1V3BGbHNKTmNFaXcyVWN5c1o1cHBrNWF6YlJQSE9KT0FpU1F3NDVacnBMZ0pNQzkyYzM3QQ?oc=5",
+  "source": "Stocks Down Under",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-19T20:34:30Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cd6e0f8e0980",
+  "title": "Investors Dumping AI Stocks to Buy Into Anthropic Send Tech Shares Lower",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFNYN21fTE9wTk80YmxDNU96RlIzdnluRmtKMklDMVAxX1dEa1hGQzBNd1g2QUpBVUdLYVFLeVltUHR2b0MzSzJNMS1LX1VCU29NWm10TWQ0cTVncXdPbU5HLTZrVk9fODh0WDZkanl0UllHRW4zaFhsYU13bGl6WklFYTRjSEVTVjJsVnItTHZQWU5ST3AxVjItR3pTZG8tUW5WTjJLOEMtRXVkZDRRRWFDT0F6X0k?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T20:22:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4adcecd39d3e",
+  "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+  "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+  "source": "CNBC",
+  "feed": "CNBC · Economy",
+  "published": "2026-11-19T20:21:10Z",
+  "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c1e5edac8890",
+  "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+  "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+  "source": "CNBC",
+  "feed": "CNBC · Economy",
+  "published": "2026-11-19T20:18:47Z",
+  "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b6009c3ed79a",
+  "title": "Should You Invest in Anthropic? Here’s What to Consider.",
+  "url": "https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-19T20:16:19Z",
+  "summary": "Placing a meaningful portion of your wealth on a single stock is never a good idea, but if you feel tempted to invest, ask yourself several questions first.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1b8854af76e6",
+  "title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+  "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-19T20:10:21Z",
+  "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1a07c50e9971",
+  "title": "The close ties between Nvidia and Anthropic.",
+  "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/the-close-ties-between-nvidia-and-anthropic",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-19T20:02:33Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d45de7742bc1",
+  "title": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+  "source": "AP News",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T19:54:50Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9da92a3e4fe8",
+  "title": "Boom or Bubble? Understanding AI and the U.S. Economy",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHdwemMwTHVoTXF6OGM3d21tZ0Yzc1g3dXl6VkcwN2kyeHNsMWxKVXFaTUpfQ1k1QTNfMkhhRVhxVkNTMi1tTVpZS1ZNTjJUZHpZUjU1bzJjSzY0UGFjd1F6dVNTdThCcHBZS0dQNGcwSk1vcVk3Q1hnVmtsLUlIc2tDZXR6ejQ?oc=5",
+  "source": "Council on Foreign Relations",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T19:52:21Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": true
+ },
+ {
   "id": "73b84a666fa7",
   "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
   "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
@@ -548,6 +1473,20 @@
    "Markets & Earnings"
   ],
   "good_news": true
+ },
+ {
+  "id": "3b66c8db2ba5",
+  "title": "AI News: Artificial Intelligence Trends And Top AI Stocks To Watch",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTVTWnJlZkpsVU9ZV0g1WHdKQVBKOFFvcUpPeTJuMW9iT2FTMWI1N2hMYk1ud1cwQlBEVlJObDFVTnpoNnBhejJrZnVFelQ5V3NNRklrM2RlaHUtc2NsbmxWcVV1MWVzd082RUdTYmtJVW9MUmJRTG5sV1dJN3JCd1JNX2Z4VnZtV3VpbzdrNXdKNTVSc3FB?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-19T18:06:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
  },
  {
   "id": "2dd60c660f5a",
@@ -1156,6 +2095,19 @@
   "good_news": false
  },
  {
+  "id": "00406f424281",
+  "title": "How reserves, technology and investors are reshaping the gold market",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlFtSl91T1NWc2UtZ1dlOWFVUlRCNW01N21XRjVYVzFIN0trLURPbmxHZlFVNDJMbEFPNkJiY3ROTE8zMnRWRzRGRFhlTFZSNHhYSFVPOFAtUzY3Y2V6Yk41MmNGMmh4TGZwTUd5TXZWM1hIbVlxSGZYR1dXWXZqamtOMmN1c0h1enZJcWNBYmtQUG1yRDZrYy16bFpDYjQ?oc=5",
+  "source": "OMFIF",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-19T15:08:05Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "942ecceabb03",
   "title": "SoundHound AI, Inc. (SOUN) Stock Price, News, Quote & History",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoM2hMeTVwekhibkZGZDRNWWllUnlVQi1Tc084b0xudUhWVzY0M1JpOW51OWNWTWx5ZGxiR2wzcTlqMHhRM0pRZXFkSjB2ZzZPRHc?oc=5",
@@ -1383,6 +2335,19 @@
    "Markets & Earnings"
   ],
   "good_news": false
+ },
+ {
+  "id": "a7f117de6100",
+  "title": "$83.00: WTI Oil Attempts to Reclaim Level as Geopolitical Tensions Rise",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUIzbGMyRlprREdOUlRUZkRNTXpId1lNTTU4NlpMY21HUllEOFFndjY5VDNKX3pOdndWUmxVdDcwZWYwNUNCOS1BVHBUQ2xJcXNWRi1VVVlraUx1eGRrRmdNRk9YLUZUcHktUG1SZmFNZGh4blI3UzdLSXljTnBSeERXZ1dXQ1phLTA3OTMxRzk1SGJ4cFVtTHVpWWNLZkY3cFl0MFVDbUp5ZzczSTZWa1NEMEZGZjVOTmY2NGRfWWRYWVRRYTlJaFN1anRkWjA?oc=5",
+  "source": "www.tmgm.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-19T13:20:57Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": true
  },
  {
   "id": "32be95446777",
@@ -1663,6 +2628,19 @@
   "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
   "categories": [
    "Politics & Policy",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f39fa75d1a94",
+  "title": "Sensex, Nifty open higher as falling crude, easing geopolitical tension boost market sentiment",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWZ0QXNSVjlaX1pwQ0hscFRZb2FfeVpEd2JHaTNZcEZJZXdwckoxaXlINllmRFlKS0tLS2dkSmJIZTdRQk1INDNOTFE0YzBLc1ZiRVI3RDBOczNnVTVWNFFYNThUcW84UWRXRTI5bkYwWW9FNUpROXdpYzNLby14a3BZNWVRNHEyU3l4QmRWdDd4Z2hMcmp3ODdEcmgyNXdZdzl0SHk1czdrM3FUN2NwS0wyc2plM0FDemc?oc=5",
+  "source": "DD News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-19T07:54:17Z",
+  "summary": "",
+  "categories": [
    "Geopolitics"
   ],
   "good_news": false
