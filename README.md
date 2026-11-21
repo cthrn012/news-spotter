@@ -19,8 +19,8 @@ A GitHub Action runs **4× every weekday and 1× on weekends**, saves new storie
 <!-- DIGESTS:START -->
 **Latest:** [2026-11-21](digests/2026-11-21.md)
 
-- [2026-11-21](digests/2026-11-21.md) — 8 stories
-- [2026-11-20](digests/2026-11-20.md) — 254 stories
+- [2026-11-21](digests/2026-11-21.md) — 32 stories
+- [2026-11-20](digests/2026-11-20.md) — 261 stories
 - [2026-11-19](digests/2026-11-19.md) — 261 stories
 - [2026-11-18](digests/2026-11-18.md) — 269 stories
 - [2026-11-17](digests/2026-11-17.md) — 230 stories

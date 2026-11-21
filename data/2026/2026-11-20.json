@@ -13,6 +13,20 @@
   "good_news": false
  },
  {
+  "id": "7b322477da57",
+  "title": "News Wrap: Stocks tumble as worries about AI rattle market",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGNzODFLR3MwUFV1clNGZXctVFJsT0g0SHBMSXVyQWxrdmVmcFgxSXEzbWhUUFRhS29RdF9hbnkwQ0JuTkZsNWFBLWpoM3I1MndKQmJhX0x4YkE5cjRubjJFNXVPZ0RaZkwyWTNWYlVUckxCbGZmZExfWURFTU1UZ1ZQbzhFeEgyTUJpOEhpRzZxV2NTMWc?oc=5",
+  "source": "PBS",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T23:50:42Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "6fbc11252f54",
   "title": "Stock market plunges into correction territory",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVF9yOGdiYl9SY0VnNktVUHNZbTdud2lQb0piNkxpelNUb19mYWFtNGpZbmVRY2JkZk5wZExTZmZDb0ZuV0x1REc0Y0NOLXlIZ1Q2aGtNUkItbndSbnpUN1Z0Y05kMTROOTRaX0pCUDd3dHFlXzFWSVFtVFVxOVdQUHo3S0x1aXlYYk95VTRXbzJpX2lfOEtiRlVza1E3b2NWZW1XNw?oc=5",
@@ -21,6 +35,20 @@
   "published": "2026-11-20T23:45:42Z",
   "summary": "",
   "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1561832127cf",
+  "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T23:36:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
    "Markets & Earnings"
   ],
   "good_news": false
@@ -187,6 +215,20 @@
   "good_news": false
  },
  {
+  "id": "761181464c7c",
+  "title": "Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUppLWR4d2dnRV9rVHBJVTRhWlpVSjBWUWM2T2ZfeFZOeGVHYk13LUY0T1ZNX1M1VTMxUWlkV0s3ZGhScHhJZ2ZaTUVCSm9kZEd2Qm9Bb3BxczJmVW5mQng2eGZOUll6T0xQb2VVQlhDdTRqT3Z2SzlRR3R2R0lUdFFIVDVFR0kzSnhoaWxQMEZobERjN3JiZzVR?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T22:30:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "a57d537cb315",
   "title": "Is Coca-Cola a Millionaire-Maker Stock?",
   "url": "https://www.fool.com/investing/2026/11/20/is-coca-cola-a-millionaire-maker-stock/?.tsrc=rss",
@@ -290,6 +332,20 @@
   "feed": "MarketWatch · Top Stories",
   "published": "2026-11-20T21:39:00Z",
   "summary": "A looming oversupply problem could weigh on the stock over the next year",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a484cd6bc351",
+  "title": "Tech stocks end the week on a down note, despite Anthropic's mega-IPO",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMVpnX3c3WnlYc1ZCQ3FvUDBUbGpEZ0pha2M0VnhSVnZyU2puYURBR1haYTE0NFFPTXJsM2lhTHh3ZHlmSldiZWVuZ2NlTUk1XzRVcFAxRnBOMjNZUTdPejM5NEFVMkxMYXFuZUM3VDJwQ2lHTXJxaVg0bUs2VEt3czFra1c5eXl3M0FaeWZhWUk2aWcyd0pLX0Mzb3ZpTTV5WmZMeTNYakNodklhSEk2d2NB?oc=5",
+  "source": "NPR",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T21:38:32Z",
+  "summary": "",
   "categories": [
    "AI & Tech",
    "Markets & Earnings"
@@ -417,6 +473,20 @@
   "categories": [
    "AI & Tech",
    "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "45bb69ae7063",
+  "title": "Why Anthropic's blockbuster IPO valuation couldn't shake the AI stock selloff",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90YWJYMjBRbTlBb2JWM2hUektMRU45aWpYTGFweEdwYnpKbnUxZW5ZZmpRZldwOE1DTkNJNW03RmlXRXJ2eHpkam42WVdjSkVKSnhQTXVqZVpnaUFQdWlwQTVWZnRma3dYYUlqajRzdHlVQ1FxRVBIN2YwQ0hBMTTSAYQBQVVfeXFMT3NHN0pIT3ZMVktfX1pJRE5GV1JqUFcyQmhtSnczMjhLY2NNUXYyYUJIT3BtQ0JUeW5oLTBMenpSN0VVcVN1S245OHAxd29FMFdMZjY4ektWMW15Q29vMVhfRkh0TExJdS16OVdrOG1BbHN6cV9vWVpNZEdHa1RfNk5tUVZs?oc=5",
+  "source": "CNBC",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T20:57:30Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
   ],
   "good_news": false
  },
@@ -2454,6 +2524,19 @@
   "good_news": false
  },
  {
+  "id": "ed52da2e09e8",
+  "title": "Global Business Outlook 2027: Navigating Geopolitical Uncertainty, Trade Tensions and Emerging Growth Opportunities",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVHNUM0RpTDF1dEtjcjdRM3NnWTUwVDJrZ0dHelBzOGxTYlVBTXk4Z2FYUWUtTmpUNnNhV1plMWdhS1ROLTVyZENUb0luM2djVUJ1TGN6Sy16Mkl6VVM1ZktxSTFkQWNlV2V3S2daOWZCZVQ1RkJOSmU0ZTh2N0lieHY2XzgyTW5xOEE4amloaGNjN292cmhuUWFKZEJfc2hjVzc0Y3AyNFFsNUVMcjNsSUJIZW5NR0I3REZxYzQtWndhZnFXOGJsbUl2alBZeExCanFGdQ?oc=5",
+  "source": "Tekedia",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T11:03:59Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "a317d0e872be",
   "title": "How the U.S. Economy Is Tied to A.I.",
   "url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
@@ -2575,6 +2658,20 @@
    "AI & Tech"
   ],
   "good_news": false
+ },
+ {
+  "id": "938788401d85",
+  "title": "Can Oil Prices Supported by Middle East Geopolitical Tensions Sustain Canadian Dollar Gains?",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGJHQ3hZc1dKaXcxU3A0NFQ5RzNvSHpsN2tIMWo4UFF6dDhEdDJjS1pTUTVBbC01LXR2dGlPektaMFExOUdtd0JBMXF5YlpVRGZ5Qzc3WTZNWnJsN0IxZUZYeUxCQ3dUbDdZWk1feWQ4cFFrbkVoUmtuSmtZRGVPTTBTMkFsRDcyMDdvR3B4RFo0U3U2SjQ5anhFT2FMQml0TWkyWTB1UDZPOVY2ZXJyaTJFLXEwN1c4R2J2bGxuakZTZDJUZ2NvemN2TWJoZE1XYlFzVlZZel9vXzJLZ003cXVwOXpJb3Rw?oc=5",
+  "source": "www.tmgm.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T08:05:48Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": true
  },
  {
   "id": "5b5e77b6ee8e",
