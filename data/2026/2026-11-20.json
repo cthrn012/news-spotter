@@ -1,5 +1,617 @@
 [
  {
+  "id": "03c2b3f518dd",
+  "title": "S&P 500 correction: Five forces behind the market sell-off",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdEZSRFJHbTVUcnFhajRic19hWTN3bFdWTTNHcG4xZ1FOUkIwbTlxM25RRnNubWg4eFdMN091NVdrNFRrLXNxYkVRdE5RMmxUdjEtLVB1d0ZvS0V0S05mVGRpdWliYXE0YV9sSHZndlNfenJBUl90YlZR?oc=5",
+  "source": "CNBC",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T23:53:21Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6fbc11252f54",
+  "title": "Stock market plunges into correction territory",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVF9yOGdiYl9SY0VnNktVUHNZbTdud2lQb0piNkxpelNUb19mYWFtNGpZbmVRY2JkZk5wZExTZmZDb0ZuV0x1REc0Y0NOLXlIZ1Q2aGtNUkItbndSbnpUN1Z0Y05kMTROOTRaX0pCUDd3dHFlXzFWSVFtVFVxOVdQUHo3S0x1aXlYYk95VTRXbzJpX2lfOEtiRlVza1E3b2NWZW1XNw?oc=5",
+  "source": "NBC News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T23:45:42Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c04c4b8332c0",
+  "title": "Goldman Sachs issues sobering verdict on S&P 500 year-end rally",
+  "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-sp500-outlook?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T23:33:00Z",
+  "summary": "The next leg could look very different.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "4d18ee3d4864",
+  "title": "Kevin O'Leary doubles down on unusual ETF outperforming S&P 500",
+  "url": "https://www.thestreet.com/investing/oleary-canadian-etf-beats-sp500?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T23:17:00Z",
+  "summary": "The Shark Tank star’s contrarian bet is crushing Wall Street",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "dc970c88db82",
+  "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+  "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-20T22:59:33Z",
+  "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0842921ce239",
+  "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T22:55:41Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d4a27430a5d7",
+  "title": "Why a top economist says the stock market will remain volatile",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFdEaEdLLUJySXhmbnVXWUZlc092MWREc1JDRlBnbk1wUklRWVRBWUIySjc2U1FPZlZPbU5CZDB6Um1ScXlpbEk5QXB5LUQ0OVlUVnlKOHotRUV6QzBhYXRKQjF5azRlYWQyU2VDUzdZOFhvUWZDUEdUN18wLWRuNHdNSnR3My1la0ZKb1JMeGhXbWI1NHd6NVVtOW9oOUlndklRN1JqazFrd1FOVlhpd1JCOUVHN05lTnlRRlBnTjdaOHFLU19OWg?oc=5",
+  "source": "CNN",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T22:55:31Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f4eddf6aa0c8",
+  "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+  "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-20T22:46:00Z",
+  "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "756f30b3d3c1",
+  "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+  "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-20T22:44:00Z",
+  "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4ef76e434964",
+  "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+  "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-20T22:44:00Z",
+  "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f47aedf6c097",
+  "title": "AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3QxSjZlNk9EWnZ3STdXVHNRQ0JIVV9JMWNlMnpKZnF3M3BVUkhPdFFNcjB4eWw1eVVTVnAwVmIzRU9COEpKX1M4OUZkU1FEaUhBYlJBSEluQ2lYbkxYWXNhOTZIWnIzSWl0VDFNTFRkR0FSaHNwbS16czZLRXFxUGVfS2Z3Yzl4clNRODJsWThhbzh0ZUtULWhiM1BnbTFtZG5OcDJ5R0NCbTg4S1hfaWw1MHNpcWVGUGdIVjFJNA?oc=5",
+  "source": "Scripps News",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T22:40:14Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d9a56d722382",
+  "title": "Weekly Wrap: Crypto Falls As Stocks Struggle",
+  "url": "https://www.cryptoprowl.com/releases/weekly-wrap-crypto-falls-as-stocks-struggle-8016?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T22:38:00Z",
+  "summary": "Bitcoin’s (CRYPTO: $BTC) price continues to fall and is approaching $60,000 U.S. as the stock market struggle...",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "08aec627195a",
+  "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
+  "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-stocks-plunge-as-ai-trade-unwinds/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T22:35:13Z",
+  "summary": "Wall Street's worst stretch of the year deepened as AI-linked names sold off while defensive sectors drew buyers, today, Nov. 20, 2026.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "74b50166d830",
+  "title": "Stock Market Today, Nov. 20: Amazon Shares Slide on AI and Mega-Cap Tech Sell-Off",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ3Q4VjNVRWVxOW90cDAtdDVDc1V0eXZGZ3gxbHhCQlhGUC1aTFNqTmtrU055TklQUjZreGR5NkRHU1FvblFOajBsWnVncTVhVnA3NTEzaWlQUFh0UjZMR0FDa2pINmlZSnItYmtHMDJ4TnhRclBFbnJzVXFvalg2UEJhQlZkTmJMQnc1dkJ2MVF5dTBFM3RYY3VBanF1blJOYzUxbGF2cHhvY2FBV3hXcURYb0VWamxSZVRxN3BWSGZoQWtqMEtaaWJ6SFFXNjBjbmtvOVFB?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T22:33:31Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a57d537cb315",
+  "title": "Is Coca-Cola a Millionaire-Maker Stock?",
+  "url": "https://www.fool.com/investing/2026/11/20/is-coca-cola-a-millionaire-maker-stock/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T22:25:00Z",
+  "summary": "Sometimes boring stocks have the brightest futures.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5a70490451d0",
+  "title": "President Trump blames Democrats for stock market losses while claiming credit for lower oil prices",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZl9YUDBJZGY2eVRqY19NNmxQM1dwQmoyNUdXaGVHLUx0T3oyNi1WZ0ZOUlRPaHZULTJlNW1PTlRyRXpTM2I3NEdkYUk3MGdTb1E2OHlCdlh3ZnFQU2hMMEs4dXpZZkVxT1dqRmhhNDdyT0dodExxOFBrNlJMVXFrVFhrVzJiaHBVOUVCMHBvLU9VUlVjRlFIMWtkYnFQNUpfT3FpbDZkalFqLUVMWHprNVA1WmhiZFdKQXNrV0tva3NBb2ZXS1M1a0hFX2ExNWpBTlhIemhwLUFVc1hLdG82TjZRYTdPUFcyM3dTeU1n?oc=5",
+  "source": "NBC News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T22:16:50Z",
+  "summary": "",
+  "categories": [
+   "Politics & Policy",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9602f07e93c4",
+  "title": "Update: AI Worries Send S&P 500 Into Correction Territory as Nasdaq Turns Negative For The Year",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/ai-worries-send-p-500-221555530.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T22:15:55Z",
+  "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The S&P 500 and the",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "92e3ea8c5218",
+  "title": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
+  "url": "https://finance.yahoo.com/video/nvidia-plunges-sec-probe-deepens-221134186.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T22:11:34Z",
+  "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b3c6f823eeaa",
+  "title": "If I Could Tell All S&P 500 Investors Just 1 Thing Right Now, It's This",
+  "url": "https://www.fool.com/investing/2026/11/20/if-i-could-tell-all-sp-500-investors-just-1-thing/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-20T22:05:00Z",
+  "summary": "If you can do this, you have a good chance of improving your returns.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7ad107d0f5d0",
+  "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXlaSEs0VF84U3VRbVowdTMxMm5kRktENGl6bGtweEtZWVJfVzZQUWY3eUkyamtzMFBJYVBhWFMwSW8zWTBxSm1BWTU2aEZVX2RGOFhENWg1dU5CQ0lDNU53bFZldFlmaEZvSElQakZ6Zk1lWmFvYkMtUHEyS3pRX2FLYVQ?oc=5",
+  "source": "Financial Times",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T21:52:25Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cc1de58b6922",
+  "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+  "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-20T21:50:44Z",
+  "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9c2ac87959e6",
+  "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+  "url": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-20T21:39:00Z",
+  "summary": "A looming oversupply problem could weigh on the stock over the next year",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f0625f6bfe1b",
+  "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+  "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-20T21:36:00Z",
+  "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b2f5f8ade58f",
+  "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+  "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-20T21:35:24Z",
+  "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "17d3b36037a8",
+  "title": "The New York Times. . Following Anthropic’s debut on public markets, our reporter explains how A.I. has become a huge piece of the U.S. economy and how it might be risky. https://nytimes.visitlink.me/eqDJxY",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMDJqdTZQRmU5RFV3alY2a3FWZnJsTmRudjhYaFNWVndCa244SUNucHBIZUltV24xc2hPeVpBOUNWOTAwRjdZRlJfbGFYOXQ4OUlOWkYzT09heHNsZnlXQUV0ZDltNEVZUk04MEFPaUtIUG5uU2tZcjhveEdFSmxMSThVOFNzZGdidjVqang2ZmhsbWpaNWdrQ2FES1VzNHhIUTFGZzQydmt4NDhuNXVNZmhnSjhIQldqUUYtSnRreWxjVG95WnlXcTJuZUxkUWo1OVJJNA?oc=5",
+  "source": "Facebook",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T21:35:11Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "43e98d34d12e",
+  "title": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off",
+  "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdUhHRHVEUDBOY2ktQlJSWGRTc2V2Q3VmdnYtRG9hdlVVdWQtd2lZdmdDODRWelA3eFkwaDBRTE16bXVFYnNRUGhyYmlSclFLOHJLWEtIS0l3aTV3YU5ZS25iU1R2OFp3SmRSang1a1JibjhpMi1kTS1tOC1oejhuV0pTVUx3ZWNKV0RRLUNydFRYanJqeXZmenJRV1FScXlwX2NjRWU5ajN3eDk3ZmZRY1NTOHV3dzNaRVN4dWJDT1BzN1c4LVBDMF93RW5XWHBqWi1OZWpSQTAtNlRIYXNCMVlDNnFNY1EwQktzbm56NUh5QXR2QmxUemNUcWJmSDJISjctS2RWZjJYNTlKUVNr?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T21:35:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f3f7da3d0f7d",
+  "title": "Chips suffer worst week since 2001 as the Nasdaq 100 nears a bear market",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmc2cHN6ZXN3Y1BKcGNfazRTNUNYTWp2enR1RVp4d2VEWnE4NE4yWFhwQkpYSDRMdzU5U3RTQTdtMzFOSGtVYmd4RnZNYWthSGdPUVY2MmRab3FUX0lLQWdZZ19tSmh0NktIWUxLMXVQRVl3dDByUExZbzVENzhiY25vRTl2cnNJcEtkR202Q0tIdlFWWURQTEFDaHVORU1FYkR6MXJQaFpZdTU3Q1hvcjRPdXU3NXI3ekZKclJycmVROU84Q0E?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T21:23:54Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "137217fbade8",
+  "title": "Federal Reserve announces College Fed Challenge winners",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+  "source": "Federal Reserve",
+  "feed": "Federal Reserve · Press Releases",
+  "published": "2026-11-20T21:15:00Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4ffa1efa824c",
+  "title": "3 Edge AI Stocks To Watch As Apple Pushes More AI On Device",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUlpbDZOTnBHbHcwN2NLSUl5RUlJWWN1TDJhT01sV0llQ1otVFBhenBYQUI5WnBxek9qMVFjWmMzYjMySW1KQTUtZ3doYmVZM0xGMkZXM1dWbVRabUNfZzZhd0lXdTg2NzRRanpQVnJ0UXZsQXZTT2NzbGpfUVh2Ulh1WHF1U1FRMkluVFNKYw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T21:14:05Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "436a25bb69e5",
+  "title": "Nasdaq Dives 1,261 Points as Anthropic, AI Stocks Sink: Stock Market Today",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWhGeXFsSkV5NEhYT045N1VyUXFpLWVoOVdkRm9rNHhZMkMzRFZzSDUxRmlXc0FQRDBjX0lRbzdzX1A0U1ZWcTFOUHZoR0g5S2g2WERIaTdPcTB0YUJQQkwzX3QwdUtoZXZXUjZQRmJLajM3blI2R3YyTzVEVjVHc3FMVTR1UDlYaDl2VjJDVlVyOXppRncwenZHaEo4UktycF9fQ1g0SlVjRkR0MDFfRlR0QnNQUQ?oc=5",
+  "source": "Kiplinger",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T21:12:15Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c1e5edac8890",
+  "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+  "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+  "source": "CNBC",
+  "feed": "CNBC · Economy",
+  "published": "2026-11-20T21:07:08Z",
+  "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "645f234a84c9",
+  "title": "Stocks enter correction territory, driven by a deepening tech rout",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ZXZoZFA2bjA0dTVXWENvQWNTbjg3LURyV3lVdEh3cmJGVUpNcHR4SFZkQWNPUGxiajBoX19hMVlDaGxGNUw3QTEzeVBEWHZreDBiWEJ3QWhhQ2hNUE5sUnJZRmVkcTFSV1phaEpzUGN1UHk4U193UU1KOWM?oc=5",
+  "source": "CBS News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T20:57:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "36fb31620a7c",
+  "title": "Trump threatens ban on US firms building AI data centres overseas",
+  "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-20T20:54:12Z",
+  "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "037b88050f44",
+  "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTRxdEJUWEhNR29HNmE3cG1Ca0dJVWVQTWdsZmhqcnR3UW41ekZ3UXo5dGxtMVVvU0RSejBWcW9UUkVtVXFFZG1JQ3I0TlpaZTUtem41d0xGM3h2bWQ3cjM1VVRXVGNreTBHR0Q0VnhyaFBXcnFOd0RiVDRucEdtTHpMejZLSkFiTEszemdyd3pLbG5YZ2xYREFDT1pSdw?oc=5",
+  "source": "MarketWatch",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T20:52:00Z",
+  "summary": "",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f4520673d545",
+  "title": "Why stock market is tanking despite massive Anthropic IPO",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52U2tnRzdwTmw5eW1NWVdDZy01UDlxQ2FaNUphZGhBNHdIakk1cUVMcEFPakZ4dDFVLURsTDZ6Qk9KU3lHc3RFN1pmRnNVR3pZZ29CeTNRNG5GdHhXMVJ3RU5pOVpldVpPR3VkNjJSb0FyMzdhRHVJd3I2NnhSUdIBgwFBVV95cUxNck9VckJQZmxROFdpRmtCZ1pSb1JJYUhtUFNEOXo2OEY2dUVPSWxCQkcweHBEMXhxRHdFSXFvdTFXN0trSkt4UXZYLU5zQ0FQU0puUzMweW8wZjRnaGpsZUFFNk9iSXJ6dUkwQW12VG14RDRVWlVnLVlPTEdfOThUWUdpaw?oc=5",
+  "source": "The Hill",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T20:51:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7879661af8a8",
+  "title": "Closing Bell panel assesses sharp selloff as Nvidia, AI stocks tumble",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1g0UXZ5OXJuVHpnN1lqWUk1OURVWVRkdDZRemFXcS1hNk1GdTNQcHE1dDdyb0NxbDc4R0hTTDlFMG1IdnJWbThPSGNqTzVVWXJxR09Lamh6WGZaSWZvVm12X05zdGpaek1zZVRWcWhEYk1sM0lEblZjNURGOTVWdXVmaXdnMW5RWkdZY1dwTV9hdTcwTGVWWlY4UmNocWhGaUk5UHE0SWJxUTFiZUtSNQ?oc=5",
+  "source": "CNBC",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T20:40:26Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cdd515837ff4",
+  "title": "Is the bull market cracking? What to watch for next week after the AI washout",
+  "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-20T20:26:28Z",
+  "summary": "The stock market may be nearer to a bottom after this week's sell-off, but investors are still bracing for further volatility.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5f74a446f062",
+  "title": "Trade Uncertainty, Geopolitical Concerns and Dollar Strength Pressure Agricultural Markets",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1MzWHN3SmRLRE1TU0gxY1hCV0lmcXh1TlYxbmlpMkRpaWtmZGNoRWhXLWZrVlc1MEdmSkt0bGlwLS1vQVFDUnRoeE82YWFzOEtHSWFIR3JiQS1tOXRnTFNsUGtiX0NiY3JZVE9GNDNzRTlKVVZGNGRNOW4tbEpYd1d1ckI1VlVSMlFWZ2xPMERiVFlDTTZZUW1ZV0dIbzFINGlCeU82TGR3N19WMVRnTDdpR25iQW9yRE0xVHJyeGlrWjVudGh0VGNBREh1Mzhi?oc=5",
+  "source": "American Ag Network",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T20:24:43Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1196794a7352",
+  "title": "AI tech rout prompts US investors to rush into value stocks",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlRZSU8zbWFpUGM4bzdSOXVCTnpwODBuXzBDbjEtUEFaa2lxaU5IOVN3VXRJMHd0djV3WnAxd0hsdFBvVTAxM2RrMENfeGhWeTlMODBDeV80NHBSOTl6ZXFLY0J6SnE1RzdHclRxakdaVnliaUc1b0NfQ25uOVczeWNkRXFkYXF4RFN4dE9tc2I5UQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T20:19:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "337f19b770d4",
+  "title": "AI Stocks: Down But Not Out?",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yamkyMVhKQ0FPMTRGWXBBeTJQSFVRRDUwV180ZEp6RW1NcFFjZEs4Wm05dG9saXBqb2lNbE1rRUlGcXJiLUNORVkySGRKblFldUVNamxub1RJMWNVSXoyb0pNNm84TUhBY1ZiaG80alZvcy1vRXdrVzdIWHE?oc=5",
+  "source": "ETF Database",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T20:18:16Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8ad9e3b91cae",
+  "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+  "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-20T20:06:12Z",
+  "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "6c4d2bd17e9d",
+  "title": "The Stock Market Is Flashing a Warning Seen Just 6 Times in 156 Years, and History Is Clear What Comes Next for Stocks",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdkFoUUdXVC1CdkFEZ1ZNcEFDc1lxV3lFMWh0OEs2bXlucmpfbGk5bUNzTExEWldMLWxiTFRNS0dFYVVLdE00Z2RPYWhuNldBY0pNeG1NNkN0bnZDVU1uQ0JNdDVITkVFczV2clNtUkZ1M3dETk9jZS1LLTAxcFEwRHd5aHZkbFVjZFJnZ0c5UEFXVzRCams3OTNXQ3ZjYnBD?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-20T20:03:48Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6f3899477bdd",
+  "title": "India’s Methanol Market Navigates Geopolitical Risk and Import Liquidity Amid Green Fuel Expansion",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWjA3cHdQSklxYzIwbkFGdDJPRnRaVlFEcGFaUkd3NVRJb2w0Mk8yV1ItYlItNjFFVW96Vl9WeG9aanNpZ3VVcWpCdVpyb2FiT2xYRWFzRXJRWV92TmxWYnFMTTdGZ1h5Q3pJcFJDQ0tmNEJiV0R6NGhKQWdpaG1VR2ZtVlBhYWhocFV5MXEwWmNBZUtOS1B0NHFkcUE2a1NuYWRDZTA3X241YnpiYXc?oc=5",
+  "source": "ChemAnalyst",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T19:58:13Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "62d012cbeab2",
+  "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+  "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-20T19:42:53Z",
+  "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7668ba47acf4",
+  "title": "Data Centers, Geopolitics and Energy Demand",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnJJMkJpWldWOVVrYjBVUlVMbnhNeGRqa1g2bWRka0hkamdvVnBBa2JqTk16SWJMNi0wUGtsWWpFOXFYWHQ4ODdRMXJ0Qi1EdkhWajFKUmpsMWV6S0phSld5X1hlWk9oQ1JpMk4zLTJ5b3RGMnphbUxES2ROWExzdTVqbGZjU0tIZ1hZ?oc=5",
+  "source": "Citigroup",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T19:38:28Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
   "id": "e666e121eea3",
   "title": "A massive bearish trade just happened in the chip stocks",
   "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
@@ -228,6 +840,20 @@
   "feed": "Yahoo Finance · S&P 500 headlines",
   "published": "2026-11-20T19:08:55Z",
   "summary": "(Updates with latest market prices and developments.) The S&P 500 and the Dow Jones Industrial Av",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "09ae56d2b542",
+  "title": "AI stock sell-off accelerates as markets head for steep weekly losses",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04aW1GVFF1TWVJc2lqS3pRYVpKbGQtS0M1WEpkVE1rUTFTUHVRcUdyQmpWSmQtNlplUzRoc3lUQWpPYkpJLW8tMER4b2RmRmlBNWJ2dlNmVUloVzZhSGFySjAtZUJWRDNkbjRuTHBkNnBfT3I2WUNoVWx4WVlmWGs?oc=5",
+  "source": "Fast Company",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T19:06:10Z",
+  "summary": "",
   "categories": [
    "AI & Tech",
    "Markets & Earnings"
@@ -563,6 +1189,21 @@
   "good_news": false
  },
  {
+  "id": "538827900d9a",
+  "title": "Stocks Extend Slide as AI Concerns, Rate Fears and Geopolitical Risks Rattle Investors",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0xjZGJwaDdyVVNDTUFIbjRGYVhWUEVxLWJ4cFlfZGxBZTRqNTJlOFdLWlpja3ZjQ1V1X0g5SUpnNU1QLWxnOVJiUHJKWmJIaFRndEN5VmRfdEZ4SG9YUDZfOEtQVEpSUlNuUlR6M1MzWV82LUlqTGlxUGg0ZjhxY1NQSWg3N21FTE45TGVfQVVnT0dsR1pEVlNxVGdZSUxuRTRncEF1Y1ZzN0hndzU1MnFR?oc=5",
+  "source": "SSBCrack",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T18:15:21Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "29fa36c246ea",
   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
   "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
@@ -698,6 +1339,19 @@
   "good_news": false
  },
  {
+  "id": "6bdc0a499a28",
+  "title": "AI to El Niño: What’s Ahead for Oil & Gas Prices in 2027? BOK Financial Weighs In",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQanNPWU1vVVBSYUQwV0lfWkdTQktTcW5OSnZ0WEFmdlYyT0tXY3FXeV8yMmdaRTNUWE1KWl9jUGhkNGlCZ0JiOHFBbkZKcC1GWEk5RWZoUElra01NVGdOZHZFaC1xZGJzUG83aUdxQmJHUVU5WEgzYXE1ZTMwUEdQX0dBT19wNVNQdjVNektHdUNxa0txR3dodkIyRU5XQ1hUMW40Qm5FdF80aGNWZGZ1a2N5NFJQYmxLc29ONGI0TjBjMDM4R2JCcjg1THczd01wcnI2MnJtLVV3WDA?oc=5",
+  "source": "Energy News Beat",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T17:59:03Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
   "id": "c04f96a61524",
   "title": "Consumer Staples Stocks Are Winners as AI Faces Scorching Losses",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeW9leXkzc2VLYWtPZU1TQVpUUGZzQV92TGhUaHdsbVRhc2Y2Tk9rQnhuSjNUM0NKOWx1dVkwMHFmSU5IS0tDODRjYkotWlFZQmY4UmV2dVI4LWk1SDFHTTctVG8yX25VRDlBU21tUjBaR3BWcURSQXdWM2FQaTBsWDFoRQ?oc=5",
@@ -736,6 +1390,19 @@
   "summary": "",
   "categories": [
    "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "767c2779862d",
+  "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+  "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-20T17:49:48Z",
+  "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+  "categories": [
+   "Geopolitics"
   ],
   "good_news": false
  },
@@ -889,6 +1556,19 @@
   "good_news": false
  },
  {
+  "id": "975b3d0744cc",
+  "title": "MOEX Russia falls 2.53% as geopolitical hopes fade",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMjBRWGNfTVp6cUFfN0UxZm5FT2tfZkNmZHhMUXliQzNqSzRVU2swMWlzMHpoNy1tWUc1aW5oWEVHNm1ZWGhIWmd4WDZEWGRFQ0w1WS1qS0ZzS20yWDJBRTVoOGRkOTVWTlBBa2lqb2F1dk9GQ0pJMTRKZ20zUnhYR293WW1uemRaLUtqVTVOU2JoNWlrSFFhOXZLMnl2dHdvVHh5aWQ3UmpUdV94S3A2TA?oc=5",
+  "source": "ad-hoc-news.de",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T17:32:03Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "3424ee8d0045",
   "title": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
   "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
@@ -978,6 +1658,20 @@
   "published": "2026-11-20T17:13:48Z",
   "summary": "",
   "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4d37763202e8",
+  "title": "Optimism over U.S.-Iran talks eases geopolitical risk for Brent crude, but volatility may persist",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHhadXdYUjY1OGVpaU03bE1uaS0zS3Nab1ZwbUVuVk1aMDMzMzloNjFDX3VKMGQtUFNYTWVQWHAtVG9wbnVBd1RzZWQ0Ui1NTHNWQTlaZ3pHdUlNLVpBMWJqSUVCOVEtVVBpTUZVZ2JHdEoyaV9KY0F2MU1WRjNFaVBGTU9FSmItVDQweA?oc=5",
+  "source": "Traders Union",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T17:07:31Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
    "Markets & Earnings"
   ],
   "good_news": false
@@ -1132,6 +1826,20 @@
   "good_news": false
  },
  {
+  "id": "74b0d7f1c58b",
+  "title": "Canadian Dollar rises as Oil prices find support from Middle East geopolitical tensions",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQenlaOHJrRjRnRjh5eWo2Q1Fja0VSQzNiN0NtTlRsbmhjOVV6a0tjR3dLcXpydm9WUUhPYWlBYUVJbkZiZ1JZQXZZaEZTUndEVndmZGxWSlpCMTltaWlRdERJdVNJNERNekhmLUxacnVhS0dlLWV0QjFibUNpbXR4RG1IV0NZWWJzeWZSQjN3OUxiSll5anNCWTN1XzZ0WWU5ZVZzQWNZT2R6WkpSQVM4Q1VjWVRSRGFXUjBaUmtWVjRNbnlhR1JtZS16MEpMM3M0UkZGeVdRdDBaTE5tODJyQXZweVRIXzFq?oc=5",
+  "source": "www.tmgm.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T16:15:04Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
   "id": "f1c021ef3ad9",
   "title": "3 UK AI Stocks Linked To Government Digital Spending",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXpRd2lWdW5TOXJCRTNJbkJxQnZFLVk3bE1raWZKN2tZcGF5dW8tMjNqRXpkb1c0R0JjaDdla3Zvck9YbnVMaWkxWDJ4YkJLZGd1ckdCTzFuWjJONEVIQlVDd1haX3UtaUllOWY1N0ZlU01Nam1aZjMxeHZidjJzZUZtcmFmcGhhX3gzVFln?oc=5",
@@ -1205,6 +1913,19 @@
   "source": "Yahoo Finance",
   "feed": "Google News · Stock market",
   "published": "2026-11-20T15:51:23Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "730b40e79eea",
+  "title": "Nvidia Stock: 5 Reasons the AI Trade Has Only Begun",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1NLaWJHLWN3X1FGazdDLUliSW9zUVZwa2l4RV96bDJYLUNxYVZwQ2FGX00zaG00aHBqb3cyaHpZd0Y2Nld5UnoxbnBtQ21Xcm9tVEdta0N5OUZuZ0dPTGN4X2VaU3MyNkh0SjE4bWJQWHNwMURQWGhsMDhDNmZUdVJB?oc=5",
+  "source": "I/O Fund",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T15:37:07Z",
   "summary": "",
   "categories": [
    "AI & Tech"
@@ -1524,6 +2245,20 @@
   "categories": [
    "Politics & Policy",
    "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5f798c69d3bc",
+  "title": "5 Best AI Penny Stocks To Buy After the AI Crash",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejNVUXA2NWowUFpndmNwUm0tTi1YN21xOFhHeGR0N3hmcEUwaE9KUVgzTUVoOUUwanJDTmdwZHVmS2tNZXN2Vkl3V3UzTXhwNndoc0Y1VTV2bFo3R3FwSnlFUHZnSGMtOW1NVVJidzdrQ3ZwbDliejVOMl8wSWRla1FRWHIwODZfaWZGT1MzWQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-20T13:20:57Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
   ],
   "good_news": false
  },
@@ -1853,6 +2588,19 @@
    "AI & Tech"
   ],
   "good_news": false
+ },
+ {
+  "id": "4bb3cc396b37",
+  "title": "Crude Oil Prices Rise Above $92 as Middle East Tensions Threaten Global Supply",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3FfcWwxaGs1bXlacVlhZkxTN0NwX1puNUZFajdURmdRTFV4bzBGUXRtaVBVU0J6dmNHMG5NcjM3TXRhTzhtXzBMek5FMmY3a2EyRTJUaEkyc014RlV6c01yU2IxYnotV3pLb1ktcUMzMFVrNmp4T1JwS2gyV2k3RHVpRjlEekY5aGU1c1lNWmFoODRNRUF2bjBONzNYbV9fUGdkWDdIc1E5RkJSZjhMdnVYQ0VZQdIBuwFBVV95cUxQeVI3UVBUc0RqY0Y1YVMxSEVYQW5vUDJOTG1UaDBzVXRraklnMldBR1d6UkZYRVVOa19lN3R4am42VDAtV0NLUUhrRE9rMWRpZjhiQWFmUExYUzVJRkpQNjFCQ0dUSW1GMHNfVmNWWXJIUTlIM01UR3pUQW5GS3JZUHJmXzVvOHBiSUtoYm4wUjA5bEZyUVdzRElycUpDNE40UGpFN21SNTdCTlVjc05LM3dzMU1wb204U0Ew?oc=5",
+  "source": "Investors King",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-20T07:24:54Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": true
  },
  {
   "id": "f164454e2e48",
