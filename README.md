@@ -1,6 +1,6 @@
 # 📰 news-spotter
 
-Automatically collects stock-market-moving news from *NBC and other outlets (MarketWatch, WSJ, Yahoo Finance, NYT, BBC, the Federal Reserve, Google News) and files every story by theme:
+Automatically collects stock-market-moving news from NBC and other outlets (MarketWatch, WSJ, Yahoo Finance, NYT, BBC, the Federal Reserve, Google News) and files every story by theme:
 
 | | Category | What lands here |
 |---|---|---|
