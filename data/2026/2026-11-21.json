@@ -1,5 +1,18 @@
 [
  {
+  "id": "ad7adb5f6324",
+  "title": "The Penny Is Dead. Now It’s Official.",
+  "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-21T23:12:24Z",
+  "summary": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
   "id": "5e03616295c4",
   "title": "COP31 climate summit risks failure as talks go deep into overtime",
   "url": "https://www.cnbc.com/2026/11/21/cop31-climate-summit-risks-failure-as-talks-go-deep-into-overtime.html",
@@ -917,6 +930,19 @@
   "good_news": true
  },
  {
+  "id": "ef625298acf3",
+  "title": "S&P 500 correction: Five forces behind the market sell-off",
+  "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-21T11:29:25Z",
+  "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "27e389505440",
   "title": "Your 401(k) is full of AI. How to deal with the volatility",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQNUpLbERtV0lEQTJqc0NmWG9mY3FiYUZrRDlGOV92QU1WcWFjYjZtZDFnU1dUazZwRUlKa0t0M2M5Y0l2Q1RuSGVaYkVMNVJBZjB4cXpud3V6dGRFRWs1bkhMR0VUMkwtc3pzOEk5eUtGdjhTcFlKTlFR?oc=5",
@@ -1519,6 +1545,19 @@
   "categories": [
    "AI & Tech",
    "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "efb180883366",
+  "title": "Can AI really help spot Black Friday deals? We put it to the test",
+  "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-21T00:06:11Z",
+  "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+  "categories": [
+   "AI & Tech"
   ],
   "good_news": false
  },
