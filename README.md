@@ -1,6 +1,6 @@
 # 📰 news-spotter
 
-Automatically collects stock-market-moving news from **CNBC** and other outlets (MarketWatch, WSJ, Yahoo Finance, NYT, BBC, the Federal Reserve, Google News) and files every story by theme:
+Automatically collects stock-market-moving news from *NBC and other outlets (MarketWatch, WSJ, Yahoo Finance, NYT, BBC, the Federal Reserve, Google News) and files every story by theme:
 
 | | Category | What lands here |
 |---|---|---|
@@ -12,7 +12,7 @@ Automatically collects stock-market-moving news from **CNBC** and other outlets 
 | 📈 | **Markets & Earnings** | S&P 500, Nasdaq, earnings, IPOs, M&A, crypto, gold |
 | ⭐ | **Good news & talking points** | positive headlines (record highs, beats, breakthroughs, deals) worth bringing up in conversations and interviews |
 
-A GitHub Action runs **4× every weekday and 1× on weekends**, saves new stories to `data/`, and writes a readable daily digest to `digests/`. Over time this becomes a searchable archive of what moved markets and why.
+A GitHub Action runs 4× every weekday and 1× on weekends, saves new stories to `data/`, and writes a readable daily digest to `digests/`. Over time this becomes a searchable archive of what moved markets and why.
 
 ## 📅 Daily digests
 
