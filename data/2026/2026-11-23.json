@@ -1,5 +1,45 @@
 [
  {
+  "id": "6a2bfbe0c606",
+  "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+  "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-23T23:53:20Z",
+  "summary": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a11886faacd1",
+  "title": "President Trump sees no national security risks in Jensen Huang's reinstatement at Nvidia",
+  "url": "https://www.cnbc.com/video/2026/11/24/trump-national-security-risks-jensen-huang-reinstatement-nvidia.html",
+  "source": "CNBC",
+  "feed": "CNBC · World News",
+  "published": "2026-11-23T23:24:33Z",
+  "summary": "Eamon Javers joins Squawk Box Asia to chat about President Trump's call where he shared how he was involved in Jensen Huang's reinstatement as CEO of Nvidia.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8567924b7038",
+  "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+  "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-23T23:24:02Z",
+  "summary": "Nvidia break record for single stock options volume",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
   "id": "08b5f2cbd1fd",
   "title": "Stock futures are flat after rally fueled by Jensen Huang’s return to Nvidia’s helm: Live updates",
   "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
@@ -228,6 +268,19 @@
   "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
   "categories": [
    "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a1342aea4e66",
+  "title": "Stocks surge and recover half of last week’s plunge as tech stocks rebound",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzlWTHNmX3lhNnFoWS1oV3BtLUprRHdyN2tRaVFLeGhSM2ZhSS1qZnNiaWJRX01Udmc3eW1Ca0Fhbnk3MVB1UVNCY0NHR1hWMDl5MldUM2ctT2VnSHlzYUN6ak94U2dhbG1JRXZLT0FFSnZPUmdvRjZRbzBrdzFUVWpxa3A5cGc5cjkzUFNxOHZqZnFDdktYRVlCR3Y3aTZQQ0FOZEk3Z243eEVxX0t4b1NFQ0dLUGdBVWxz?oc=5",
+  "source": "Los Angeles Times",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-23T22:28:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
   ],
   "good_news": false
  },
@@ -493,6 +546,20 @@
   "good_news": false
  },
  {
+  "id": "4edd6b36d4d9",
+  "title": "Nasdaq jumps 7% as Nvidia shares soar",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXhpd01xVDBQSlFMWUJzZktLSGh3WXZ0b3JfRTdwSEV4Rll0bjlIc3FfM3MwemllQlRidmpiOEpUbHJBQzZ4YU1ZOFNhMmVpMjBWc3RULWppdmxLZVdERHFTLXJHSjU3aTFWcmFrakkzS3VpTDFkSE45Vk1TbmszWUhzcVM?oc=5",
+  "source": "Financial Times",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-23T22:01:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
   "id": "6935ee9269ed",
   "title": "Stock Market Today, Nov. 23: Nvidia Surges 31%, Adding Nearly $1 Trillion in Market Value as Jensen Huang Reclaims CEO Role",
   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-usd1-trillion-in-market-value-as-jensen-huang-reclaims-ceo-role/?.tsrc=rss",
@@ -654,6 +721,19 @@
   "feed": "MarketWatch · Top Stories",
   "published": "2026-11-23T21:28:00Z",
   "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f555d74941ca",
+  "title": "Nvidia stock has best day since May 2003, gaining nearly $1T in market cap after Jensen Huang is reinstated as CEO",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWE52dEljX0cyZVo2a1A1dWJaNXFBemdNUE9jcU94RjNXc1JwMEJyZkpjd3h5cHF0VFUxZWpCOTRpTlRRSzJBTlJGa0tubHEwa3VROU9xRFd4a1czS1Z3d05tMklnTFdESzMyTVRpdVFUQXBoMmkwdE0zd0V4TkcxRnhocTdBSm9fS3pvcksteFlqRGtIMUpjdldDbElVQlgzX3hMNWotbEJXelczemJac2h0TWhKeW9PTmJrZlIwNVBpY2VQVFVaRHFadlNOV0d2bWN2aDl4WlVQeU9IVkFRRUNDSU9tSV9xcjNJcFdJVGhkQWw0cmpJbld3WWE5OHhKcnc?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-23T21:27:35Z",
+  "summary": "",
   "categories": [
    "AI & Tech"
   ],
@@ -1015,6 +1095,20 @@
   "good_news": false
  },
  {
+  "id": "b2f7ecf7fc5c",
+  "title": "Here’s how to trade AI stocks in the wake of Jensen Huang’s return",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkZJOUZxRHgySDI0Qy01M2IzN21mcWJ2SkFUTXllNE93YVZ2cGtKSzNLTTNrV0MyQlExSXFPTHlFNFVHM2JWU1RjOEU0Qnd1ZEZiVWsydTVQZThFWXFPZnNrRzBuQU0wZzEyLVlXYWRITU5ZUnNrVmJybHYzX2NaMTVvdC1SOWhXWGlZSWZZc2o2OFlqVTJLdUJWdy0tbWNaT3dFbGJlbE4?oc=5",
+  "source": "MarketWise",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-23T20:00:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "d8c099b09a3d",
   "title": "Stock Market Today, November 23, 2026: Nvidia Surges on Jensen Huang’s Return, Nasdaq Jumps Nearly 7%, Dow Soars",
   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVnQycUtpVGkxa0dZbl83Ykdvc3QwUzBSbkJScFdlS2R2V0o3VWI1eGlEM01sQXlJdmtXQzN4Rl84MGt5RDdEbzZkcmdqNEEtZy1PSVlrRkJPZ29mNTRrdXREcUtoVnByakJtNmx4NGVSejFMYXQzcndzWUxfYk5ZcElKWXN6LW1RT3JSUDNMcG9oRkxLX0ZBNl9xT2Jfa3Zqdmc3N0pOZ3dnVlVDUWtPVWg0RG5DSlZ1ekx6RGFfR0lUaDZLc01Ub1gxSXRKY0N6QklCQlBTdlp3elVET1p2bDMyVQ?oc=5",
@@ -1065,6 +1159,20 @@
   "categories": [
    "AI & Tech",
    "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9309ffc6fdf9",
+  "title": "Nvidia leads AI chip market with strong growth; TSMC faces geopolitical risks but remains key manufacturer.",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkQ0Y1kwaGQyWXFLajYtRDh1bnNOUnB3THN5ajhGdXNCVURlNEIxRERYWlliTW01YmNJT2E1M0RjTXZQNmVlUkdCV2RzcXhhMDlGSXBlTUZSYURMcFlEM2ttTWhUcUNWS2F0dC00Vm9aRjFoYm9kQ3BZZGZqbjMzU0RB?oc=5",
+  "source": "Pluang",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-23T19:19:49Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
   ],
   "good_news": false
  },
@@ -1284,6 +1392,19 @@
   "categories": [
    "Geopolitics",
    "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8940422c30a4",
+  "title": "Europe's STOXX logs strongest day in over six months on tech boost",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDFuaFRyaktlcVA5TVR0eXF2QlktZ3ZVU3JkbzZycU8zTU90WEhFSlhuVTc5RTRCdVctYVpuQzZhdUJnN1BlZWdOYkZEQXg5alR6d1BDVWEwMEszRTlRUFB1aG9ueFhHWmZmbkI1dmFSSmNZMVF6VzlhZFpBOG5BaVJ0QlprZnRVRmVIZ2djcXFzM3VrU2VQa3FQelVLU2Qzd2MwT19jTUdkRnVWYmc?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-23T17:21:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
   ],
   "good_news": false
  },
@@ -1652,6 +1773,19 @@
   "good_news": false
  },
  {
+  "id": "8184e07a3c58",
+  "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnhLS2hLUVZJOWhScUtfUTZ2YzdHVjBxMlJvRmhTa2pzVV9vQmY4c1AtZGZkeTNYVVQybnBvSzkwN1RMSkxlai1SMnpFUmM5WXdEYlVhTVBHb3kyTmJadkVuLTRxaWhaUV83Rkh5WTdlZElfdHVxeDhTRnpqZXlQeEtBZmZUWVFmaGpfTnA1eDFmWktaajJJcklTOW04M1dBc0NGZ0J3Ti1wTFVmbURWZ213?oc=5",
+  "source": "CNBC",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-23T14:17:05Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "59d568112f25",
   "title": "Trump hosts crypto gala as his meme coin falls below $1",
   "url": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
@@ -1959,6 +2093,19 @@
   "good_news": false
  },
  {
+  "id": "c580670211b5",
+  "title": "Malta’s financial system remains resilient despite rising geopolitical tensions",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkhOeWdZVnVfR0ZSSVl5c0o1TDk5bzMzZm9NVHcyeXVLcm5aRTJmdm9mRDJiaUR5Y0l6YnBMNHBNRHdLSnY0eUJISlpoZGQxTThaQUVfU0ItNHNFT1YxNXVYYktUQWZDSFNhR1RVSHRod2tWY1d4OWZkNFhtNENpVzNSVzh5a005MWp0QVE3ZjNXc0R0bHZIN2FLU1RaZzVVc0tWQjU4NjV0Zw?oc=5",
+  "source": "TVMnews.mt",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-23T11:21:43Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "f59f5078f7d1",
   "title": "Futures rally after Wall Street's nightmare week",
   "url": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
@@ -2026,6 +2173,19 @@
   "good_news": false
  },
  {
+  "id": "08cec71e37e3",
+  "title": "Markets end mixed amid geopolitical uncertainty; Sensex up nearly 114 pts, Nifty ends below 24,400",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3pfeTM1YV9NMEV6cVo5WjNncW1PaDlGeFB5amwwQnhJc1cwZUFuNVJxT0JqMDM5S0Y4Q3YySDJLRVFTOFdLZzZJWE9id1M2QjBsaVJEcW4tNHdLM3EwZVBzcC0tU1VTcmJYV0J0RnlVeXQ2a2RWc3hwdG1GVkdjRnRTaWhqY3JGUDZ0NkdEVmNyYlhfa1dILWRlRkIyeVZiRVlNZ3NyN0JaX1k5bVRmdkY4dHl2ckxYSjM3R2tR?oc=5",
+  "source": "DD News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-23T09:37:49Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "91424746a66e",
   "title": "The stock market faces a worrying scenario: a sell-off with no flight to safety",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53azFCeHE5OFVHQnQwZFdzSXlGZ19LM3E2QlhKYlRYbDJhanJ0ZjczU0sycUpvNGRMYnZKQ0J3TFNYS3V3bE5IcWZibDdxZlpxMkJtVFJiRmUtZlR3RkFzQWQwMG1jeDlKWEZhOFN1MGkzckxBXzV1NndB?oc=5",
@@ -2078,6 +2238,19 @@
    "AI & Tech",
    "Geopolitics",
    "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d539736dce4f",
+  "title": "Oil prices stabilize amid persistent geopolitical risk premium in the Gulf",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0UxbXVneGNKVlA2Z3Zxd1lTXy1oVHZ0Qnp0UDJrN3A0WVJIQkoxQU1KUjJhUU9JTWVkY1Z4anFlMVdtLW1rUFgxSnAzbHFfb1RheVpBb21DcFRIdFBxWC14bndsTEtTMGJ5T3Y5M0t3QzRNcDVPQ2l1UHhNTGduNDV4cEpfRWVJUEs3V240YUZaNXg2Ri1zbVY3QkJPUndOcUJaYXBheFRBeVFwTmtsM0ZxNm9GbWYzSklEbWk0X2pGWERvSFpVTEpB?oc=5",
+  "source": "صوت الإمارات",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-23T08:35:44Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
   ],
   "good_news": false
  },
