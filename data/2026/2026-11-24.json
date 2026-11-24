@@ -1,5 +1,1748 @@
 [
  {
+  "id": "732fd1570f14",
+  "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+  "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T21:53:05Z",
+  "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a82888cd3f01",
+  "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
+  "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-24T21:52:05Z",
+  "summary": "Fears about some companies' AI debt ramped higher Tuesday, a day after Jensen Huang's return as Nvidia CEO.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "37db063b01ea",
+  "title": "Anthropic’s stock just broke below its IPO price for the first time",
+  "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-24T21:46:00Z",
+  "summary": "Shares are trading below their IPO price of $83, less than a week after their debut on the Nasdaq.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ae098b376dd8",
+  "title": "United Microelectronics (UMC) – A Chipmaker with a Bargain Entry that Investors Wrote Off Too Soon?",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/united-microelectronics-umc-chipmaker-bargain-214044565.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:40:44Z",
+  "summary": "United Microelectronics Corporation (NYSE:UMC) opens our list of the 10 Dirt-Cheap Stocks Positioned to Soar in 2027 at number 10. By November 20, the S&P 500 had slipped about 11.6% from its 52-week high, and chip stocks took the hardest hit, with the PHLX Semiconductor Index…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "87fdfadb04ba",
+  "title": "India’s Largest Private Lender Is Lagging – HDFC (HDB) Made into Our 2027 Bargain List",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/india-largest-private-lender-lagging-213822712.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:38:22Z",
+  "summary": "We just published our list of the 10 Dirt-Cheap Stocks Positioned to Soar in 2027, and HDFC Bank Limited (NYSE:HDB) holds the 9th spot. By November 20, the S&P 500 had slipped about 11.6% from its 52-week high, and chip stocks took the hardest hit, with the PHLX Semiconductor…",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "396765ce0d2a",
+  "title": "Brookfield (BN) Trades at 11x Earnings. Here’s What Keeps the Discount in Place",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-bn-trades-11x-earnings-213702627.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:37:02Z",
+  "summary": "Brookfield Corporation (NYSE:BN) lands at number 8 on our list of the 10 Dirt-Cheap Stocks Positioned to Soar in 2027. By November 20, the S&P 500 had slipped about 11.6% from its 52-week high, and chip stocks took the hardest hit, with the PHLX Semiconductor Index down roughly…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5eaf1dee8989",
+  "title": "Gas Prices Are Weak, but EQT (EQT) Made Our List of Dirt-Cheap Stocks for 2027",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/gas-prices-weak-eqt-eqt-213508285.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:35:08Z",
+  "summary": "EQT Corporation (NYSE:EQT) ranks 6th on our list of the 10 Dirt-Cheap Stocks Positioned to Soar in 2027. By November 20, the S&P 500 had slipped about 11.6% from its 52-week high, and chip stocks took the hardest hit, with the PHLX Semiconductor Index down roughly 36% from its…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4e5801dd60b0",
+  "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnZHRmstdzV1aXZxWHpQc2k0MFRESmFDbTVxanF3SE9pVUo2TWJ0eHpnYmJQS2IyRFBsM09vYzNjUWc3SG9VMEc4YzFUNG9va2xVNE9JRzN3R0toV25Cal9ORUNpb01HcFJGYlBzWndFMnhxaXpPb0hiMlJPZjU5V0RMZ2dSV1VWd3k1WmZOekZyZUthTWp4M0lfenJ0WTBsSmZjS2xEcUhUQjVM?oc=5",
+  "source": "Barchart.com",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T21:34:04Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "12f9abe026e7",
+  "title": "Revenue Jump Without Selling More Diapers? Why Kimberly-Clark (KMB) Looks Cheap for 2027",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/revenue-jump-without-selling-more-213322473.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:33:20Z",
+  "summary": "Our list of the 10 Dirt-Cheap Stocks Positioned to Soar in 2027 is out, and Kimberly-Clark Corporation (NASDAQ:KMB) came in at number 7. By November 20, the S&P 500 had slipped about 11.6% from its 52-week high, and chip stocks took the hardest hit, with the PHLX Semiconductor…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c8706c74aa84",
+  "title": "Live Updates: Huang’s Return to Nvidia Sparks Stock Rally and Lawmaker Skepticism",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnQ0LTNaSmJtV2pfeHlCZmVqWDM1QXU0TkZZcnYxS1JpTGozTVR2dVhfM013NUp2VWdoMmdFWjZtR0tUenJlOURYNGFtcmZwZjJrd2VnSjUxVnFoZk90bWhrV3d3NzNkTTlyNjM3NzZXaXZLUEdEWlV4ZGdEeUZQY0xZbzBnZUYz?oc=5",
+  "source": "The New York Times",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T21:33:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "ebb39de3477c",
+  "title": "WTI Remains Under Pressure Near $81 As Supply Concerns Outweigh Geopolitical Risks",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVDVwc05MTlVEQXhYQl9wRndJX2dJNUF3QWFpYjdUc0J4dGpNMHJiekVxWkpKTktjZDZqdWdmWDVLZlNwTlpMV1pHX19BMHpoM0RsaENta1V0ZVJBZHNKOXVLRmhqWXFGZkszS1dNS2FZRmxISUFwTVBYRktJU3l3X2g2QjR6bFlock5Fa2pweE54dzNMTXcwTkZkVTJqTEkxMy11REVnYjJteHl4UHY4R0dUZjBhVWdxMmxCVXl3S081NHhpUDNhWnpkYmVEdDlQbXRHdkF2MTRRaHlF?oc=5",
+  "source": "Seeking Alpha",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T21:30:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a26b4624b5d5",
+  "title": "Nvidia, Anthropic end sharply lower as AI selloff resumes",
+  "url": "https://finance.yahoo.com/technology/ai/articles/tech-firms-soar-huangs-return-023753159.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:29:25Z",
+  "summary": "Nvidia and other tech shares endured another selloff Tuesday amid lingering questions over the AI boom, giving back some of the bounty from the prior session's rally.Fellow tech behemoth and AI giant Anthropic also slumped, giving up 6.5 percent to $81.91, below its $83 price…",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5b0ad5da71df",
+  "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+  "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T21:29:03Z",
+  "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8e086ba2b212",
+  "title": "Stock Market Today, November 24, 2026: Nasdaq Falls as Nvidia and Anthropic Slide, Oil price at $89, Gold Drops to $3,620",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1ljM2NfLXUwSENYazc2cERKNkFvM3FuRkF5aGd3dnRRZFB6d1FnVnZlMlZMem1ScmNWWDV6X2ZuclZCSm92WDAtVlZFLWxMWDItS2NzendFVGQzN3VobEhhU1dZeXRFNjFXWEVRdTJ5c1d0WFpxcUdvcURia1RwSlBxX1NjV29GZ04yT1RNdExOLVJERmZWdXRtSWF4NDhxQk9mOGhTRk9HOHN1Zmd6QktFcVB1N0FhTFplQ21Oal83ODFNYTJKNmtxNEVuNFZwRDVQSnlIYzBBOElrOW5ldFg1aEFhVER2SlVKZ09n?oc=5",
+  "source": "Eurasia Business News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T21:25:29Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "08eb4894b23c",
+  "title": "US Equity Markets Mixed Amid Decline in AI Stocks, US Proposed Tariff Increase",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXVHSHdvSUZmYXBLT3J5ejJpMi1XVXZWci1XWlNPU0toSkRFYnNTV1BDSGE4VmVDbXVCSjFOREVFaTdXM19lTzRWZXJENW1CQnNYUW5WdFNTaWxTdEVQd3JOUkdQUFNUdkFFSmpGS3ZUZDFrLU1ZcGxNcHRqbnc3bUNGT3JzbzJXVUJ0clNneERMOUo4TFc5Vk5xdEQ0OUNKRV9vTElDY0R6UHRxZzlNMmRQTlhzNGV0NXQzRjdZLTJoVEdQZ1Jnak1R?oc=5",
+  "source": "marketscreener.com",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T21:23:13Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6e23cd5fa714",
+  "title": "5 High-Conviction Stocks Billionaire Philippe Laffont Is Betting On for 2027",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVE1Ym9WV0F4bGtUc1lyRFgyekhTUXN5Q1RIbWFRa0FsYWVUNWlKX3pzQ3NSeU85b001ZFY2MUVGTWtxWXFwZ0JYVjRXMGFFOEdyWTRuNnZiTDhUV3h6dXZUVmpoT2t5M0ctUHpLc01wQUJhQWRzTFZfYWgzcDM0c2Vmem1fX0NYMl9Kdy1vWTlNUnU3UDRmSW1qRmx0M1F6dzJV?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T21:23:07Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9b74603d6ddd",
+  "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+  "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-24T21:22:00Z",
+  "summary": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f6f85091c246",
+  "title": "The stock market is hardly cheap, even taking recent declines into account",
+  "url": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-24T21:22:00Z",
+  "summary": "Equities are still extremely overvalued, notwithstanding the stock market’s steep declines over the past several weeks.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fb05417641e4",
+  "title": "Dell handily tops estimates, lifts sales and profit guidance",
+  "url": "https://finance.yahoo.com/technology/ai/article/dell-handily-tops-estimates-lifts-sales-and-profit-guidance-212145887.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:21:45Z",
+  "summary": "Dell beat estimates in its third quarter earnings report and raised its full-year sales and profit forecasts.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "ca6bd074c97c",
+  "title": "US attorney general dodges questions about Nvidia investigation",
+  "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-24T21:19:42Z",
+  "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "970514c89b1f",
+  "title": "What Would It Take For Lower Oil Prices To Break Occidental Stock?",
+  "url": "https://www.trefis.com/stock/oxy/articles/628316/what-would-it-take-for-lower-oil-prices-to-break-occidental-stock/2026-11-24?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:18:56Z",
+  "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c55e7926b1c5",
+  "title": "AI stocks slide as Nvidia leads tech retreat on Wall St",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTmxWOU5ZZDdYZUJDdk44NFBjWHFOdFZscTE0aFJMY0ltb1FPVGEyQzN0LWlUZ3hTbXE3Q1hFOTI1Q2wwWkdLYURBMndBbEdzeUtwNjF6WkdZSWtNTVpRQk54VWhEWG5fdHJDUmhIMVZCZU9CdWNCbzloMUx1VmVrUVBNRzU?oc=5",
+  "source": "Ticker News",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T21:17:26Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7b37625c1dc9",
+  "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+  "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-24T21:15:23Z",
+  "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "91a8fe21ddfa",
+  "title": "She Retires at 65 With a $900,000 All-Stock 401(k) as the S&P 500 Swings From Its Worst Week to Its Best Day Since April 2025. The 8.6% Drop Erases $77,400, and the Rebound Still Leaves Her $38,409 Short",
+  "url": "https://247wallst.com/personal-finance/2026/11/24/she-retires-at-65-with-a-900000-all-stock-401k-right-after-the-sp-500s-worst-week-since-april-2025-the-8-6-drop-erases-77400-and-mondays-best-day-since-april-2025-still-leaves-her-38409/?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:15:09Z",
+  "summary": "A retiree with every dollar in stocks watched the market crash and then surge in a single week, yet the rebound fixes less than it appears. The bigger threat is hiding in her tax-deferred account, and it arrives years from now.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "09cc3e1627b6",
+  "title": "Nvidia's Historic 31% Rally Unravels In Just One Day. AI Stocks Plunge As Nasdaq Sinks 2%.",
+  "url": "https://www.ibtimes.com/us-stocks-mixed-ai-selloff-consumer-confidence-3810150?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:14:50Z",
+  "summary": "The Nasdaq fell about 2% while the Dow gained as investors rotated away from technology shares and weighed tariff risks ahead of key inflation data.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "efd2e42bcffe",
+  "title": "GDS Holdings And 2 Other AI Infrastructure Stocks",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzdLRTM2cUhidDFJR3Q5dFhNdTNjWl8zZTVkaUFBeVRINFh4a0pia3U3WDcxSHAxdml2QTgwU2k4QXd5V1pDZTktSUFLOXNVNEFYRkN6UnhVZW5KU2RWSzNhU2RPOXRlRnhQczZCYUhNaG5DOW1ORTh1dHNETDdDV0w3ai1HY2Q1aDM5SWdDQi0?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T21:14:22Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "485f1132d7ed",
+  "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+  "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-24T21:14:00Z",
+  "summary": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "253cc4667402",
+  "title": "Dell’s stock rises as the AI boom helps sales more than double",
+  "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-24T21:14:00Z",
+  "summary": "Earnings forecast also impresses.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "fd9d6acc316c",
+  "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+  "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T21:13:39Z",
+  "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ce0766a1ae99",
+  "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+  "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-24T21:12:53Z",
+  "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "2160861524a7",
+  "title": "Analysis | Maybe the market is the economy after all",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkp6YllFbGVuUS04S1E1aWdta2paXzVJTE00amRvblR0dGVFVHZwVTBUVXRpZEFSMVpYNnc0bmM3YUFKZG9vX3NRdWFaTGVRblktZ1gtRk1CY25Ea2ZwV2RCS0pnMXpiTnk0OGxHRDd4eExYZC1sZlZhZ0V4ajE1LUdGWWlzUzh0X3RoZHZR?oc=5",
+  "source": "The Washington Post",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T21:12:01Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "579643943815",
+  "title": "AI Regulation Could Put BILL Stock In Focus",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVnE0elJJXzZ1cEh0elRETEtPSHdramFXNVpaaEwyRXBDN2RUdEhtNFVZZ0hFeGUwTXpKMWJ0a3ZlUTVyeGF6dWoxQ1pCdkVzTl91NlRYdFp1RHdrLW9PelA4czZnMGs0eDc1V3V6VmxqWHliYmo1b1lCZGJ4NU1UQjV6a0xSX1pBcTFKZTlubkdTemFlOEdn?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T21:11:52Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "460ecfec9c50",
+  "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+  "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T21:07:19Z",
+  "summary": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "f279e174503d",
+  "title": "Treasury yields are steady as investors await more economic data",
+  "url": "https://www.cnbc.com/2026/11/24/treasury-yields-bonds-inflation.html",
+  "source": "CNBC",
+  "feed": "CNBC · World News",
+  "published": "2026-11-24T21:05:14Z",
+  "summary": "U.S. Treasury yields were steady on Tuesday as investors took stock of a speech by John Williams of the New York Fed.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2116f73a7761",
+  "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+  "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T21:04:03Z",
+  "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "70e84b4c37db",
+  "title": "What Is The True Hidden Price Of Texas Instruments Stock?",
+  "url": "https://www.trefis.com/stock/txn/articles/628309/what-is-the-true-hidden-price-of-texas-instruments-stock/2026-11-24?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:03:53Z",
+  "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "54a9d2a9698a",
+  "title": "Drops for Nvidia, Anthropic and other AI stocks drag the US market back down",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVFR1b1g1Ti1ka2IxOUFaNThycXNhM3Iyd1hkMFJKcWduSElZTWl5eUNxd0hnZy1pSlQ2MHVlX0hmbXF2LWg4WWRWUTkxZEN6bENWTFhtWnNJdWxIMTRRQmRqS3VRWFJFSXcycUM2WGFtcXZzWGZ0UUZBU3FKaS14WlFUai1VYktRd29oNWZVVnY2Rmtlc3Y3V04ydlJKTVQzOWxUNWlqRWliMGYwcUlCWDRpdWpKdkRxdDh4dzN2c2NHSUVKc0IyMmp6YnRVRnQ0amhfbEoyM0g4QWxnOWxkUExnNVUyRXpBQVJHeXRGWFc1dTdxZzZEc0lpM1NBZWlCZzFqNQ?oc=5",
+  "source": "Clinton Herald",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T21:02:42Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d33673a0cfbb",
+  "title": "nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-nvt-stock-down-210145373.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:01:45Z",
+  "summary": "On Tuesday, Nov. 24, the stock fell 8.4% as AI chip stocks sold off and power-equipment peers dropped, without company-specific news.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f4ef13ebcb15",
+  "title": "Why MaxLinear (MXL) Stock Is Plunging Today: Chip Stocks Sell Off",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-maxlinear-mxl-stock-plunging-210142402.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:01:42Z",
+  "summary": "On Tuesday, Nov. 24, the stock fell 16.0% as chip stocks sold off.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "405e4a6fb0fc",
+  "title": "Rambus (RMBS) Stock Is Down 11.4% Today: Chip Sector AI Selloff",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/rambus-rmbs-stock-down-11-210135197.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:01:35Z",
+  "summary": "On Tuesday, Nov. 24, the stock fell 11.4% as chip stocks slid in an AI selloff",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9d0dcb14a655",
+  "title": "Advanced Energy (AEIS) Stock Is Down 9.6% Today Without Company News",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-energy-aeis-stock-down-210130944.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:01:30Z",
+  "summary": "On Tuesday, Nov. 24, the stock fell 9.6% without company-specific news, as AI and chip stocks sold off",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ffd7d0d935df",
+  "title": "Why MKS (MKSI) Stock Is Down Today: Chip Stocks Slide on AI Selloff",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-mks-mksi-stock-down-210130421.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:01:30Z",
+  "summary": "On Tuesday, Nov. 24, the shares fell 10.4% as chip stocks slid in an AI selloff, with no company-specific news",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6d3e776fff60",
+  "title": "Immunome (IMNM) Stock Is Up 13.8% Today Without Company News",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/immunome-imnm-stock-13-8-210119724.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:01:19Z",
+  "summary": "On Tuesday, Nov. 24, the stock rose 13.8% without company-specific news as health care gained 3.0%.",
+  "categories": [
+   "Social & Consumer"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1869998f0983",
+  "title": "Why Is Semtech (SMTC) Stock Plunging Today? Chip Selloff, Analog Peer ADI Drops",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/why-semtech-smtc-stock-plunging-210116284.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-24T21:01:16Z",
+  "summary": "Semtech shares fell 15.9% on Tuesday, Nov. 24, as chip stocks sold off and analysts lowered price targets a day after its earnings jump.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a315648460f9",
+  "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+  "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+  "source": "MarketWatch",
+  "feed": "MarketWatch · Top Stories",
+  "published": "2026-11-24T20:58:00Z",
+  "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7463d7c07d62",
+  "title": "National Security vs. the Stock Market",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3lPVDltZFlETVlOV1E0N2tNMW1nbHdrSy16SHpmQVZlLXNTWTRHMnhKa2hwNTlReFRCXzc0TmRrTDNlaVFXSVZXWWZXMHRVek1OVjdmcHlhbTV6Y0tfalFveHltNlFRTDc2MTlFcDF1LVBZTkpPa0NUY1NyMVhOYTVCNA?oc=5",
+  "source": "The New York Times",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T20:56:04Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "e87ca0fc1097",
+  "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHJrOW9PVjh5OFBNZG9oUDBwS1gxUG1aSm5DZGFHMVJCa1V0azZpWTFtX2xkTm9HYXBLbjJuSmktX0hTV3BwUVlVODVSdFNTYlU0VVB4OERRS3F0a1VOQlIySFRmMjhKek52cmd2WWNnOFQtejN2bUlNTXlSWkowR2d1eGg?oc=5",
+  "source": "The Guardian",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T20:56:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0e1dbd847d3b",
+  "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+  "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T20:42:07Z",
+  "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "80a5acb9a177",
+  "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+  "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T20:37:40Z",
+  "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "202cadbee624",
+  "title": "US stock market today: Nasdaq and S&P 500 fall as Nvidia and AI stocks slide, Dow gains",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXhISFVWZllNX2ItSVRiWFVqSDFNQzloY29ZNGJjR04wa2lyRWx5Q1Nibjk1SGEzOHNMN0FrU2RiLV9JNW8yQjdHa25EZWRYLXliQzc2RDh5YWRUUHlWX1FRcHpNZmJySFJXM0t1d0lRd1RsSGNpSWF5NTJjNjV4UHR3?oc=5",
+  "source": "Beinsure",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T20:08:26Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "2f92498a9926",
+  "title": "Financial Forecast: Nvidia fallout's impacts on the stock market",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZmNIeElDbUNENG5FVXNIMTdiYkh6cUVRUTF3VXNLQ0JVZlJXenU2Q2ZidGxnX3BIOF9IZ0ZLazVzbjFmOXFzeGlJUGxkelRoZDkxVmluSnNPbnhqbm5CLVhSZ2ZFc1JXUnMwNkRfNFRXVW5Xbkh1ZFRQblM2ajNlNzhVcDNOc180MjhuaGNzU0tEbGFENnBlc2pCWVlKWXQtZ0VvSGZObW15VkVkaC1VU0tXYkM2UXBycENndG1iTXpVV0NVSjBlOWx4RjMwSHNOR3c3Yk1heC04X054NDFsQ1YwR2luYm4yWC1DZ0JiYVBYOW9pUHVGOEIwR3FaTkwxb1E?oc=5",
+  "source": "13newsnow.com",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T20:05:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "eae788f2bd68",
+  "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+  "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T20:02:49Z",
+  "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a91d653e0713",
+  "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+  "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-24T19:54:59Z",
+  "summary": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Politics & Policy",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ffac5f623762",
+  "title": "3 Non-AI Stocks to Buy for Long-Term Dividends and Stability",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXo1V0tXZHVkNmdObkl4cjdrN21lS054ZGgyaWRKcVBsMDlYcXNuLVNKQlNITjZWTXVydW0wak0zVUh1aGFQR3luX1hnU0hwZDBBb2d1Q0s3SFRlcGVGMFJUR3JzaGtyTzBFbGhtaXZ3WVkyQUZyUDZhLTlhM1BNOTVGenR0TmRLUDJBU3hBaGhvR2RnT2tZUEUwRHFONHppY1FQd3RR?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T19:52:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f1fb3f19a314",
+  "title": "Should Vanguard S&P 500 ETF Investors Be Worried About the Downturn in Nvidia and AI Stocks?",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWWxjazd3VUpwdmNURC13T2EtVVhTNEdzRDBsUG01OG0zMmJMUE9FZ19feWY3Njc0eDFKdFNPSEtaejJyYnNNcVFrRmY0N0drNTVPSmw0eXM1eWc1R2ZtZUVGazlZeFMyOEJVSlNNMDhTUkdGU0ZrN1JWU2pCdC1qS3BFZ2R6dTRXeTZWSWpydXVGbXozWUhIdDNxQlotc0xfYVRFT0VDRzlORGFxVS1wMksxcUh3QXBjOW42UlZRd0lHdUhvTzRKTGRjXzZVQmhvTm1UUw?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T19:52:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "54b19165a141",
+  "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+  "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T19:47:42Z",
+  "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9d6ebf5bab45",
+  "title": "Opinion | Nvidia proves nobody knows anything about the stock market",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5",
+  "source": "The Washington Post",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T19:45:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d75f44a442b0",
+  "title": "How Huang’s Return Rewrote Corporate America’s Rules",
+  "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-24T19:36:06Z",
+  "summary": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5bb14a55a8b1",
+  "title": "Current global geopolitical challenges cannot be managed in isolation",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlFZc0tFQWlaNHRTa1F4QlZiUGM0WjU4RXFpUUNZWmRfYjhUUFZzVEU0YXdwclFVUlRpam9jQ1htaWJaSkpkNG1mYjQtNVN0NkZObFYzR281Q3JPdHg2R1ZDTE02UDlXVWJxc3J3YlZQeDN2MXJXVndGUE4yYzNGUVMwZFJ1TGtmUGZPMzhtOVFBVmxmTnV0V0UwNHhBZEJqY2pr?oc=5",
+  "source": "Johannesburg Sunday World",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T19:28:16Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "dae115e7b134",
+  "title": "Buffer ETFs protect investors from the harshest market swings – for a price",
+  "url": "https://www.cnbc.com/2026/11/24/buffer-etfs-downside-protection.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T19:27:25Z",
+  "summary": "A slate of ETFs that use esoteric options strategies offers investors protection from market volatility — with a trade-off.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c39ea0fc9e3f",
+  "title": "Retail turnarounds are taking hold just in time for the holiday season",
+  "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T19:26:39Z",
+  "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+  "categories": [
+   "Social & Consumer",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b8eecd19cdaa",
+  "title": "Gold is doing something strange. Here's one way to play it",
+  "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T19:25:13Z",
+  "summary": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ec4356c90f0e",
+  "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+  "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T19:23:59Z",
+  "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0d4e79dfde5c",
+  "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+  "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-24T19:19:59Z",
+  "summary": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "58766f60e3a3",
+  "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+  "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T19:19:12Z",
+  "summary": "The AG and FBI director evaded answering reporters' questions about details of an investigation Trump said resolved security concerns about Jensen Huang.",
+  "categories": [
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7ca3f789590c",
+  "title": "S&P500 and Nasdaq Index: AI Stocks Slide as Nvidia and Anthropic Retreat",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXlzUnBuNVItajlPbmJ0SWROZ09zaktET3poZ0xhUkRHdlhsX3c2N1MzRTgyOHllMFB5bE9fM0RGQlMxM1diYTU0OHlOazE3UHZJZ0l3VnVxY3JCbHRFeC1nbTA3VEJ5U0RlSmdlaEdXalV4OFlCaU03VXNmMUtEYWo3YUN3SWhUaG4xTm16NHBCYUM0MjAtaEQzQXBIRmpOWjZ5S0tWTFMyY1NDWk1OdG9pdDhCamhCLTFOUHVR?oc=5",
+  "source": "FXEmpire",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T19:17:27Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4ed35f0c718b",
+  "title": "Investors are fleeing this data center stock. I see an opportunity",
+  "url": "https://www.cnbc.com/2026/11/24/investors-are-fleeing-this-data-center-stock-i-see-an-opportunity.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T19:15:12Z",
+  "summary": "Investor Steve Grasso sees a buying opportunity in Vertiv after a sharp sell-off driven by concerns over data center construction restrictions.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "043cbc172606",
+  "title": "Nvidia, Anthropic and other AI stocks get back to tumbling and drag the US market lower",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEdHU1ZWMjgzb1lYODBaTEJpdWNXUXVpUmlDTmVxSTBjUVlOYlBBWmZXSzVrMWR3SE9NYTg5cVNuemZFZHlJdU1PdGdybnh1NUFQVTVINkJUUk1Sb0hmNnI5YS1LQTl5SUJibWpWekVQU1BqR3NuQWhVeHZlUVJ3bDEtRmZZNmVHWVFFRTA2RUhFcTQ?oc=5",
+  "source": "AP News",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T19:14:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "414f91396498",
+  "title": "The AI trade is hard to escape — even for investors who are deliberately trying to avoid it",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzVOZmtnSTdyb0RWUnNBQVRLbXZzampza2RoX3RpdVFKNFRHZG9lWDF3R2d6MGhXbTVDZGNORE53U1JUZTY3YTZtbW9YZzV3Qjl5azYzbEEzUHQxd1RfQWgzV3k4TkVhOFJhUkl1aWk5dkdTeV9uTTdkSTlwRWhyT19yVThidTc3c1JzM281R1VUaFBVLUJIdtIBmAFBVV95cUxOaU5qbElrOGVQWU9lSF8yVEJTR1NNbFl1UmM5Z1RTVUtScFZnUjdsZ3RwWVFaQURqVDN5eVI5cFBCRlBidnZXQmUwTWdhSFBHMmhyYUVFNmNvbHJEdW9wcWE0aU5aMkU1ZVo4Nnh0NFZoaUhKRzg2bkgtWWJ6YjR4T1pnYWZ3MnI2QU85eDVyNDN1VVY4UE4zaQ?oc=5",
+  "source": "DW.com",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T19:03:37Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7719254daf22",
+  "title": "SpaceX Falls 4%, CoreWeave Down 13%, Nebius Down 11% as AI Stocks Give Back Nvidia Rally",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTc1c3NpaFlZQXZITnVUcWJyS0dXTVl1R3JseThWUVdqaXpIUHVrR0tIcHBob0lyRDk4SFhqcURBVndUWFhHaDNfeUF1UC1razlDV19kVHZjNENRNlVEVGJ4Y0NoQWsxeXFkWkUwejd4RTRPcFNRVV9OZGNUdlVBa290MXpJbUlHazZ4aFV4SnRNM2U5Wldvd1dn?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T18:57:58Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "89e3f3cf5cdd",
+  "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamhxOU8weWdPQlYzdmRWR0hKdVBPdGhpcXVzUVBOcWpmNmdlTXUxSXFiSUE0SUF2Q0NWVlNUOE43TG0tYXFZYm50TnlrNDRJdGxGTUlpeUhKT0lRVjFHb3NPVS1CLS0tWmZoc1lNcEtKTDBWVDhmSVRmVlpxbWRSUmNsWkFva1czcWxXdUJBLW9mVFNLZmk3LU9ZOHZaWFZoNmlV?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T18:50:25Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "917a8f14aaca",
+  "title": "Worried That the Rally in AI Stocks Won't Last? Here Are 3 Low-Risk Stocks to Buy Right Now to Safeguard Your Wealth.",
+  "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYVRsSkxlYllhMmgtN2FILVR1b1V3R0tBS2hZZFRzazN5SndmLTFsLVd4RTZCZFpmekpzYjZ3MzZtOEprTkFURC0tRXlteVlkMEVFZGJoMjJmZEJUX2tsalZLWDQyNTVfM1lZX3gwNV9MajBQR0czNmREYjhKek9mOTh5QzRFaWVkM0NtcHB5MFdMOUI1ZWJEWGhtSjVkbGZmVkxNWEJfX0xmdlJrYy11b1FsUWxqdXZhVzFpZVBnWk5zN2JlWGNlYjR2MVZKMGhpa1BqVmJFYWduaS1OQ1IycGZhV25rY2Y0SDZtdTl1YUdJeTA?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T18:38:46Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "1f68c62eda08",
+  "title": "These Vertical Software Stocks Could Be AI’s Next Winners, Morgan Stanley Says",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcGtManhfdklqY0dNcnlUUWM1TWt3MUhGSDZydEZ1Ull0Sl9KWDk5bHNlN3VaaXhLOFROUElaVFNidzY5TE56T2U5UVl0T2pZSF9KNG9IdEFOekRkWTJnbzRXUHo0T1BKOWVlS0dYYndQb2JxNTlMVHBWSC0wVUJhbEVidU12UV9rSEFkeENMdFQ4ejhiRzVDZHYwa0M?oc=5",
+  "source": "Barron's",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T18:38:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3bbd48273841",
+  "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+  "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T18:34:43Z",
+  "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+  "categories": [
+   "Economy & Fed",
+   "Politics & Policy",
+   "Social & Consumer"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d30dc805bd17",
+  "title": "Katie Stockton sees a comeback ahead for this beaten-down tech stock",
+  "url": "https://www.cnbc.com/2026/11/24/katie-stockton-sees-a-comeback-ahead-for-this-beaten-down-tech-stock.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-24T18:32:32Z",
+  "summary": "Keysight Technologies could rally toward $329 as momentum improves.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "eacbc799f3ce",
+  "title": "This Software Name Shows Why AI Bets Are Paying Off Even Now",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xOGRxUlV5YlpCdTlZUzdlWjZZb19LdDVibjU4TzFXV3NEOWZGa1FqMUNfZmFCZTRxM2lOcWJjdEk3aFBNRWNJOVN6WlJfUm9uNDktWVlVeWZDZU9yVy1wZmpvYlhxRURTWGlDYzVR?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T18:29:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "60789fe36e6f",
+  "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+  "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC",
+  "feed": "BBC · Business",
+  "published": "2026-11-24T18:21:43Z",
+  "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "88547783c012",
+  "title": "Nvidia revived the AI trade, but investors still have reasons to hedge",
+  "url": "https://www.cnbc.com/2026/11/24/ai-trade-nvidia-rally-defensive-stocks.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-24T18:18:53Z",
+  "summary": "How to play defense and protect your portfolio if the AI trade fizzles again.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "a729e3e530f7",
+  "title": "Global OTR Tire Market Poised for Long-Term Growth Despite Trade and Geopolitical Disruptions",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVVN3QTNqU1FjU2FYckhvenVVRVlSU3Fka2VfR3dKUmN2NUYzd3RROWg2eUpRUkk3OTJfR1g1WHhPTFFmTVFBaFlkMXpJV1BHTGFyc2ZDV0pnX3dsdVpYV1JwZEp1Z0xxRE1xa2FSU0RiTmVqV2RmcUhUenlkcE5fYmFnUWg4WHZVYWw1LW5oSWFoV0pQR1ppZHVnSEJtMUotWVRTVG9WeWNSUFJQXzRscl82c3dlRmx1NFZMdTBabjZNbXgzc0Y4VFI2aU9RMnlXdmR1Z2tTeGpiUQ?oc=5",
+  "source": "Smithers",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T18:16:12Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f248c226c3f0",
+  "title": "AMD Stock Shows the Market Has Stopped Making Sense After Huang’s Dramatic Return",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFZiUXAwenUzWFNOTXVsanB4ZEdoeU1nMFozQTF5T0NNRnZGZG1UVnhuWXFwb3Rhc2ZlU1h5dVc1aXUydlcxdEl3ZUZGY2p5MzBQUEZGSzNWb1ZkZ2tDQnh4NTJLX2FJUUtfSmVvQllMY3FESV9uc0g5Z25fTlpBV2FHMjhJY3M?oc=5",
+  "source": "Barron's",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T18:14:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "621f2126db80",
+  "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+  "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T17:59:12Z",
+  "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+  "categories": [
+   "Economy & Fed",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b4aa4dce7919",
+  "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+  "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-24T17:51:45Z",
+  "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b61270ad6b82",
+  "title": "Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVZqbFp0S2VwUjFCTVJFWkJZS2NSbnNNVl9yVkRDQ0U4bElGTU56bF85Qi1JbVZfam85b1E4eFZyRl9wbElvQVRtZU1UcDk1eWVMcXplN2JwM1BGQmRraktoQ0hoQWstUlNBQjJGOHJaa3ZjRzhxV3NYOTM5aWgzTnV5c2MzUFh1aEhFYVpHV0pwbHFKc2c?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T17:45:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "084dd9f7b086",
+  "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpzR3NLc2czaVQ0bUV4SzB6NTk3MjJtbWFoWXJVcjZxcDFNS1NYc1VSYkhDMTRXTUpHVktRQUQxb0c1VkVuTlBQOWF6TzA4N2pxZzdlSy1BczA3azhsX0N1dk9Td0R0d210ZVBfOGh3cXB1SkE1Yi1ZTnpKM0pFcnduQzlaV18wMGhlMUNfVW5OaVdPWGp6dDRLa2JMQQ?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T17:41:32Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "89aacd7ed696",
+  "title": "The AI Trade Has Lost Its Mania, But Allocators Say Fundamentals Haven’t Changed",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHN6QmE5UGVJeWFhUDVYVGcwdmlQZV9yMkpkcUc2MUNBcFBseEFXMG9aSW1Weml3VW5hR1NkaGd3WW5KTUs5ek0ycFBmMkxfYWwzblhPdXRjdGZJVlpfVUJTQkpmSC1KT0tuNjBKRkoyYkdQV1ozc3Bfd09POWVYWEVXR1E0NmZSUlhrWXRXZldjR3YxTC1VcG9mWTZQWXNtN2RGUm80elNsaFVfclFfVnh6X1NPcEk?oc=5",
+  "source": "Institutional Investor",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T17:37:30Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "03f5a8bc120f",
+  "title": "Tech stocks back in the red after euphoria of Huang's Nvidia return",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVNhR0cwYzMzdGVzdnpqZklCZlNjNlNhU1BuRnIxb1lLZTVvMUJfd1RsdE51RHhoM2ktNWJNNlpFakNZODdma2lMaHpTb09PVEswcE1xUm1nbWU0MVZXd1FCS0hoX0wwdHdkbU5oSnRWdG5oQjdGYXU2U3AtQmNTdjVpZjRoNTB3c0JWSlRpVHRQd002WkJyVg?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T17:25:47Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d90d453a11d9",
+  "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
+  "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T17:24:42Z",
+  "summary": "Follow along as CNBC highlights the biggest stock moves of the day.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "70d4cc93f490",
+  "title": "Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes.",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYXNrd19NSzVMdGFnQzZ6OFV1M3Jjd2dZdlNlM29WQmtSU0E1OWZsTFRHTXJFNjQ4X2c3blBzNk04UWtjTVdYVEZ3OU9aVEhIMmRZbVdJc0dvQWZOSGpnWWlLYUlfRTBPS3RpZEVKWGtHWkl0TjdIU0s1TUJPTWFWY0RIWnNXSkF2NHhrRlctYUlIZjAyamw1QWJzNFJxeDZVOEVVT0t0UU1KY29xNXpKTGQyT1BLaUNaaW1ubnE5TWNoRHdFR0FiQTlGS042ZER4Wk9DbGJCdG0zdmRITmtnbnVpc093bnJVVFJOWFlYcmhrUkJoRlhteA?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T17:23:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2e75bc8332c4",
+  "title": "Sandisk Stock Split Puts AI Memory Volatility Back In Focus",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcFNPNFREYjB6bndnSl9DenpLNlc0ZmhqSWFPWTZyRGdOLUVQWko5OEJCTGlRZm5KbnQtT19Ta1A0UWExLWNtQVp2SU5jZkRfUlp4Y2otMnNWRHhGanFZR2VUTlR3bVNRNjl0azNHWjdlVTR3a2k0RVJZWVU4Y0dQTldoVk1mZFhGRVpXZ2tVUWZnX0tkUUQ0?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T17:16:23Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b9549a79a60b",
+  "title": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T17:11:23Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4ebd87543633",
+  "title": "What The Bond Market Says Investors Should Do During The Stock Market Correction",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1dXYzN6Szhsb29qdERBcEpsVXNXMzdFUHFlMDk2R1BqYmNlbVhyMXFSRUFpdlRCNmo0bVNhVUJMMEltakdPN1N0dUdCX01BOWdXRV9XeXhWaGpCdnFZWEhzZzFwMDhWWllMU0t0SGhMNkkyc0t3VmZHbjhKZVhtdVhPUEttaGJtTFVKSTFBdDF4clVIVEVTM01OOUV0MTR6b1NiZkR4cUlVeTJJWEFkV1pmTEFjeW5Bd1E?oc=5",
+  "source": "Forbes",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T17:10:04Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f5d3dfb3f24e",
+  "title": "Can NEAR stabilize under persistent restrictive policy and geopolitical uncertainty affecting market conditions?",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3kta0R6WGt1UGFZNTJnVjVUVmFEN2wzdS1nRGt5alBsdFhDM3MxWnFGSl9zZlVmaTF5RVF2dkVraDMxVGV1dTBReGdXWmJYNXZ4bWRxT0d3c0gwWFNkNFlwLVU0T3Q4UjIwZC14RE0zc0NaeW03TUxwNXMtTHpaOTMycHZ5eDk0eVRBWnBpdW5PaXBQRUdlVk1LclZpamszN3c?oc=5",
+  "source": "Traders Union",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T17:04:22Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6b90b062cc83",
+  "title": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T16:52:08Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fa94c23cbdbc",
+  "title": "Stock Market Today: Jensen’s Return to Nvidia Is Causing Index Indigestion",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0p6b3VPb2Rwb1ZlWWl4V0dEd3ltcTNxNTFhdTlVVGZPNkZna2tLdS1VZTV5OWF0Q0ZUbWE1dzBvblllbzVVZ25NU1ZkTUZiaTBsSXNpLVRRb1g0cThnSGgwa2xJaUQwc291eTVhWGhKWGNfbUlXZm5MVDc2OUFsTkE5UHpoajRSV1VGMEFMMGNCWU1aTGdTYllucUswTDFLdXo1WWF5bElmTW5ZY1RDSzJNRElOWkk?oc=5",
+  "source": "24/7 Wall St.",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T16:50:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b5319d0b4160",
+  "title": "Stock Market Guru Jess Inskip Delivers Tech Sector Outlook after Monday’s Rally",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbnlLemFQTDZRWmRPcm1pUGhvZjlUclE5WHRGT0FyakprUmd4YzluVnh3c29vam1TakE5RmprQXoteFdLb1NlLTZMTm1zb20wc3B3UVpxMmRrcFdWeTB5cTVtQklrRlpSTUY0cDc2ZFpWUXM1NkI0M19senRncjNrVWhR?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T16:49:33Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "1f0a61d53a7a",
+  "title": "Wall Street May Not Be Ready for What’s Coming Next for These 3 AI Stocks",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXlKZktxUnM3QWEzOFVpR2lyamlWa2s4YUZDTV9ranRULW9sY3dHQk12ZmhkZVpuNEMzQWhjaW5ITVZrX1lqeFJ3TzNBZDhRMTRIbkFFakw5NU5wNmxSc0ZXVl9sX2hNZFY3MV9qUXJWQUFPWF9xbkpISVFlZUFiS2xuMnc4dmd3YjRYeEx1N2hEclR0?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T16:33:13Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4f442105213a",
+  "title": "Nvidia and other AI stocks get back to tumbling and drag the US market lower",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSDB6dV9ITFFDQTlpdHZrV2hLM3BNY1d2WHF2VllvdzVwRy1VZ3FETGMzeDlCTVpIVFNzZ1ZsWkdFQjlmeXRLTVJKbnEwZDFXTHU0ZlBBTzg0WUluRzJRYXFiOFZpQkxhUWxIdTFjNEZYalRVVnJDczJhRWxDVHZxRzJ2WVFPSW9IQ1ZXczdhbzkzemszbDNpSGVuU2ZraUVfM2FiYW10SElha2dYZ0pZTXFtNUczMTlkWkpJZWNuU1B0YkJTUm5MR0hyS0Z1RFBsSDdvaDVqaXdhMGRJaDV5QlhNSFN2LVdUV3N4TGNKN2ZUellhbXc?oc=5",
+  "source": "The News-Item",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T16:08:31Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "7760368b2705",
+  "title": "Stock Market Today: Stock Market News And Analysis",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T15:50:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0a7a5ccf33b3",
+  "title": "Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGd0M4QW9zNXN0SzNYREM4QWx3WDRhN19uUTV6SnhRM09idzVLMjVEcGxweUxmN1p1ZzdhcjJnamRwMm5McFdHdWhmWTJIemktUTMzTE9oZUtIMmc0eFJTNnNhT2dyT250U0gzUDlEakExR2R4TkpJ?oc=5",
+  "source": "The Boston Globe",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T15:48:19Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Economy & Fed",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "929c81bf2aea",
+  "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+  "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-24T15:40:13Z",
+  "summary": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d53820b3543b",
+  "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+  "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+  "source": "New York Times",
+  "feed": "New York Times · Business",
+  "published": "2026-11-24T15:37:35Z",
+  "summary": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
+  "categories": [
+   "Social & Consumer"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "96fc9f2ab71e",
+  "title": "Wheat Price Ukraine, 24 Nov 2026: Geopolitical Risk Returns — CMB News",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWltY3Y2V3JaSzlXaFoyb1BKTHhYZ014RzhUNWZvWUg4M0U5aUlKNlJ6Q1pzUGtFLV9NTGlBc1FrRmF2RkNvemxWREkzM3RTd2c4ekRvVXQ1Vm1XdTJzR2hhSHUzc3JOZk1maXJOZDlaZWJMRWp3WXRQN05KRGJLYmRteFlQSTc3dUZwZXgyaWF2TEhfOHVQblRYYl9oalVOandv?oc=5",
+  "source": "CMB News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T15:33:47Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f47983e629e0",
+  "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
+  "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T15:05:14Z",
+  "summary": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2b8b0d157081",
+  "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over",
+  "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-24T15:03:36Z",
+  "summary": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d36e529bf39c",
+  "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+  "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-24T14:51:58Z",
+  "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "6bc6d4e7508c",
+  "title": "Is the Stock Market in the Early Stages of a Crash?",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbm5GYVFDdDhxemRYNWZZdmJNUG43d3Y5X2FJdE1zalNlT1JYN0xkMFl1bzN1NU94c21uQUJSOVQ5TXpRUzNyeFFkYmFXTV96ZFJKR2VDMVh1YU1mR1JiS0JSTjBaUWkxaHZuZFlQcXJHN2xnRThtbWdYUXdGRTlpNzZMNHcxRXY0LWdpdVduRVFuWEdrc2dlTw?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T14:46:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "bcff468c9623",
+  "title": "As the stock market seesaws, fears of a bubble persist",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUVncWdDbmkyb3ZfR0hYcXRia2ZhVW1kSVF3X1hPZVhmekFnWlRDQ1FRdlk1M0UxSkI4UG9ZcUNLWldvUXdzTUFFTUpNSjBzbXlleEtnWFNCR3poZTdmRXNvazltd2dXeTR3YlNQTG5QS252amtPTG54akFXUldONzlybTNPV0NDVnBjTnNCZkpCaXRST0FuOGFDdEhuWXF0NHp6ckFSUQ?oc=5",
+  "source": "Los Angeles Times",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T14:30:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3ba1afeb5c01",
+  "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckhLa1BPMl9SWEVOcWxpblZDNFNIYWtYWjBzSGxrblBMUW01V3RoVklYZ3haQWFDeGk3ZnRfUHpHby13V043MUNiaW5KdTFOVHFjc1lkSTF4STFWU1o3QVlQVWduQ25KdmlqRHN4cHZJU09lbWdRZ0Q3UjNSbXg2UG1pVDJ5RjFwdGxTYXFxYkRXa3RJMDQ0b2hWWHI4eXd5V2NBWFRLakFZN3ZrM1ExWHl3bw?oc=5",
+  "source": "CNBC",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T13:53:37Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c16d81286e68",
+  "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+  "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
+  "source": "CNBC",
+  "feed": "CNBC · Politics",
+  "published": "2026-11-24T13:42:55Z",
+  "summary": "Russia accused Estonia of “hostile actions” and warned its border measures risk open war, as Tallinn prepares to close road crossings from Dec. 1.",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "d40f476b7ea4",
+  "title": "Here are Tuesday's biggest analyst calls: Anthropic, SpaceX, Nvidia, Tesla, Boeing, JetBlue & more",
+  "url": "https://www.cnbc.com/2026/11/24/tuesday-wall-street-calls-like-nvidia-anthropic.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-24T13:35:07Z",
+  "summary": "Here are Tuesday's biggest calls on Wall Street.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5b5a2db04132",
+  "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+  "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+  "source": "CNBC",
+  "feed": "CNBC · Markets / Finance",
+  "published": "2026-11-24T13:33:26Z",
+  "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5e3f4167634d",
+  "title": "AI adoption surges but earnings impact stays elusive for insurers - Marsh",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcVVtX21QLVY0UEVQcjQxNGV6eXZNVWhxY1kyQTdISXAwajh4OERxOHpXaVdmenRjRXF4NTZiU1VsNlhTN05CVnFKYnpDNzRZTU1iNXJ0UG1JX1R4cWdsYWtZNS03T1NGQ0FuNVVXaUZDVUZPbjg1aW5tRUJyMG9jQWIxTWhiMU16cWFXdmQtdF9wSm9tMWFPOWl5SHhmLWFxV0lsNlJIN2w3Y2tZYjg5THc1QzVpdzNOZllwSWJ0M1UxaElMSm5nZXU0WDlNTzJwcmp4R3lLcw?oc=5",
+  "source": "Insurance Business",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T12:52:47Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "38fb27de28b6",
+  "title": "Anthropic has room to run despite volatile start as public company, Wedbush says",
+  "url": "https://www.cnbc.com/2026/11/24/anthropic-wedbush-outperform-price-target.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-24T12:50:31Z",
+  "summary": "Wedbush initiated Anthropic at outperform with a $120 target, citing a large AI market and growing enterprise adoption.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "186ad8b9110c",
+  "title": "It's still Trump's stock market",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEWkU1djBuOW5JeXF4NDJWcFg0QWljV0tDRHJOU2dHVHNfYjY0QjNZVUN5UGRXOXhrT1c1aWNpckg2ODFUUDNFWFo3ajNpdEVSTjNrRjE4TXRQbFBNYmtaTnhhSjlObzBGUkE?oc=5",
+  "source": "Axios",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T12:44:35Z",
+  "summary": "",
+  "categories": [
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fb562fa73747",
+  "title": "Jim Cramer: A ‘rolling bear market’ is mauling US stocks, ‘ripping off the faces of everybody.’ Protect your wallet",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUmpBWG9nUUlWVWJlYkFheHZtVnRQMmNnSzR5RVNvX21ZNmxQc1Z6Rl9uUjRlUl82d1dtbGl3anRIYVdGQzg5Tl9iY3VJRG03cldBUlJLQzlTMkdEYVluc3dpTms1cnJTNjNOTnFzT2hGS2d3OER6V0RJSGx1Q2NRbThGMFZrT1JhblJMY2ZWLU5FekoxNzloQzA3NA?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T12:15:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fc6ba0fc322c",
+  "title": "CrowdStrike will continue surging thanks to strong hyperscaler demand, says Guggenheim",
+  "url": "https://www.cnbc.com/2026/11/24/crowdstrike-guggenheim-upgrade-buy.html",
+  "source": "CNBC",
+  "feed": "CNBC · Investing",
+  "published": "2026-11-24T12:05:58Z",
+  "summary": "Guggenheim upgraded CrowdStrike to buy with a $280 target, citing growth from Microsoft, AWS and other hyperscaler partnerships.",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "87c8067bcd5f",
+  "title": "Markets Slide as Tech Stocks Partly Reverse Nvidia-Sparked Rally",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNzAwNUxMLVhwWjVNV0FCN3VrS0ZaMy1DS1Q3Q1dzOVVPM19LRXNhN3djeWpQMlg4dUR1enNmaHNQV1duekxwZ1lSLVpTT3lMN281cE80VHlja0NuSG1SXzdDdU1SbWEzRWhuQmR1NzM5d0FvaE9qazJVUFJTT2M?oc=5",
+  "source": "The New York Times",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-24T12:05:47Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "10c327f9d0e3",
+  "title": "Fitch issues neutral outlook for global sovereigns in 2027 amid flat GDP growth",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaldwQ0F6OW5hTHFjRHZXZDNTd1hoYlM1TjJoZEowSS1CTzZSZXFPWHlXYlI5LVAyZjBxdE81cFVTRUozWWVGVmk3Wmc3WndqQUZLaENHLXAwUWNvTHhqR2kxWDYxOEl4YXdwRzVHbDZZcm1neC1GM2QwQmlTekRkM2ZPcElxYWxJRWhxUWwyN1F1djBXRHU2bXJ6a0tBLW85U1ZVX1BVYUR0UWs?oc=5",
+  "source": "Crypto Briefing",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T12:01:05Z",
+  "summary": "",
+  "categories": [
+   "Economy & Fed"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "fcbfbff1b9aa",
+  "title": "Futures turn red as Huang-effect fails to deliver another day of gains",
+  "url": "https://www.cnbc.com/2026/11/24/futures-turn-red-as-huang-effect-fails-to-deliver-another-day-of-gains.html",
+  "source": "CNBC",
+  "feed": "CNBC · Technology",
+  "published": "2026-11-24T11:58:45Z",
+  "summary": "Investors assess the return of Huang as investigations loom",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "efea45133a98",
+  "title": "Rep. Raja Krishnamoorthi, D-Ill., on Trump's involvement in the stock market",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObU1rZUFDVS1ZUDc3OWdUWE51VjZfdzJ4NjZCWWl0aTdLdS11eXNLUzVfUzhBUGEyZHNES0JicmdLdlZDNWU3ZTVYRkVLX19FNm13Mk0yNWZsMnVNWklzam1kanc5T0J3T3JLajRwNV83VlBWalBPTnhSR0lJcmZVM0ROT1RpUmR4MndWV1VUdEptaUE1T2JzbjlKUjI5N0kwOTJVRkM2eFltTUlhLTFHaUhKSDgzNTg?oc=5",
+  "source": "NPR",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T11:42:20Z",
+  "summary": "",
+  "categories": [
+   "Politics & Policy",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "211c43b22a5e",
+  "title": "These Technical Measures Warned of Stock Market Whiplash",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnM2YjNnajctZnkydzdDaGZtUkpDVXBpdkZDYkhnMkpkNnpsR09jU2xiaUhNTDhRSWx3cnZXYWE5V0tGUldYMkZQUjYtUElJSnJpbWN2dGtzR016TTA3cjJqLWdUV1kxUGRuQWVGMHpqdW1HVFpfdzBQZ2FtTllBUDIxRDRxTTdYa0JKb1FFaDFqb2R4V19KSHJtTHlpMEYza3c?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-24T11:10:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "916415ecd6e9",
+  "title": "Marsh warns AI payoff gap, energy costs and geopolitics will squeeze APAC insurers in 2027",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd1U4TFl3N3dRVEtSRkx3UkRoRV9EQURMV2wzVXBOOEQ1WThtRTJQSU1qd1VfaVhidkI0empOVlZBdWh5dlh3MGY1eGx6ZXVWQXowUzdmQmgxM080TEJKeUxFaC16LVBrSGxDR2QwVnBaREVzX29oLUh5Ty1JTTNiMFZUWjJKMVlRUzFkbEFYc19nZzNkd2lQenFHYkJtcDVQRXpVaVVpV1FsRGEwd1hyZ0hyczdoZWZlcDIxcl81YUs5N05oRXI4Zk9KWnNEOVBhRmRLZlRpMnFVRGlsYmhOSkRsMmtpMlZfaDViUjRR?oc=5",
+  "source": "Insurance Business",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T10:54:43Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "0e3b32da2fa3",
+  "title": "Marsh warns AI payoff gap and geopolitical risk will define 2027 for Canadian insurers",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2lCY0ExSm1ZSlJmaDVJZThvdUZldWZva0g3VTNvMU8yTkpSS0Q1QnlQRG5mLWJuRkx3eXRDRFk3OEVSeXRlUVlQWTJEM2hRUkJDUDFBSTY5VUJPX1FIUWFNYXhibEpfc1V3U0dNbDloZmRWZmRCaC1BVWRIRnJhSkw2a1pIcTJkYkl6MFAzdFlyOEttZVNTWnd3MHUxVzR0RVNJMUh3cHRmd2tFVDBwd2tzNVBseEs1aEdNVkdZdnVtaHdfT0VfNERBelFnZlhyd0JXVWRiLXN5ZkhhY3NsLXJJMTBsdi1JdVE?oc=5",
+  "source": "Insurance Business",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T10:39:41Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2014199a5c25",
+  "title": "Marsh flags AI productivity gap as 2027's defining business risk",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGdCY3E2YUc0ZGNnSHlpTHVrS2hGUEVqYzFnY3JGanJKTmxGVERJRkN1OTZwX0dPdkpfY2pUS1RrTmFaeV9QUFRXVE9TeklBekFBZmRrUnNoeHdvTk1QSFFpRFFlWTNhZV9EWEdyclNXSzlfcXp0dzVoUDVTNnRCakRwY2RmQ3hKdUN3MEV0VEFKTEkxLUxHOG9lRHpNSmR4Rm9yXzFlekJtdTlLOXBHOGxpRHZ5S1pIak1yVkJFbjZoUDhIS0ZST1ZCcw?oc=5",
+  "source": "Insurance Business",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T10:26:58Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5b1d5423f744",
+  "title": "Bentley CEO: India to be a top 10 global market in five years",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWWtLOVZIWkRrVGV6dk1iSEN5U1NwYjdudUIwT1RXZGJYaTlLOE9zdXBqTHBHVnFkcGhHLUs3MDc4TmVtQTFMODlCTWNlejZLWUpvczRtYllUYl9NVkVHRzhVTGNwRmJPUzlKRHJoeUdSTEtCN2lWYVZrUkQ5TVg1RGpMQjhZOV9LVndOSGFjR2w4ZkZpMU9PTDhGeGdvZjNUYXNrSzFGNHFoa1NrYjFfT0JvejB5NXNLZjNHdkRxb21VMjNPZ0FfaEFMNlpHVEE1Z1hHbi1nVHFHcnJybnM3cjl6MjhKdU94VlplTE83bGpBQ2pSNmJTUkhHT3ZEMUxmcmfSAYQCQVVfeXFMTXQ0eHBzbzZhLUhBaEI2UWZGSnFSaHNJdjZUbU8yLWpDbHh5NmRZcmxlRHlHYTZDQ19LQlRCcjN5bjdyNTU1dmR1NXZDZlh6NUNyTkdjZlotRGtPdGZIM3hoWnpXdnhKWFBxSE45OUQ0cVdpUk1iTkVLWnJLZW1XMWxkYktSckpOM2dwNzBCcVpjVjdGTVlJMWVFOFQ4Z0xBalMzMUVySXVBb25UVEZQdUFEbWJ2WWhHUGJaMl9sWWlpWEtfV2wtcE5WUGlqU3pxWGtNREo1SmsyX3RDNTVvYWUwc2Nxa0NZMEdmNldYUkY0YzBicXhVTHB0UVNEQlM5TFR3Tkw?oc=5",
+  "source": "Rediff.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T10:23:18Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8c610d2da180",
+  "title": "Libya Pipeline Restores Oil Flow as Brent Crude Falls Below $90 to Three-Month Low",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
+  "source": "BigGo Finance",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T08:55:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "808fae129a9b",
+  "title": "Markets cheer Huang’s return to Nvidia. CNBC anchors unpack what comes next",
+  "url": "https://www.cnbc.com/video/2026/11/24/markets-huang-return-nvidia-governance.html",
+  "source": "CNBC",
+  "feed": "CNBC · World News",
+  "published": "2026-11-24T08:53:18Z",
+  "summary": "Jensen Huang makes a sensational return as Nvidia CEO, following pressure on the board from U.S. President Donald Trump. Huang returns to the helm of one of the world's most valuable companies just 11 days after he resigned, amid scrutiny over his extramarital affairs, including…",
+  "categories": [
+   "AI & Tech",
+   "Politics & Policy"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8b12d3a51e80",
+  "title": "Navigating the volatility of a changing world order",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWTg2R2dGdEc2VmdMYlZGQ3JkYTF2NFVVTkdEVnZQXzdHOW44dUFWd3VGNkNDX1h0QVFHMi1POVhQZWZyNm10N1B5cndEUGdnbmFTNWVVZGlLNGpBc2M1TXpWcC1ZM204ZFllMnNHMGUtWEF6MGcxcFZLYWs3dVlPakc4S1B2SURVWlRrNE9kOW45OG5sZzN4QXVQRXlkaV84Q3FnN3dQY3owV1hUSjRLeEUtZVFVUQ?oc=5",
+  "source": "CommBank",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T08:06:00Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "e3c164de68be",
   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
@@ -27,6 +1770,20 @@
    "Markets & Earnings"
   ],
   "good_news": true
+ },
+ {
+  "id": "5b6d75bdc0e1",
+  "title": "Crude Oil Price Outlook, 24 Nov 2026: Futures Slide on Supply — CMB News",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUWs4U0w0RUR1dllGeS1ZVG81QmxXQ2h2TUROcUMwNEhVbldlQi1kS1pZUHViZHpWaUl0ZkZVNDJveDNrNVBvWU5Ga2FlTEcwNzNJZzcwWUxveFNaY2E4dUc2elpRamhzMTNITlZGNWJpbHhJTUFEeldNc0lBS2xveGZiNC12ZTFmMllqT0U3UzRCejRQeVpjR1JR?oc=5",
+  "source": "CMB News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T07:37:35Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
  },
  {
   "id": "5f5c0c123695",
@@ -887,5 +2644,18 @@
    "Markets & Earnings"
   ],
   "good_news": false
+ },
+ {
+  "id": "d8d60f1ce420",
+  "title": "3 Top Energy Stocks Riding the Integrated Oil & Gas Rally",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1E0TnNhWG8zYkRPenJUTHBZX0VPTUNTMWRWUHVUdjdmVXZPVWlVcEhZalBMOXJQdVBvZGp2Z0ptUDhCd3IxVTBuU1NRTW1nOG5KTjE1MkZvVWYzQU1BS2hTajNDZmU1RDloZTl2b2xKZTBDcll1R091c1hZR2lHdVVXWWVnSzY0Wm81VkRSNGthSnptUkREUFVVeUNzaFdNYVROWWdZZUZsZFkyLXFFUGZIMDA5RmhvTHNWRUF3eWRPTnZlM0pHX0JRRmtKTkR5WlRvSQ?oc=5",
+  "source": "The Globe and Mail",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-24T00:03:03Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
  }
 ]
