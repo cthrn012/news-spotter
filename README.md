@@ -17,9 +17,10 @@ A GitHub Action runs 4× every weekday and 1× on weekends, saves new stories to
 ## 📅 Daily digests
 
 <!-- DIGESTS:START -->
-**Latest:** [2026-11-26](digests/2026-11-26.md)
+**Latest:** [2026-11-27](digests/2026-11-27.md)
 
-- [2026-11-26](digests/2026-11-26.md) — 140 stories
+- [2026-11-27](digests/2026-11-27.md) — 44 stories
+- [2026-11-26](digests/2026-11-26.md) — 156 stories
 - [2026-11-25](digests/2026-11-25.md) — 217 stories
 - [2026-11-24](digests/2026-11-24.md) — 213 stories
 - [2026-11-23](digests/2026-11-23.md) — 178 stories
@@ -32,7 +33,6 @@ A GitHub Action runs 4× every weekday and 1× on weekends, saves new stories to
 - [2026-11-16](digests/2026-11-16.md) — 151 stories
 - [2026-11-15](digests/2026-11-15.md) — 91 stories
 - [2026-11-14](digests/2026-11-14.md) — 103 stories
-- [2026-11-13](digests/2026-11-13.md) — 229 stories
 <!-- DIGESTS:END -->
 
 ## 🔎 Searching the archive (great for interview prep)
