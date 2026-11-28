@@ -1,5 +1,302 @@
 [
  {
+  "id": "20575f7ee3e7",
+  "title": "Stock Market News - Bond Market - Currencies Markets",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSk1SMEVJUWVGN1RIVTEtSThObVFxbkFHTE9ySmdyRUx4NjJMNWsta3lOaFBOVFF5eUEtN0lVaXc5QlFiTEdiQVZYSQ?oc=5",
+  "source": "MarketWatch",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T23:17:16Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "18b21c84b383",
+  "title": "Rabobank Warns of Geopolitical Risk for Farmers",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGRiSWRZMjl6b0VNVHl4d0Y0bGZmZ2xQTU9WNGNxbVFBc21TU2J5elVpOVpRRlB4WmVHZEg5X2pDQWRCUmtWYjRGUXMtSmhmYmFleFhQZjZ3RlVKMS1JUU5SX09BNmRENlA3T01YYVRMNnFEU2tjbzJjc0U2dmhkQ3BhaUFmemtuNERwdnhzS25xRUxyNE1WblZhSnhrUQ?oc=5",
+  "source": "Wisevoter",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T22:53:36Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "cf1ff2ddce14",
+  "title": "Anthropic Shares Surge 11% as AI Stocks Rally — A Sharp Reversal From Below IPO Price",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUdzZfMUxJMGpiazllVEEtQUNDc19RT1BKamNycHBBaG54UzJ6c3VMZmQ1Ums4NjJheEZjTmtHQWRla05OWnljNkNNRTUwRjB0UksxNkNSYUtiUEM4bkRFOE9zaC1KTl92RHo0R0NtYTBPVmJYckE?oc=5",
+  "source": "BigGo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-27T22:25:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "f6675c3657f2",
+  "title": "Global Oil Market Disruption Heats Up As U.S. Expands Iran Oil Blockade",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXV3UTN3aEZJZVBxM18zcUVxTmV1aXl2eVVWU0xvdU8yMWFWNnZLektYTGhGTlBMa2MySGt4Nmt1N1RvNnJnWldtMjNsZ1l6cy1YSWNGN0lSTDR1QlljdkNDTkdqSkJOYmFHbUpjR2VPZUhQSUc5eDhBQjZPV0dad2F5c3ZrZmVtbXpGUXZINUlncTRVNkRnNA?oc=5",
+  "source": "LEADERSHIP Newspapers",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T22:05:19Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "ffc7af8ca835",
+  "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+  "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+  "source": "CNBC",
+  "feed": "CNBC · Top News",
+  "published": "2026-11-27T22:00:57Z",
+  "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+  "categories": [
+   "Economy & Fed",
+   "Social & Consumer"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "944d2efc9898",
+  "title": "Are AI Stocks Finally Cheap? Or Is More Pain to Come?",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2tnWF9waWFUMEhTZVpGNHpsX3dYQzJLYWt2cUhWTm15YzFnM2k2MUlsQ0VTd1VtSUxtYTg3NkZVVVZwc210THprYXBycWxJMUhTbmduR3RFMlFGRmxPcDJZWm4xd2xud25rT3NtcXlMM3ZxWTgxc1oxVElldG5RR25tU2l2SkFDRmxjNTBvUm5yUjBLNDlaVkdFZlg?oc=5",
+  "source": "Investing.com",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-27T21:52:26Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "b46a8fb850e6",
+  "title": "Morgan Stanley (MS) Laps the Stock Market: Here's Why",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODRqMFZXUXBBQ3U3Sk9Va05yNllXSEFYejNzMHVSdm1keE9jekFkRWQ3ZTk4Z21xM1ZVOWVuMmRkVW1FeGtVRVpfcFpxb01GcEJMcnFxUEFCRkdXUkF0TmlxNy1HYTNmenFHQ094R0U3ZGVHOFl2ZTMzY29OVEFzVWNYNGdia2FfQzQ0Y0YwbVRBNE5vSUgzNg?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T21:50:01Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "f424e84411aa",
+  "title": "Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDZPMVJlb0tjRWFYbWdWbjRHZi03MFR3SGwzWTktelNJTnhzYy1TNXdLd0VMcE5qbWpwSE53MV9Hb2NMcHVEOVJnVlRpZVpwYWhCSm1sX2VCZjdTTm5RZVV3MmFhXy10NUIwMUVVa1lFOHpGV1JOekEwQlhXQThRXzU5X2F4cGt4UXUwLWgtaGpKZThFazNhQ0kwLTREMnFaU2JjWUsxYTZOTXQ0RHN3MjRacDVZUFF6WE8zMFRzN1N1QmR3QjkzMWNFenBSZlhGZndR?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T21:49:43Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "e599a8f5d4ba",
+  "title": "Experts say AI stocks aren’t out of the woods yet as Huang’s hearings near",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiRmtmamp5LWlScm51NmwwZTZYMlh2aEVJd19MVHcwUVpZSWx3RXhCakNqYUZFMWRFSXNpY2FpUU05cjlFN2RCWlNrRW9XUDBFbmxMWDZJOHZDUEU?oc=5",
+  "source": "Fox Business",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-27T21:47:44Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "35460b7c3efe",
+  "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+  "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+  "source": "CNBC",
+  "feed": "CNBC · Economy",
+  "published": "2026-11-27T21:45:41Z",
+  "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+  "categories": [
+   "Economy & Fed",
+   "Social & Consumer"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "3228106cbe63",
+  "title": "Wells Fargo (WFC) Beats Stock Market Upswing: What Investors Need to Know",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXkxOGxrUFFBYVBpUnVOdV81UXBCdmxtUXd2ZnJkdnh4bjFzcWt4YU1od3R3WXlTclREQjdYN2RxUGxRT0ZKN1ROVmhxV092bGk0ZlBpMWp4SjlwWkpqeVFQOWw4aGtCb1JObEVKR3FLcmF6bFkya2tJbDVNWl9zcVFMV3JidWRhNXNHOFhUOVh3TE5hdk00?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T21:45:03Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "27a39cb5eac6",
+  "title": "Netflix (NFLX) Beats Stock Market Upswing: What Investors Need to Know",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEZGWnVIVjdSdUNFNjNDa29udFlOTjRZcEtKN0hWM09jajViXzVQcUphMF9FdTFiVm1Bc2lLWWVXN3JMbXJ5STRPWHVTcGd2UUp5Skg0dF9EVjBCc2VOM0E5Y3ZuOWxkcFRiVHczakVzUXc0bjdSc1M3amZOdEVVU3g0MHVjc0gzNXQ5a0RnY29KY1Y0aWI0Rm04a0M?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T21:45:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "b48d29f74447",
+  "title": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa01VV2lJTWEyWm1WRTJGZnA4eUQzQUhrUFRLZ1ZETmQ3NnJ1RFdrTnBzQ1BoZVpSelUyZUNaM0JUblpBUHhvRG9FZ0NxYmNjYThCQjRIby10V09SQURmWFFvNmRqV0k5TUQzR0JqbHdkWHg2R0JHNW5hYVVMWnlnLUtLX1Z4MXltRjFDejRwRWFWeEdMMDhQTUVOYw?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T21:45:02Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "82e03e1c49a0",
+  "title": "Stock Market Today, Nov. 27: S&P 500 Posts Best Week in 19 Months as AI Stocks Rebound",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2lOTVBlRXZFWDg2SUQ0MDVYejFLUUxDQUNXSEx4b2EwU2ppMThRMHpEbE4xejFXeDUwcGp5eWVrd3NtVl95NV84STE5d3hfTGt5N0dSNWFQR1pSbmVKRjNHekhwZ3lSZ2hrUG56YkpIRlNvMThPMV96VDVMZ1BhMlpFX2kzVjBISW00ZEIyZnY3R1BIVFpnYlpxZTZwZmVUY3k0aWZfVkx2Y1haVzBvTzl2ZGtMWGdlS1dkdlNJX0pVUnlPWVF6bFZOQTFvRDRFN2toWjZ2eWtNcWNMdTBSVDd3?oc=5",
+  "source": "The Motley Fool",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T21:30:16Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "c4c4ecd982ec",
+  "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+  "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-best-week-in-over-a-year-as-ai-optimism-makes-comeback/cNb6EtcR9VK?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-27T21:29:46Z",
+  "summary": "Meanwhile, the Dow Jones index recorded its best week since October 2022.",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "1e3f245bd6e3",
+  "title": "Black Friday Rally Lifts 64 of 65 AI Stocks",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iQnR4eV9ydkJadlZleURmR2RTNVdGcFVZSUUxR2FlNHc0VDVxWmlIR1p2elBZaFpnQWZka1p2QXZ5QVhGc1llVHZNVW5nNWxhUmZ0ekhsYXNTMjBVMW9TWlVTdGVGUHh3ZWRJ?oc=5",
+  "source": "www.trendingtopics.eu",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-27T21:21:02Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "baec400094b2",
+  "title": "Take This Quick Test to See How Much You Could Lose if the Stock Market Returns to 'Normal'",
+  "url": "https://www.barchart.com/story/news/9037341/take-this-quick-test-to-see-how-much-you-could-lose-if-the-stock-market-returns-to-normal?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-27T21:09:47Z",
+  "summary": "The S&P 500 has had a whale of a decade so far. What happens if the artificial, AI-driven, mega-cap momentum finally exhausts itself?",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "c24d0845264e",
+  "title": "Review & Preview: Gratitude Trade",
+  "url": "https://finance.yahoo.com/m/b4b967f3-ecb0-3cea-89c7-f0d0c38cee92/review-%26-preview%3A-gratitude.html?.tsrc=rss",
+  "source": "Yahoo Finance",
+  "feed": "Yahoo Finance · S&P 500 headlines",
+  "published": "2026-11-27T21:00:00Z",
+  "summary": "Stocks rallied on Friday, giving indexes their best week since 2008.",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "8bbc9533b191",
+  "title": "China’s Cabinet Stresses Market Support in Rare Midday Statement",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5CQ2hzYk9WT0pEN2JpTjdqdU81V2pWSkxEVmdVcy11NDhqX0RfRngwU3ZXczl6dXFkZXg3aEpPakM2ZTY4QXNJVlpiVEJ2MUs0bUF0MzVJUXd3dWtvWFJna2U2aVhYbTNmM3o1UmZBaGxZRzVCS0JwS1FMYVlUSmltWE1GTkkwdmhxMG5xYi1sNDBDLURIVExoODFYVVhHZkdaa1VyUnFTLTNw?oc=5",
+  "source": "Bloomberg.com",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T20:58:41Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "2aa4f63e0ad1",
+  "title": "AI Stocks Rebound as Dip Buyers Pile In; All Four Major U.S. Indexes Rise, Philadelphia Semiconductor Index Soars 4.69%",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFbTZxZHVubVhoWHFJY0pOZHV1eldMbGpvQ2tuMWlsbTA0cndIcHM5Wk9yS01ITkE4R3Z6Q3R3V2RmTHROQ2RMX01zN0RYQ3NQb21Obm5CUmJKU1lEczh1MkFVMTg1N3J4djVxR3lZdHl5RllydXc?oc=5",
+  "source": "BigGo Finance",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-27T20:35:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "7aa5ba64eb93",
+  "title": "Western Europe Loses on US-Iran Prediction Markets as 74% Bet on Bad Outcomes",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzlNaWhsYmFYbW9uTmVSc3Z0MWEtY3JCMm1oSnlTNi1DU2p3WmI4bnhfalNjVk5Tc2lnbTJGc0V0SExFTmtQUHZ0VDBlZVFDbjBjWWNVT0xrckhQOTBSb20xVGxPRFFXeERtMlNJMDNPTXBfLVA4STFJbWd0VGxKY3BCN1ZXeHhWaVhfSTRJNTE5b3dIdlA1WUZfWXpSNnRjZUE?oc=5",
+  "source": "Blockonomi",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T20:26:37Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3249be233d8f",
+  "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmhUS2hfSENsVnNTc1FUcmFiYjZPSndvTnpmQzVsTDktbVEtTUpPZE9oTGFhdFRkckd4Y3VUMURSeThfSVU5NGtnc2tRbzVsVmotNlVoVUhBc0ZRZ1ZsNHhaelFXbFNxRy1lTjgxbmEzQTNwVFNMT2hldC1jejN0c0VWM0NZZ3d4Vmx6RHJUdFNwTlpmUU9qT083NkVGbTBZMW0xa0hmbG1kMlBwSDRSQm13?oc=5",
+  "source": "WSJ",
+  "feed": "Google News · AI stocks",
+  "published": "2026-11-27T20:20:00Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "7fe017088cc8",
   "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
   "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
@@ -137,6 +434,19 @@
   "good_news": false
  },
  {
+  "id": "e5f203a9f0ff",
+  "title": "Sensex, Nifty decline as geopolitical tensions and rising oil prices pressure markets",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnEtOEpza2RBX1U2Z3VETVNvOG5wcW9yYXJscFY1Ql9YbjNRZDctR2thT08zclRnbzVVSmtvN29UMzdTSGY2MzBtSnFpRWhlU3lFZVRYNk13UEdRakRYR09wR28tYmJldHhDZjVOZDFwZTg4engxUVVWci1NWU5STGhNR0JtdndtX2dXU21tenhlcU9ZWUE4NGI2YWE2bFZBNFpaeXdWTnhNeHdZYlF3?oc=5",
+  "source": "DD News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T19:29:08Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
   "id": "fe45ed47808b",
   "title": "Update: Equities Climb as Dow Posts Biggest Weekly Jump Since October 2022",
   "url": "https://finance.yahoo.com/markets/stocks/articles/equities-climb-dow-posts-biggest-192733253.html?.tsrc=rss",
@@ -160,6 +470,32 @@
   "categories": [
    "AI & Tech",
    "Social & Consumer",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "5090ac542963",
+  "title": "Tanker and facility attacks support Brent crude prices as traders assess geopolitical risk",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPam1qVVFSVzJBZ3dPU3VycDU0c19pQmQ0c1ZVQ3daNGx1UHRYbzN6aWpVd21fa3lhSl94UjI0NElzSllFYWJ1YURTMzg2Mmx1YmtnazEtdTcyTjZfMTZGMXlxTjFhWFRqNmZWQjdnc3l1MnRjVmRHRXJXWm9sTTJMdXpUZjVITU8yWHFycXhB?oc=5",
+  "source": "Traders Union",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T19:17:30Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "3c998e4fd402",
+  "title": "Nasdaq Delivers Follow-Through Day In Spirit; Figs, Crocs, Netskope In Focus - Video",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QMTlBbmZja0d0a2lrSURwaGNRY0MwOTh5NE1EaGZPVlFOQW5ZNTRWdzUyQ3RHNS1wM2Y0YlVFX3dJZTNaRUZyNF91ODk?oc=5",
+  "source": "Investor's Business Daily",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T19:16:00Z",
+  "summary": "",
+  "categories": [
    "Markets & Earnings"
   ],
   "good_news": false
@@ -215,6 +551,33 @@
   "categories": [
    "AI & Tech",
    "Social & Consumer"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4048b6efd40a",
+  "title": "Taiwan, AI, and Geopolitical Stakes: Why Microchips Are the New Oil in 2026",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzdYemdGa1FWLURtQkVJUzZaelJ2MTd0cUJRdmw0eG1KOHZoQ3d3SlV5SHZWdEZWZVBINWU2bElZSndzbVhtQVIwbXZrUFc5TlVydmw3VGJBYmg1ZlZfRjdQWXZtZC1kUS1UZno0X3d2ZmhaTFA3MkNVcE4xSjFHWXQxbElMMmtnTzdHMnRFbzVTOVY0LVNveXo3ODZGQUZaSmxPMy1ROGM4UdIBqgFBVV95cUxOSzdYemdGa1FWLURtQkVJUzZaelJ2MTd0cUJRdmw0eG1KOHZoQ3d3SlV5SHZWdEZWZVBINWU2bElZSndzbVhtQVIwbXZrUFc5TlVydmw3VGJBYmg1ZlZfRjdQWXZtZC1kUS1UZno0X3d2ZmhaTFA3MkNVcE4xSjFHWXQxbElMMmtnTzdHMnRFbzVTOVY0LVNveXo3ODZGQUZaSmxPMy1ROGM4UQ?oc=5",
+  "source": "Inkorr",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T19:09:12Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "ef9baf4cc1bb",
+  "title": "KSE-100 slips 397 points on geopolitical concerns",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbG1Xd1NFRHNXS2tRb2VHd09uOHBoWlZpT2UzVEFYUlBMRVZMdG5zSlVhTlZxU1JVMXF2ZTIwWE1GenZ0OU1ZQTZKeFF4cE1rRGJ3ODAxUnZxb0JZdFluRXkyY29vdU93TmRwTXFVbzhOMHB5dG54XzV4TWFDbEFSR0ZuZFA2aXJ1OTFpaDExWQ?oc=5",
+  "source": "The News Pakistan",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T19:00:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
   ],
   "good_news": false
  },
@@ -324,6 +687,20 @@
   "summary": "US equity indexes rose as Jensen Huang's reinstatement as Nvidia's (NVDA) chief executive officer he",
   "categories": [
    "AI & Tech"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "8be8cff3995a",
+  "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnNIN21ZLWU4dTFmYXh6TnluRXFFY3cxNGJ6ZGZ3QnFTdmdVUF9POFExV01NQVM1Z2tTdW1KekwtOXlXeExfQmtWcVNLcE5TSEQ3Nnd5b0UxZVQ0SEVLeW1fOXFXbGxWVmlUaTE4SzZPQ01kaFAyS093VVlIaXRheHdiYVBnRndvUHRlaXlRYU56dmVGRkN4NkF0eC13R3k1VUk4eV94Q1YzY2R3akR6SXNMajV3RTNVQ2tHOU5QT3R1YU5JTFJ4eVRxSFlnelU1STFtSm5yRVdNUllYZ1F5UTJ4bWF2RzB5akFSNQ?oc=5",
+  "source": "Yahoo Finance",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T18:32:22Z",
+  "summary": "",
+  "categories": [
+   "AI & Tech",
+   "Markets & Earnings"
   ],
   "good_news": true
  },
@@ -1092,6 +1469,20 @@
   "good_news": false
  },
  {
+  "id": "6cffdffed478",
+  "title": "Explainer: What is China's 'national team' and can it stop the stock market slide?",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkEtbWk2dlI5cGMzU1dJM09xeERqNWMzbVlHdVlqQzRwMFFkOVotb0lrU3hkXzZjTjZ2dndJTEN3eTI4c0Y1ZEN1VV9feW01ZlkxSXlWVmVyUVNKc3RNNmdTOHR3bXVDZTNjQktKdWthaExOazJxeU40SGFwTy1zMEtlVXJsZlI3eThOLUk5QlZGZWpVLU9JeXYtRXgxWGJTQmFYZU9ScFFxNW13RU1Z?oc=5",
+  "source": "Reuters",
+  "feed": "Google News · Stock market",
+  "published": "2026-11-27T12:23:19Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
   "id": "07e7c892e4cc",
   "title": "Nasdaq futures surge as investors pile back into battered AI stocks",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWdDQm95QzhYRjdLaGp2aFVYbGQ0ZjBrSWptRHVJOTFSTXhUWHNZY2UzRXRBRXIyaldpeHVjUWF0QjNJc19mZmVvejM0UzJBenpEQ09OejVpUW1lNHlhbXRtN2Y4Y1phUFA1akNvak11T1h1dG4yYVYtN3FfT0NDYmhFenNxUEdzaFpablZoem1KVHRBeW1GTXlLa2VMektPRm1tcXhNenZVMUY1NVVj?oc=5",
@@ -1146,6 +1537,19 @@
    "Markets & Earnings"
   ],
   "good_news": true
+ },
+ {
+  "id": "f1af1de1d84b",
+  "title": "Profit Booking, Rising Crude Prices Drag Sensex Down 989 Points",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWdoVkhZekpfalN0czctWm5ERENvTlM3TnotWTNtRER4OUhtczNWMXVVZ0ZpWkpvdkEzTFQzNmI1dkx4ek11Y09pUUxucmxQaWtQVWJlcUlEc09qNC1YelBYQjdwbXJpelBLcG51NE5MNjJ6ZGFQZkJjeGlaaG5nRGJ2NHlPOFVfSFFQUHZqR3l6MHd5RXJ3R0VKdmN0bEY1dTlTYmllelRvWnlmdEU1M3ZhLURCU3VFMzd1TnRQTVpfRDdLV0F1TzFpUG1ValUtbHpQWlE2V25nUnFsZUHSAeABQVVfeXFMTUplel9ZNWhheWI3dFgxZWdxTTI5dGtvYlBPRmZveC1GQkpkcWFhYjBmb0ZxZnR4ZTRyb2RpOWJzR0hWNF9xRE5mcGkzUG4wWHZTZDVyRDRuRGlUZVFINHh0Xzc0UkQ4NEdreEtYN21aUExVWXBwZDFEZG9lN2t1dEdWSURJTUcwQ1lCUWh3czI2R0VIS1RDenFDS2pqNlNhU0RmTjZXc2NTdXhQWEtqRWhxdlpwM25iWFIzdUlvUkYyLWxoSm5rb2thR2ItR0pVQjdTM2ItUV9kUHdyWmhmTl8?oc=5",
+  "source": "Rediff.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T11:45:30Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
  },
  {
   "id": "c10ea984f3bd",
@@ -1211,6 +1615,33 @@
   "summary": "",
   "categories": [
    "AI & Tech",
+   "Markets & Earnings"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "61d535d14c6f",
+  "title": "Rupee Dips 60 Paise to 92.98 vs US Dollar Amid Oil Surge",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGQxS0xwaU5oTTZtUHhnWEZLdzZvcXFEQ1Fpck5HNFp2c0tIWEo2R1QzdXY1dWV0MVBUQzhia1Bqc0xLVVBFWWdSOV9yS3NCR09PRzNmVWdDQ1JmcENiZ0Y1bC0xbjdOUm5LVlVBWjJzaThsSTRuVWpKNk5aY3llalBwN1prTUFEZnF2cjZaemdlLUxfNTJncmdFSXF3aEJOZFZnYjhsS3BWYVIzV21tVnVn0gGyAUFVX3lxTE80ZDFLTHBpTmhNNm1QeGdYRkt3Nm9xcURDUWlyTkc0WnZzS0hYSjZHVDN1djV1ZXQxUFRDOGJrUGpzTEtVUEVZZ1I5X3JLc0JHT09HM2ZVZ0NDUmZwQ2JnRjVsLTFuN05SbktWVUFaMnNpOGxJNG5Vako2TlpjeWVqUHA3WmtNQURmcXZyNlp6Z2UtTF81MmdyZ0VJcXdoQk5kVmdiOGxLcFZhUjNXbW1WdWc?oc=5",
+  "source": "Rediff MoneyWiz",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T10:36:08Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "d90a40178d6f",
+  "title": "Ringgit ends lower vs US dollar on cautious sentiment, geopolitical risks",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWVJDSmE0Z2VMV0V0Q2dEZHdZckdWQkViU2xndnJTNVFHZk1rNV9Nd3FZWFdvODdXcUtIZjFQS2pBQ2Y0QmZnUUkwMy1DMmFfcEJpaTIyU2VwYS1MX2tPNnR0QXNVYldSckZ1WmQ3QlB3d21vYV9RaVRXR1NkbkdmRVNLVVFTTlVxZFVLMFpWZThzUkRFQm1hOWZ1Q244Zm9xQ292TWdscFRVS3k4VW5abXNsUmtpYWhsT1h3RVFDeEpGLVpZejZ3UTAxMnJaS00tZ01kbGt0cw?oc=5",
+  "source": "Free Malaysia Today",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T10:36:00Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
    "Markets & Earnings"
   ],
   "good_news": false
@@ -1386,6 +1817,72 @@
   "feed": "BBC · Business",
   "published": "2026-11-27T08:47:00Z",
   "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "27397290a04a",
+  "title": "Crude Oil Prices, 27 Nov 2026: OPEC Under US Pressure — CMB News",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWUlSaUp2U0JyVnM3UGV2M2lTQ3N3dmFGbE5QWVhCbFBlTS1QTm9XMEFUQ3dWYm9qaU81TWs1NXdRVWxqb3dyX2VzR1BPOFRCVXFqRkhkUUFZSGtGb0NiSjEwSGlrMkUyOGVpWVNicXBCMXJoMHcwWkgyNTVzejJ0d3FVUkxiU1Q3T2JjX1cwTmR4U1REbHc?oc=5",
+  "source": "CMB News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T07:49:16Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "4f38645a5123",
+  "title": "Gold jumps above Rs 1.25 lakh, silver rises 5.7% to Rs 1.54 lakh: Should investors buy now or wait?",
+  "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTktSTW02WmF0TVdLM1E1ZU9GX250bmNrZ0gxUkhsQVVQcENjWTV0MG1RN2xjZUt0M0VnR0tiUXJrT2Q5ajBMVV9iM0hTN0N5YXl4TlpDUS1VZVJERFFKM0l2NUNJWHkyV1ZORG8wT0phczYyVUpUOGVzRlZqdUhLWmVrWkhWVGdjTERHdUdjRkJEdURfUnJMNG5SWW90WjJBYUJhQkhZRWJncnM4bWhsMm82UjExSF9zenFLWFgwbWF6a3Z6UmN1YkJDY1g4bXQzVmJReGpZbGhDVXdlUGJZZVItWGdNYUlLV2t3c0JhNHpEUUYzX3R2bGI4UGxKX0t0aml30gGDAkFVX3lxTE1OS1JNbTZaYXRNV0szUTVlT0ZfbnRuY2tnSDFSSGxBVVBwQ2NZNXQwbVE3bGNlS3QzRWdHS2JRcmtPZDlqMExVX2IzSFM3Q3lheXhOWkNRLVVlUkREUUozSXY1Q0lYeTJXVk5EbzBPSmFzNjJVSlQ4ZXNGVmp1SEtaZWtaSFZUZ2NMREd1R2NGQkR1RF9Sckw0blJZb3RaMkFhQmFCSFlFYmdyczhtaGwybzZSMTFIX3N6cUtYWDBtYXprdnpSY3ViQkNjWDhtdDNWYlF4allsaENVd2VQYlllUi1YZ01hSUtXa3dzQmE0ekRRRjNfdHZsYjhQbEpfS3RqaXc?oc=5",
+  "source": "Moneycontrol.com",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T07:30:38Z",
+  "summary": "",
+  "categories": [
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "22789775ca62",
+  "title": "Gold Price Rises Amid Dollar Weakness and Geopolitical Tensions",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTVwTzVpUUlPRlRJc3FOUnRNVjg1TnBTc0dnMmN1aG04eEUwUk1vZ0QyWGIzLWVKVDRNZGNzTUJvLU9IQzNOVU9PRGc1cTVZNXRoRGF2dUNsRVBlMkxqTTBtVk1yc2dSSERGX1I4T3RuRlNzUC00S0xMOXBQaEtEZmpzcVRhdllpb3FkblNiRkxob3lUUTFHMGZPbWg?oc=5",
+  "source": "KuCoin",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T07:22:09Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics",
+   "Markets & Earnings"
+  ],
+  "good_news": true
+ },
+ {
+  "id": "e48d9d44610d",
+  "title": "Markets snap 3-day losses; elevated crude oil prices, geopolitical tensions weigh on sentiment",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeTcyTnJkSGZhYW43Ukc5RjBrYXpUSjlRRkVFSGxqbHcxalBJdk1zUVdQeGo5VndKaWdrM3NMVk1kLVhOTEpqVmdaU3dyZ1dhN3oyUWZyUkdkUmREdWtiQnRtRnZmR0o0NWJhRjkxOVQ5Mzd0UG1Yd09mRXhhQ25tcmtqeVhhb3ZIV0VXOU9QU3FKTml2UUtTMElLbmVzeWloLS1yRmFWcjJYS2pEM0FVczA3SWtCdllwUnc?oc=5",
+  "source": "DD News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T07:14:31Z",
+  "summary": "",
+  "categories": [
+   "Geopolitics"
+  ],
+  "good_news": false
+ },
+ {
+  "id": "9051871d8ae5",
+  "title": "Markets open weak; Nifty falls 109 points, Sensex drops 356 points on rising oil prices",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa21mcjg4WlpGbmFGMWhQNldGckk4VXhNam9rZkt3UGVyXzNYT3poOFhTeEVmMTlENVNybTJoREJCWkNFd21JelJaaVhtYnN3d1VyRXhxbjNQaENNbUVDZDh3SFdYTGpjYzcteDBpSi1JTFJSOWE3ajdpOVphdURSejBfbmJldEhxN1N4R096dzZhdmFfZlRUSlFORVB0UVdTdEU1OS1mTzlRVld0SUZINg?oc=5",
+  "source": "DD News",
+  "feed": "Google News · Geopolitics markets",
+  "published": "2026-11-27T06:52:55Z",
+  "summary": "",
   "categories": [
    "Geopolitics"
   ],
